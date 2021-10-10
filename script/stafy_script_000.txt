@@ -21,759 +21,760 @@
 //POINTER #0 @ $2169AC - STRING #0 @ $2747B4
 
 #WRITE(GBA,$2169AC)
-‰j‚¬‚ð ‚ê‚ñ‚µ‚ã‚¤‚µ‚È‚ª‚ç<line>
-ƒƒu‚¶‚¢‚³‚ñ‚Ì ‚Æ‚±‚ë‚Ö<line>
-‚¢‚±‚¤<wait><end>
+æ³³ãŽã‚’ ã‚Œã‚“ã—ã‚…ã†ã—ãªãŒã‚‰<line>
+ãƒ­ãƒ–ã˜ã„ã•ã‚“ã® ã¨ã“ã‚ã¸<line>
+ã„ã“ã†<wait><end>
 
 
 //POINTER #1 @ $2169B0 - STRING #1 @ $2747D8
 
 #WRITE(GBA,$2169B0)
-ƒ„ƒhƒJƒŠƒ^‚É ‚ ‚¢‚És‚±‚¤<line>
-‚Ç‚±‚É ‚¢‚é‚Ì‚©‚È?<wait><end>
+ãƒ¤ãƒ‰ã‚«ãƒªã‚¿ã« ã‚ã„ã«è¡Œã“ã†<line>
+ã©ã“ã« ã„ã‚‹ã®ã‹ãª?<wait><end>
 
 
 //POINTER #2 @ $2169B4 - STRING #2 @ $2747F5
 
 #WRITE(GBA,$2169B4)
-ƒ„ƒhƒJƒŠƒ^‚Ì ‚¢‚¦‚ð ‚³‚ª‚µ‚Ä<line>
-‚Æ‚Ç‚¯‚Ä‚ ‚°‚æ‚¤<wait><end>
+ãƒ¤ãƒ‰ã‚«ãƒªã‚¿ã® ã„ãˆã‚’ ã•ãŒã—ã¦<line>
+ã¨ã©ã‘ã¦ã‚ã’ã‚ˆã†<wait><end>
 
 
 //POINTER #3 @ $2169B8 - STRING #3 @ $274812
 
 #WRITE(GBA,$2169B8)
-‚³‚  ‚ª‚ñ‚Î‚Á‚Ä<line>
-‚Ú‚¤‚¯‚ñ‚ð ‚Í‚¶‚ß‚Ä‚Ý‚æ‚¤!<wait><end>
+ã•ã‚ ãŒã‚“ã°ã£ã¦<line>
+ã¼ã†ã‘ã‚“ã‚’ ã¯ã˜ã‚ã¦ã¿ã‚ˆã†!<wait><end>
 
 
 //POINTER #4 @ $2169BC - STRING #4 @ $27482E
 
 #WRITE(GBA,$2169BC)
-‚í‚é‚¢ƒ„ƒc‚ð ‚¨‚¢‚©‚¯‚Ä<line>
-ƒ„ƒhƒJƒŠƒ^‚Ì ‚È‚©‚Ü‚ð ‚³‚ª‚»‚¤<wait><end>
+ã‚ã‚‹ã„ãƒ¤ãƒ„ã‚’ ãŠã„ã‹ã‘ã¦<line>
+ãƒ¤ãƒ‰ã‚«ãƒªã‚¿ã® ãªã‹ã¾ã‚’ ã•ãŒãã†<wait><end>
 
 
 //POINTER #5 @ $2169C0 - STRING #5 @ $274850
 
 #WRITE(GBA,$2169C0)
-‚È‚©‚Ü‚É‚È‚Á‚½ ƒLƒ‡ƒƒXƒP‚Æ<line>
-‚¢‚Á‚µ‚å‚É<line>
-ƒnƒfƒqƒ‰ƒŠ‚ð ‚³‚ª‚µ‚¾‚»‚¤<wait><end>
+ãªã‹ã¾ã«ãªã£ãŸ ã‚­ãƒ§ãƒ­ã‚¹ã‚±ã¨<line>
+ã„ã£ã—ã‚‡ã«<line>
+ãƒãƒ‡ãƒ’ãƒ©ãƒªã‚’ ã•ãŒã—ã ãã†<wait><end>
 
 
 //POINTER #6 @ $2169C4 - STRING #6 @ $274878
 
 #WRITE(GBA,$2169C4)
-ƒUƒVƒ‡ƒEƒNƒWƒ‰‚É<line>
-ƒeƒ“ƒJƒC‚Ö‚©‚¦‚é ‚Ù‚¤‚Ù‚¤‚ð<line>
-‚«‚¢‚Ä‚Ý‚æ‚¤<wait><end>
+ã‚¶ã‚·ãƒ§ã‚¦ã‚¯ã‚¸ãƒ©ã«<line>
+ãƒ†ãƒ³ã‚«ã‚¤ã¸ã‹ãˆã‚‹ ã»ã†ã»ã†ã‚’<line>
+ãã„ã¦ã¿ã‚ˆã†<wait><end>
 
 
 //POINTER #7 @ $2169C8 - STRING #7 @ $27489C
 
 #WRITE(GBA,$2169C8)
-ƒUƒVƒ‡ƒEƒNƒWƒ‰‚É<line>
-‚Ì‚Ý‚±‚Ü‚ê‚¿‚á‚Á‚½<line>
-‚Æ‚É‚©‚­ ‚½‚ñ‚¯‚ñ‚µ‚Ä‚Ý‚æ‚¤<wait><end>
+ã‚¶ã‚·ãƒ§ã‚¦ã‚¯ã‚¸ãƒ©ã«<line>
+ã®ã¿ã“ã¾ã‚Œã¡ã‚ƒã£ãŸ<line>
+ã¨ã«ã‹ã ãŸã‚“ã‘ã‚“ã—ã¦ã¿ã‚ˆã†<wait><end>
 
 
 //POINTER #8 @ $2169CC - STRING #8 @ $2748C3
 
 #WRITE(GBA,$2169CC)
-‚¢‚ë‚ñ‚È ‚Ð‚Æ‚ð ‚½‚¸‚Ë‚½‚ç<line>
-ƒ„ƒRƒEƒJƒKƒ~‚ð ‚½‚·‚¯‚é‚Ù‚¤‚Ù‚¤‚ª<line>
-‚Ý‚Â‚©‚é‚æ<wait><end>
+ã„ã‚ã‚“ãª ã²ã¨ã‚’ ãŸãšã­ãŸã‚‰<line>
+ãƒ¤ã‚³ã‚¦ã‚«ã‚¬ãƒŸã‚’ ãŸã™ã‘ã‚‹ã»ã†ã»ã†ãŒ<line>
+ã¿ã¤ã‹ã‚‹ã‚ˆ<wait><end>
 
 
 //POINTER #9 @ $2169D0 - STRING #9 @ $2748EF
 
 #WRITE(GBA,$2169D0)
-‚ ‚Î‚ê‚Ä‚¢‚éƒ}ƒ‚ƒm‚ð ‚Æ‚Á‚¿‚ß‚Ä<line>
-ƒUƒVƒ‡ƒEƒNƒWƒ‰‚Ì ‚¨‚È‚©‚ð<line>
-‚È‚¨‚µ‚Ä‚ ‚°‚æ‚¤<wait><end>
+ã‚ã°ã‚Œã¦ã„ã‚‹ãƒžãƒ¢ãƒŽã‚’ ã¨ã£ã¡ã‚ã¦<line>
+ã‚¶ã‚·ãƒ§ã‚¦ã‚¯ã‚¸ãƒ©ã® ãŠãªã‹ã‚’<line>
+ãªãŠã—ã¦ã‚ã’ã‚ˆã†<wait><end>
 
 
 //POINTER #10 @ $2169D4 - STRING #10 @ $27491C
 
 #WRITE(GBA,$2169D4)
-ƒNƒŠƒIƒŒ‚Á‚Ä‚¢‚¤ ‚È‚©‚Ü‚ª<line>
-‚±‚ÌŠC‚É ‚¢‚é‚Í‚¸<line>
-‚³‚ª‚µ‚Ä‚Ý‚æ‚¤<wait><end>
+ã‚¯ãƒªã‚ªãƒ¬ã£ã¦ã„ã† ãªã‹ã¾ãŒ<line>
+ã“ã®æµ·ã« ã„ã‚‹ã¯ãš<line>
+ã•ãŒã—ã¦ã¿ã‚ˆã†<wait><end>
 
 
 //POINTER #11 @ $2169D8 - STRING #11 @ $274941
 
 #WRITE(GBA,$2169D8)
-•X‚Ã‚¯‚É‚³‚ê‚½ ƒNƒŠƒIƒŒ‚ð<line>
-‚³‚ª‚µ‚¾‚µ‚Ä ‚½‚·‚¯‚Ä‚ ‚°‚æ‚¤<wait><end>
+æ°·ã¥ã‘ã«ã•ã‚ŒãŸ ã‚¯ãƒªã‚ªãƒ¬ã‚’<line>
+ã•ãŒã—ã ã—ã¦ ãŸã™ã‘ã¦ã‚ã’ã‚ˆã†<wait><end>
 
 
 //POINTER #12 @ $2169DC - STRING #12 @ $274963
 
 #WRITE(GBA,$2169DC)
-‚¨‚ñ‚¹‚ñ‚Å ƒNƒŠƒIƒŒ‚Ì<line>
-•X‚ð ‚Æ‚©‚µ‚Ä‚ ‚°‚æ‚¤<wait><end>
+ãŠã‚“ã›ã‚“ã§ ã‚¯ãƒªã‚ªãƒ¬ã®<line>
+æ°·ã‚’ ã¨ã‹ã—ã¦ã‚ã’ã‚ˆã†<wait><end>
 
 
 //POINTER #13 @ $2169E0 - STRING #13 @ $27497F
 
 #WRITE(GBA,$2169E0)
-ƒNƒŠƒIƒŒ‚ð •X‚Ã‚¯‚É‚µ‚½<line>
-ƒ}ƒ‚ƒm‚ð ‚â‚Á‚Â‚¯‚æ‚¤<wait><end>
+ã‚¯ãƒªã‚ªãƒ¬ã‚’ æ°·ã¥ã‘ã«ã—ãŸ<line>
+ãƒžãƒ¢ãƒŽã‚’ ã‚„ã£ã¤ã‘ã‚ˆã†<wait><end>
 
 
 //POINTER #14 @ $2169E4 - STRING #14 @ $27499C
 
 #WRITE(GBA,$2169E4)
-‹C‚ª‚Â‚­‚Æ ‚Ó‚©[‚¢<line>
-‚¤‚Ý‚Ì‚»‚±<line>
-‚¾‚Á‚µ‚ã‚Â‚Ù‚¤‚Ù‚¤‚Í ‚ ‚é‚©‚È?<wait><end>
+æ°—ãŒã¤ãã¨ ãµã‹ãƒ¼ã„<line>
+ã†ã¿ã®ãã“<line>
+ã ã£ã—ã‚…ã¤ã»ã†ã»ã†ã¯ ã‚ã‚‹ã‹ãª?<wait><end>
 
 
 //POINTER #15 @ $2169E8 - STRING #15 @ $2749C3
 
 #WRITE(GBA,$2169E8)
-‚±‚±‚©‚ç ‚Ê‚¯‚¾‚·‚É‚Í<line>
-ƒIƒIƒ^ƒ‹ƒCƒJ‚Ì ‚½‚Ì‚Ý‚ð<line>
-‚«‚¢‚½‚Ù‚¤‚ª ‚æ‚³‚»‚¤<wait><end>
+ã“ã“ã‹ã‚‰ ã¬ã‘ã ã™ã«ã¯<line>
+ã‚ªã‚ªã‚¿ãƒ«ã‚¤ã‚«ã® ãŸã®ã¿ã‚’<line>
+ãã„ãŸã»ã†ãŒ ã‚ˆã•ãã†<wait><end>
 
 
 //POINTER #16 @ $2169EC - STRING #16 @ $2749ED
 
 #WRITE(GBA,$2169EC)
-ƒ^ƒ‹ƒCƒJ‚ª ‚Ü‚à‚Á‚Ä‚¢‚½ ƒgƒrƒ‰‚ð<line>
-‚Æ‚¨‚ê‚é‚æ‚¤‚É‚È‚Á‚½‚æ<line>
-‚½‚ñ‚¯‚ñ‚µ‚Ä‚Ý‚æ‚¤<wait><end>
+ã‚¿ãƒ«ã‚¤ã‚«ãŒ ã¾ã‚‚ã£ã¦ã„ãŸ ãƒˆãƒ“ãƒ©ã‚’<line>
+ã¨ãŠã‚Œã‚‹ã‚ˆã†ã«ãªã£ãŸã‚ˆ<line>
+ãŸã‚“ã‘ã‚“ã—ã¦ã¿ã‚ˆã†<wait><end>
 
 
 //POINTER #17 @ $2169F0 - STRING #17 @ $274A1A
 
 #WRITE(GBA,$2169F0)
-<red>w<red>ŠC<red>‚Ì<red>‚Ë<red>‚¢<red>‚ë<red>x‚ð ‚³‚ª‚µ‚¾‚µ‚Ä<line>
-ƒEƒH[ƒcƒ@ƒ‹ƒg‚É<line>
-‚Æ‚Ç‚¯‚Ä‚ ‚°‚æ‚¤<wait><end>
+<red>ã€Ž<red>æµ·<red>ã®<red>ã­<red>ã„<red>ã‚<red>ã€ã‚’ ã•ãŒã—ã ã—ã¦<line>
+ã‚¦ã‚©ãƒ¼ãƒ„ã‚¡ãƒ«ãƒˆã«<line>
+ã¨ã©ã‘ã¦ã‚ã’ã‚ˆã†<wait><end>
 
 
 //POINTER #18 @ $2169F4 - STRING #18 @ $274A4F
 
 #WRITE(GBA,$2169F4)
-ƒEƒH[ƒcƒ@ƒ‹ƒg‚Ì ‚¦‚ñ‚»‚¤‚Å<line>
-‚¶‚á‚Ü‚à‚Ì‚ª ‚¢‚È‚­‚È‚Á‚½!<line>
-oŒû‚Í ‚±‚Ìæ?<wait><end>
+ã‚¦ã‚©ãƒ¼ãƒ„ã‚¡ãƒ«ãƒˆã® ãˆã‚“ãã†ã§<line>
+ã˜ã‚ƒã¾ã‚‚ã®ãŒ ã„ãªããªã£ãŸ!<line>
+å‡ºå£ã¯ ã“ã®å…ˆ?<wait><end>
 
 
 //POINTER #19 @ $2169F8 - STRING #19 @ $274A7B
 
 #WRITE(GBA,$2169F8)
-ƒuƒ‰ƒ“ƒR‚Í ‚È‚ñ‚¾‚©ƒ`ƒ‡ƒbƒg<line>
-‚ ‚â‚µ‚¢‚¼!<line>
-‚¾‚Ü‚³‚ê‚È‚¢‚æ‚¤‚É!<wait><end>
+ãƒ–ãƒ©ãƒ³ã‚³ã¯ ãªã‚“ã ã‹ãƒãƒ§ãƒƒãƒˆ<line>
+ã‚ã‚„ã—ã„ãž!<line>
+ã ã¾ã•ã‚Œãªã„ã‚ˆã†ã«!<wait><end>
 
 
 //POINTER #20 @ $2169FC - STRING #20 @ $274AA1
 
 #WRITE(GBA,$2169FC)
-‚¤‚»‚Â‚« ƒuƒ‰ƒ“ƒR‚Í<line>
-ƒ{ƒX‚Ì Žq•ª?<line>
-‚³‚  ‚½‚¢‚¯‚Â‚É ‚Þ‚©‚¤‚ñ‚¾!<wait><end>
+ã†ãã¤ã ãƒ–ãƒ©ãƒ³ã‚³ã¯<line>
+ãƒœã‚¹ã® å­åˆ†?<line>
+ã•ã‚ ãŸã„ã‘ã¤ã« ã‚€ã‹ã†ã‚“ã !<wait><end>
 
 
 //POINTER #21 @ $216A00 - STRING #21 @ $274AC9
 
 #WRITE(GBA,$216A00)
-–Ú‚Ì‚Ü‚¦‚É ‘å‚«‚È ‚¿‚ñ‚Ú‚Â‚¹‚ñ<line>
-‚Ç‚¤‚â‚ç ’†‚ð ‚Æ‚¨‚ç‚È‚­‚¿‚á<line>
-‚¢‚¯‚È‚¢‚Ý‚½‚¢<wait><end>
+ç›®ã®ã¾ãˆã« å¤§ããª ã¡ã‚“ã¼ã¤ã›ã‚“<line>
+ã©ã†ã‚„ã‚‰ ä¸­ã‚’ ã¨ãŠã‚‰ãªãã¡ã‚ƒ<line>
+ã„ã‘ãªã„ã¿ãŸã„<wait><end>
 
 
 //POINTER #22 @ $216A04 - STRING #22 @ $274AF7
 
 #WRITE(GBA,$216A04)
-ƒJƒM‚ð 4‚Â ‚³‚ª‚µ‚Ä<line>
-ƒhƒ‹ƒtƒB[‚Ì ‚È‚©‚Ü‚ð<line>
-‚½‚·‚¯‚¾‚»‚¤!<wait><end>
+ã‚«ã‚®ã‚’ 4ã¤ ã•ãŒã—ã¦<line>
+ãƒ‰ãƒ«ãƒ•ã‚£ãƒ¼ã® ãªã‹ã¾ã‚’<line>
+ãŸã™ã‘ã ãã†!<wait><end>
 
 
 //POINTER #23 @ $216A08 - STRING #23 @ $274B1C
 
 #WRITE(GBA,$216A08)
-ƒ}ƒ‚ƒm‚É ‹C•t‚©‚ê‚½!<line>
-‚¨‚¢‚Â‚©‚ê‚È‚¢‚æ‚¤‚É<line>
-‚¢‚»‚¢‚Å ‚É‚°‚æ‚¤!<wait><end>
+ãƒžãƒ¢ãƒŽã« æ°—ä»˜ã‹ã‚ŒãŸ!<line>
+ãŠã„ã¤ã‹ã‚Œãªã„ã‚ˆã†ã«<line>
+ã„ãã„ã§ ã«ã’ã‚ˆã†!<wait><end>
 
 
 //POINTER #24 @ $216A0C - STRING #24 @ $274B43
 
 #WRITE(GBA,$216A0C)
-ƒLƒ‡ƒƒXƒP‚ª ƒKƒŒƒL‚Ì‚Þ‚±‚¤‚É<line>
-‚Ì‚±‚Á‚¿‚á‚Á‚½<line>
-‚ñ‚à‚¤ ‚µ‚©‚½‚È‚¢‚È‚ <wait><end>
+ã‚­ãƒ§ãƒ­ã‚¹ã‚±ãŒ ã‚¬ãƒ¬ã‚­ã®ã‚€ã“ã†ã«<line>
+ã®ã“ã£ã¡ã‚ƒã£ãŸ<line>
+ã‚“ã‚‚ã† ã—ã‹ãŸãªã„ãªã‚<wait><end>
 
 
 //POINTER #25 @ $216A10 - STRING #25 @ $274B6C
 
 #WRITE(GBA,$216A10)
-‚¾‚¢‚¶‚È ‚¦‚à‚Ì‚ð ‚É‚ª‚³‚ê‚Ä<line>
-ƒ{ƒX‚Í ‚¨‚±‚Á‚Ä‚¢‚é‚æ<line>
-‚¨‚¿‚Â‚¢‚Ä ‚â‚Á‚Â‚¯‚æ‚¤<wait><end>
+ã ã„ã˜ãª ãˆã‚‚ã®ã‚’ ã«ãŒã•ã‚Œã¦<line>
+ãƒœã‚¹ã¯ ãŠã“ã£ã¦ã„ã‚‹ã‚ˆ<line>
+ãŠã¡ã¤ã„ã¦ ã‚„ã£ã¤ã‘ã‚ˆã†<wait><end>
 
 
 //POINTER #26 @ $216A14 - STRING #26 @ $274B9A
 
 #WRITE(GBA,$216A14)
-‚©‚¢‚Ä‚¢‚µ‚ñ‚Å‚ñ‚É ‚Æ‚¤‚¿‚á‚­<line>
-ƒeƒ“ƒJƒC‚Ö‚Ì ‚Ä‚ª‚©‚è‚Í<line>
-‚ ‚é‚Ì‚©‚È?<wait><end>
+ã‹ã„ã¦ã„ã—ã‚“ã§ã‚“ã« ã¨ã†ã¡ã‚ƒã<line>
+ãƒ†ãƒ³ã‚«ã‚¤ã¸ã® ã¦ãŒã‹ã‚Šã¯<line>
+ã‚ã‚‹ã®ã‹ãª?<wait><end>
 
 
 //POINTER #27 @ $216A18 - STRING #27 @ $274BC3
 
 #WRITE(GBA,$216A18)
-‚©‚¢‚Ä‚¢‚µ‚ñ‚Å‚ñ‚Ì ‚Ç‚±‚©‚É‚ ‚é<line>
-<red>w<red>‚æ<red>‚°<red>‚ñ<red>‚µ<red>‚å<red>x‚ð ‚³‚ª‚µ‚¾‚µA<line>
-•½˜a‚ÈŠC‚ð ‚Æ‚è‚à‚Ç‚»‚¤<wait><end>
+ã‹ã„ã¦ã„ã—ã‚“ã§ã‚“ã® ã©ã“ã‹ã«ã‚ã‚‹<line>
+<red>ã€Ž<red>ã‚ˆ<red>ã’<red>ã‚“<red>ã—<red>ã‚‡<red>ã€ã‚’ ã•ãŒã—ã ã—ã€<line>
+å¹³å’Œãªæµ·ã‚’ ã¨ã‚Šã‚‚ã©ãã†<wait><end>
 
 
 //POINTER #28 @ $216A1C - STRING #28 @ $274C04
 
 #WRITE(GBA,$216A1C)
-‚ ‚â‚µ‚¢ƒ}ƒ‚ƒm‚É<line>
-‚Ó‚«‚Æ‚Î‚³‚ê‚½‚Á!<line>
-ƒLƒ‡ƒƒXƒP‚ÍEE‚Ç‚±?<wait><end>
+ã‚ã‚„ã—ã„ãƒžãƒ¢ãƒŽã«<line>
+ãµãã¨ã°ã•ã‚ŒãŸã£!<line>
+ã‚­ãƒ§ãƒ­ã‚¹ã‚±ã¯ãƒ»ãƒ»ã©ã“?<wait><end>
 
 
 //POINTER #29 @ $216A20 - STRING #29 @ $274C28
 
 #WRITE(GBA,$216A20)
-‚¹‚Á‚©‚­ ƒLƒ‡ƒƒXƒP‚ð‚Ý‚Â‚¯‚½‚Ì‚É<line>
-‚Ü‚½‚Ç‚±‚©‚É s‚Á‚¿‚á‚Á‚½!<line>
-‚Ð‚å‚Á‚Æ‚·‚é‚Æ ƒ‰ƒ‰ƒR‚É!?<wait><end>
+ã›ã£ã‹ã ã‚­ãƒ§ãƒ­ã‚¹ã‚±ã‚’ã¿ã¤ã‘ãŸã®ã«<line>
+ã¾ãŸã©ã“ã‹ã« è¡Œã£ã¡ã‚ƒã£ãŸ!<line>
+ã²ã‚‡ã£ã¨ã™ã‚‹ã¨ ãƒ©ãƒ©ã‚³ã«!?<wait><end>
 
 
 //POINTER #30 @ $216A24 - STRING #30 @ $274C5D
 
 #WRITE(GBA,$216A24)
-‚â‚Á‚Æ ‚Ä‚É‚¢‚ê‚½<red>w<red>‚æ<red>‚°<red>‚ñ<red>‚µ<red>‚å<red>x‚ð<line>
-‚¤‚Î‚í‚ê‚½‚æ!<line>
-‚Ü‚½ ‚ ‚Ì ‚ ‚â‚µ‚¢ƒ}ƒ‚ƒm‚¾!<wait><end>
+ã‚„ã£ã¨ ã¦ã«ã„ã‚ŒãŸ<red>ã€Ž<red>ã‚ˆ<red>ã’<red>ã‚“<red>ã—<red>ã‚‡<red>ã€ã‚’<line>
+ã†ã°ã‚ã‚ŒãŸã‚ˆ!<line>
+ã¾ãŸ ã‚ã® ã‚ã‚„ã—ã„ãƒžãƒ¢ãƒŽã !<wait><end>
 
 
 //POINTER #31 @ $216A28 - STRING #31 @ $274C9A
 
 #WRITE(GBA,$216A28)
-ƒeƒ“ƒJƒC‚É ‚É‚°‚½ ƒI[ƒOƒ‰‚ð<line>
-‚¨‚¢‚©‚¯‚æ‚¤<wait><end>
+ãƒ†ãƒ³ã‚«ã‚¤ã« ã«ã’ãŸ ã‚ªãƒ¼ã‚°ãƒ©ã‚’<line>
+ãŠã„ã‹ã‘ã‚ˆã†<wait><end>
 
 
 //POINTER #32 @ $216A2C - STRING #32 @ $274CB5
 
 #WRITE(GBA,$216A2C)
-ƒI[ƒOƒ‰‚Ì ‚Ä‚µ‚½‚ð 3‚Ñ‚«<line>
-‚â‚Á‚Â‚¯‚Ä ƒeƒ“ƒJƒC‚Ö<line>
-‚¢‚»‚²‚¤<wait><end>
+ã‚ªãƒ¼ã‚°ãƒ©ã® ã¦ã—ãŸã‚’ 3ã³ã<line>
+ã‚„ã£ã¤ã‘ã¦ ãƒ†ãƒ³ã‚«ã‚¤ã¸<line>
+ã„ãã”ã†<wait><end>
 
 
 //POINTER #33 @ $216A30 - STRING #33 @ $274CDA
 
 #WRITE(GBA,$216A30)
-‚È‚ñ‚Æ‚© ƒeƒ“ƒJƒC‚É “ü‚ê‚½‚æ<line>
-ƒI[ƒOƒ‰‚Í ‚Ç‚±‚É‚Ð‚»‚ñ‚Å<line>
-‚¢‚é‚Ì‚¾‚ë‚¤?<wait><end>
+ãªã‚“ã¨ã‹ ãƒ†ãƒ³ã‚«ã‚¤ã« å…¥ã‚ŒãŸã‚ˆ<line>
+ã‚ªãƒ¼ã‚°ãƒ©ã¯ ã©ã“ã«ã²ãã‚“ã§<line>
+ã„ã‚‹ã®ã ã‚ã†?<wait><end>
 
 
 //POINTER #34 @ $216A34 - STRING #34 @ $274D05
 
 #WRITE(GBA,$216A34)
-3‚©‚µ‚å‚É‚¢‚é ‚É‚°‚¨‚­‚ê‚½<line>
-ƒeƒ“ƒJƒC‚Ì‚È‚©‚Ü‚ð<line>
-‚Ý‚ñ‚È ‚½‚·‚¯‚Ä‚ ‚°‚æ‚¤<wait><end>
+3ã‹ã—ã‚‡ã«ã„ã‚‹ ã«ã’ãŠãã‚ŒãŸ<line>
+ãƒ†ãƒ³ã‚«ã‚¤ã®ãªã‹ã¾ã‚’<line>
+ã¿ã‚“ãª ãŸã™ã‘ã¦ã‚ã’ã‚ˆã†<wait><end>
 
 
 //POINTER #35 @ $216A38 - STRING #35 @ $274D30
 
 #WRITE(GBA,$216A38)
-‚Â‚¢‚É ƒI[ƒOƒ‰‚Æ ‚½‚¢‚¯‚Â!?<line>
-•½˜a‚ð ‚Æ‚è‚à‚Ç‚·‚ñ‚¾!<wait><end>
+ã¤ã„ã« ã‚ªãƒ¼ã‚°ãƒ©ã¨ ãŸã„ã‘ã¤!?<line>
+å¹³å’Œã‚’ ã¨ã‚Šã‚‚ã©ã™ã‚“ã !<wait><end>
 
 
 //POINTER #36 @ $216A3C - STRING #36 @ $274D52
 
 #WRITE(GBA,$216A3C)
-<red>w<red>ƒZ<red>ƒŒ<red>ƒN<red>ƒg<red>+<red>ƒX<red>ƒ^<red>[<red>ƒg<red>x‚ð‰Ÿ‚·‚Æ<line>
-‚ ‚Â‚ß‚½‚à‚Ì‚ð ƒZ[ƒu‚µ‚Ä<line>
-ƒXƒe[ƒWƒZƒŒƒNƒg‚É ‚à‚Ç‚é‚æ<wait><end>
+<red>ã€Ž<red>ã‚»<red>ãƒ¬<red>ã‚¯<red>ãƒˆ<red>+<red>ã‚¹<red>ã‚¿<red>ãƒ¼<red>ãƒˆ<red>ã€ã‚’æŠ¼ã™ã¨<line>
+ã‚ã¤ã‚ãŸã‚‚ã®ã‚’ ã‚»ãƒ¼ãƒ–ã—ã¦<line>
+ã‚¹ãƒ†ãƒ¼ã‚¸ã‚»ãƒ¬ã‚¯ãƒˆã« ã‚‚ã©ã‚‹ã‚ˆ<wait><end>
 
 
 //POINTER #37 @ $216A40 - STRING #37 @ $274630
 
 #ACTIVETBL(engTable)
 #WRITE(GBA,$216A40)
-//‚¨‚¨‚«‚È ‚¤‚Ý‚Ì ‚»‚ç‚½‚©‚­<line>
-//‚­‚à‚Ì‚¤‚¦‚É wƒeƒ“ƒJƒCx‚Æ‚¢‚¤<line>
-//‚Ö‚¢‚í‚È ‚¨‚¤‚±‚­‚ª ‚ ‚è‚Ü‚µ‚½<wait><end>
-High in the sky, there exists<line>
-a peaceful kingdom above the<line>
-clouds called, "Pufftop."<wait><end>
+//ãŠãŠããª ã†ã¿ã® ãã‚‰ãŸã‹ã<line>
+//ãã‚‚ã®ã†ãˆã« ã€Žãƒ†ãƒ³ã‚«ã‚¤ã€ã¨ã„ã†<line>
+//ã¸ã„ã‚ãª ãŠã†ã“ããŒ ã‚ã‚Šã¾ã—ãŸ<wait><end>
+High in the Sky of the large Seas<line>
+was a peaceful Kingdom above the Clouds<line>
+known as "Heaven".<wait><end>
 
 
 //POINTER #38 @ $216A44 - STRING #38 @ $274666
 
 #WRITE(GBA,$216A44)
-//  ‚»‚±‚É‚·‚Þ ƒXƒ^ƒtƒB[‚Í<line>
-//  ƒeƒ“ƒJƒC‚Ì ‰¤ŽqƒTƒ}<wait><end>
-  There lives Stafy,<line>
-  Prince of Pufftop.<wait><end>
+//  ãã“ã«ã™ã‚€ ã‚¹ã‚¿ãƒ•ã‚£ãƒ¼ã¯<line>
+//  ãƒ†ãƒ³ã‚«ã‚¤ã® çŽ‹å­ã‚µãƒž<wait><end>
+  Living there is Stafy who is<line>
+  the Great Prince of Heaven.<wait><end>
   
 
 //POINTER #39 @ $216A48 - STRING #39 @ $274686
 
 #WRITE(GBA,$216A48)
-//‚Å‚à ‚»‚»‚Á‚©‚µ‚¢‚Æ‚±‚ë‚ª‚ ‚Á‚Ä<line>
-//‚µ‚Á‚Ï‚¢‚·‚é‚±‚Æ‚à ‚½‚Ñ‚½‚Ñ<wait><end>
-Even though he frequently<line>
-makes careless blunders.<wait><end>
+//ã§ã‚‚ ããã£ã‹ã—ã„ã¨ã“ã‚ãŒã‚ã£ã¦<line>
+//ã—ã£ã±ã„ã™ã‚‹ã“ã¨ã‚‚ ãŸã³ãŸã³<wait><end>
+But nevertheless time and time again<line>
+his clumsiness is also met with mistakes.<wait><end>
 
 
 //POINTER #40 @ $216A4C - STRING #40 @ $2746AA
 
 #WRITE(GBA,$216A4C)
-//‚ ‚é“ú ‚¾‚¢‚¶‚È ‚½‚©‚ç‚à‚Ì‚ð<line>
-//‚Í‚±‚ñ‚Å‚¢‚Ü‚µ‚½‚ªEEEEEE<wait><end>
-One day he was moving<line>
-important treasure.....<wait><end>
+//ã‚ã‚‹æ—¥ ã ã„ã˜ãª ãŸã‹ã‚‰ã‚‚ã®ã‚’<line>
+//ã¯ã“ã‚“ã§ã„ã¾ã—ãŸãŒãƒ»ãƒ»ãƒ»ãƒ»ãƒ»ãƒ»<wait><end>
+Though there exists a day<line>
+important treasure was being moved.....<wait><end>
 
 
 //POINTER #41 @ $216A50 - STRING #41 @ $2746CE
 
 #WRITE(GBA,$216A50)
-//‚¤‚Á‚©‚è ‚½‚©‚ç‚à‚Ì‚ð<line>
-//‚¨‚Æ‚µ‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½<wait><end>
-He had carelessly dropped<line>
-the important treasure...<wait><end>
+//ã†ã£ã‹ã‚Š ãŸã‹ã‚‰ã‚‚ã®ã‚’<line>
+//ãŠã¨ã—ã¦ã—ã¾ã„ã¾ã—ãŸ<wait><end>
+Carelessly the important treasure<line>
+had been entirely dropped<wait><end>
 
 
 //POINTER #42 @ $216A54 - STRING #42 @ $2746E9
 
 #WRITE(GBA,$216A54)
-//  ‚· ‚é ‚Æ !<wait><end>
-  Immediately after...!<wait><end>
+//  ã™ ã‚‹ ã¨ !<wait><end>
+  T h e r e u p o n !<wait><end>
 
 
 //POINTER #43 @ $216A58 - STRING #43 @ $2746F6
 
 #WRITE(GBA,$216A58)
-//uEEEEƒƒV‚Ì‚±‚¦‚ª ‚«‚±‚¦‚é‚©?v<wait><end>
-  ...Can you hear me?<wait><end>
+//ã€Œãƒ»ãƒ»ãƒ»ãƒ»ãƒ¯ã‚·ã®ã“ãˆãŒ ãã“ãˆã‚‹ã‹?ã€<wait><end>
+  ...Can ya hear my voice?<wait><end>
 
 
 //POINTER #44 @ $216A5C - STRING #44 @ $27470D
 
 #WRITE(GBA,$216A5C)
-//u‚¨‚¨ ‚Ç‚¤‚â‚ç ‚Ô‚¶‚Ì‚æ‚¤‚¶‚á!<line>
-// ƒeƒ“ƒJƒC‚Ì ‚à‚Ì‚¶‚á‚È?<line>
-// ‚¨‚¿‚Ä—ˆ‚½‚Ì‚©‚Ì?v<wait><end>
-  It seems like the waning of great peace!<line>
-  A native from Pufftop?<line>
-  What caused you to fall?<wait><end>
+//ã€ŒãŠãŠ ã©ã†ã‚„ã‚‰ ã¶ã˜ã®ã‚ˆã†ã˜ã‚ƒ!<line>
+// ãƒ†ãƒ³ã‚«ã‚¤ã® ã‚‚ã®ã˜ã‚ƒãª?<line>
+// ãŠã¡ã¦æ¥ãŸã®ã‹ã®?ã€<wait><end>
+  Ooh well apparently you appear to be safe!<line>
+  Well of Heaven are ya?<line>
+  Ya came from falling down eh?<wait><end>
 
 
 //POINTER #45 @ $216A60 - STRING #45 @ $27473E
 
 #WRITE(GBA,$216A60)
-//u‚È‚ñ‚Æ!!ƒeƒ“ƒJƒC‚Ì‰¤Žq<line>
-// ƒXƒ^ƒtƒB[‚Æ‚È!?v<wait><end>
-  What!<line>
-  Prince Stafy of Pufftop?!<wait><end> 
+//ã€Œãªã‚“ã¨!!ãƒ†ãƒ³ã‚«ã‚¤ã®çŽ‹å­<line>
+// ã‚¹ã‚¿ãƒ•ã‚£ãƒ¼ã¨ãª!?ã€<wait><end>
+  What!! Prince of Heaven<line>
+  And Stafy huh?!<wait><end> 
 
 
 //POINTER #46 @ $216A64 - STRING #46 @ $27475C
 
 #WRITE(GBA,$216A64)
-//u‚±‚±‚Í ‚¿‚¢‚³‚È ‚µ‚Ü‚É‚ ‚é<line>
-// ƒƒV‚Ì ‚¢‚¦‚¶‚áv<wait><end>
-  This little place is my home.<wait><end>
+//ã€Œã“ã“ã¯ ã¡ã„ã•ãª ã—ã¾ã«ã‚ã‚‹<line>
+// ãƒ¯ã‚·ã® ã„ãˆã˜ã‚ƒã€<wait><end>
+  Here exists a small Island<line>
+  Well it's my home.<wait><end>
 
 
 //POINTER #47 @ $216A68 - STRING #47 @ $27477B
 
 #WRITE(GBA,$216A68)
-//uƒƒV‚Ì‚È‚Ü‚¦‚Í ƒƒu‚Æ‚¢‚¤<line>
-// ŠO‚Í‚Ü‚¾ ‚Ð‚Ç‚¢ ‚ ‚ç‚µ‚¶‚á‚©‚ç<line>
-// ‚µ‚Î‚ç‚­‚Í ‚â‚·‚ñ‚Å‚¢‚­‚ª‚æ‚¢‚¼v<wait><end>
-  My name is Rob.<line>
-  It's been a while since the beaches<line>
-  had such cruel storms.<wait><end>
+//ã€Œãƒ¯ã‚·ã®ãªã¾ãˆã¯ ãƒ­ãƒ–ã¨ã„ã†<line>
+// å¤–ã¯ã¾ã  ã²ã©ã„ ã‚ã‚‰ã—ã˜ã‚ƒã‹ã‚‰<line>
+// ã—ã°ã‚‰ãã¯ ã‚„ã™ã‚“ã§ã„ããŒã‚ˆã„ãžã€<wait><end>
+  My name is known as Lob<line>
+  Because there is still a cruel storm outside<line>
+  it's best you rest here for a while<wait><end>
 #ACTIVETBL(Table)
 
 //POINTER #48 @ $216A6C - STRING #48 @ $274D9C
 
 #WRITE(GBA,$216A6C)
-ƒI[ƒOƒ‰‚Í w‚Ó‚µ‚¬‚Èƒcƒ{x‚É<line>
-‚·‚¢‚±‚Ü‚ê‚Ä ‚¨‚Æ‚È‚µ‚­‚È‚è‚Ü‚µ‚½<line>
-‚æ‚¤‚â‚­ ‚·‚×‚Ä‚ÌŠC‚Æ ƒeƒ“ƒJƒC‚É<line>
-•½˜a‚ª ‚à‚Ç‚Á‚½‚æ‚¤‚Å‚·EEEEE<end>
+ã‚ªãƒ¼ã‚°ãƒ©ã¯ ã€Žãµã—ãŽãªãƒ„ãƒœã€ã«<line>
+ã™ã„ã“ã¾ã‚Œã¦ ãŠã¨ãªã—ããªã‚Šã¾ã—ãŸ<line>
+ã‚ˆã†ã‚„ã ã™ã¹ã¦ã®æµ·ã¨ ãƒ†ãƒ³ã‚«ã‚¤ã«<line>
+å¹³å’ŒãŒ ã‚‚ã©ã£ãŸã‚ˆã†ã§ã™ãƒ»ãƒ»ãƒ»ãƒ»ãƒ»<end>
 
 
 //POINTER #49 @ $216A70 - STRING #49 @ $274DE6
 
 #WRITE(GBA,$216A70)
-<startname>‰¤‚³‚Ü<line>
-u‚æ‚­‚¼ w‚Ó‚µ‚¬‚Èƒcƒ{x‚Ì<line>
- ‚Ð‚Ý‚Â‚ª ‚í‚©‚Á‚½‚È!v<line>
+<startname>çŽ‹ã•ã¾<line>
+ã€Œã‚ˆããž ã€Žãµã—ãŽãªãƒ„ãƒœã€ã®<line>
+ ã²ã¿ã¤ãŒ ã‚ã‹ã£ãŸãª!ã€<line>
    <clear><line>
-u‚¾‚ª ‚¨‚Ü‚¦‚ª ‚ ‚Ìƒcƒ{‚ð<line>
- ‚¨‚Æ‚µ‚½‚Ì‚ª ‚í‚é‚¢‚Ì‚¾‚¼!v<line>
+ã€Œã ãŒ ãŠã¾ãˆãŒ ã‚ã®ãƒ„ãƒœã‚’<line>
+ ãŠã¨ã—ãŸã®ãŒ ã‚ã‚‹ã„ã®ã ãž!ã€<line>
    <clear><line>
-uƒI[ƒOƒ‰‚Í ‚¢‚½‚¸‚ç‚¸‚«‚ä‚¦<line>
- ‚Ó‚¤‚¢‚ñ‚³‚ê‚Ä‚¨‚Á‚½‚Ì‚É!v<line>
+ã€Œã‚ªãƒ¼ã‚°ãƒ©ã¯ ã„ãŸãšã‚‰ãšãã‚†ãˆ<line>
+ ãµã†ã„ã‚“ã•ã‚Œã¦ãŠã£ãŸã®ã«!ã€<line>
    <clear><line>
-u‚³‚Ä ƒLƒ‡ƒƒXƒP‚æ! ƒXƒ^ƒtƒB[‚ð<line>
- ‚½‚·‚¯‚Ä‚­‚ê‚Ä ‚©‚ñ‚µ‚á‚·‚é‚¼!v<line>
+ã€Œã•ã¦ ã‚­ãƒ§ãƒ­ã‚¹ã‚±ã‚ˆ! ã‚¹ã‚¿ãƒ•ã‚£ãƒ¼ã‚’<line>
+ ãŸã™ã‘ã¦ãã‚Œã¦ ã‹ã‚“ã—ã‚ƒã™ã‚‹ãž!ã€<line>
    <clear><line>
-<startname>ƒLƒ‡ƒƒXƒP<line>
-u‚¨‚¢‚¨‚¢ ‚í‚©‚Á‚Ä‚Ë‚¦‚È!<line>
- ‚º[‚ñ‚Ô ƒIƒŒ‚³‚Ü‚Ì‚¨‚©‚°‚ÅEEv<line>
+<startname>ã‚­ãƒ§ãƒ­ã‚¹ã‚±<line>
+ã€ŒãŠã„ãŠã„ ã‚ã‹ã£ã¦ã­ãˆãª!<line>
+ ãœãƒ¼ã‚“ã¶ ã‚ªãƒ¬ã•ã¾ã®ãŠã‹ã’ã§ãƒ»ãƒ»ã€<line>
    <clear><line>
-<startname>‰¤‚³‚Ü<line>
-u‚í‚©‚Á‚½ ‚í‚©‚Á‚½!<line>
- ‚Ù‚¤‚Ñ‚É ‚Ù‚µ‚¢‚à‚Ì‚ª‚ ‚é‚©?v<line>
+<startname>çŽ‹ã•ã¾<line>
+ã€Œã‚ã‹ã£ãŸ ã‚ã‹ã£ãŸ!<line>
+ ã»ã†ã³ã« ã»ã—ã„ã‚‚ã®ãŒã‚ã‚‹ã‹?ã€<line>
    <clear><line>
-<startname>ƒLƒ‡ƒƒXƒP<line>
-u‚à‚¿‚ë‚ñ ƒeƒ“ƒJƒC‚Ì ‚¨‚½‚©‚ç!v<line>
+<startname>ã‚­ãƒ§ãƒ­ã‚¹ã‚±<line>
+ã€Œã‚‚ã¡ã‚ã‚“ ãƒ†ãƒ³ã‚«ã‚¤ã® ãŠãŸã‹ã‚‰!ã€<line>
    <clear><line>
-<startname>‰¤‚³‚Ü<line>
-u‚Ù‚¤ ‚»‚¤‚©!<line>
- ƒXƒ^ƒtƒB[ ‚à‚Á‚Ä‚«‚È‚³‚¢!v<end>
+<startname>çŽ‹ã•ã¾<line>
+ã€Œã»ã† ãã†ã‹!<line>
+ ã‚¹ã‚¿ãƒ•ã‚£ãƒ¼ ã‚‚ã£ã¦ããªã•ã„!ã€<end>
 
 
 //POINTER #50 @ $216A74 - STRING #50 @ $274F3D
 
 #WRITE(GBA,$216A74)
-<startname>‰¤‚³‚Ü<line>
-u‚È‚ñ‚Æ! ‚½‚©‚ç‚Î‚±‚ð ‚º‚ñ‚Ô<line>
- ŠC‚É ‚¨‚Æ‚µ‚½‚Æ‚¢‚¤‚Ì‚©!?v<end>
+<startname>çŽ‹ã•ã¾<line>
+ã€Œãªã‚“ã¨! ãŸã‹ã‚‰ã°ã“ã‚’ ãœã‚“ã¶<line>
+ æµ·ã« ãŠã¨ã—ãŸã¨ã„ã†ã®ã‹!?ã€<end>
 
 
 //POINTER #51 @ $216A78 - STRING #51 @ $274F68
 
 #WRITE(GBA,$216A78)
-<startname>ƒLƒ‡ƒƒXƒP<line>
-uƒIƒCƒb! ƒzƒ“ƒg‚©!? ƒIƒŒ‚³‚Ü‚Ì<line>
- ‚¨‚½‚©‚ç ‚Ç‚¤‚·‚ñ‚¾!v<end>
+<startname>ã‚­ãƒ§ãƒ­ã‚¹ã‚±<line>
+ã€Œã‚ªã‚¤ãƒƒ! ãƒ›ãƒ³ãƒˆã‹!? ã‚ªãƒ¬ã•ã¾ã®<line>
+ ãŠãŸã‹ã‚‰ ã©ã†ã™ã‚“ã !ã€<end>
 
 
 //POINTER #52 @ $216A7C - STRING #52 @ $274F94
 
 #WRITE(GBA,$216A7C)
-<startname>‰¤‚³‚Ü<line>
-u‚Ù‚¤‚Ñ‚Ì ‚Í‚È‚µ‚Í ‚½‚©‚ç‚Î‚±‚ð<line>
- ‚º‚ñ‚Ô ‚ ‚Â‚ß‚Ä‚©‚ç‚Æ‚µ‚æ‚¤v<end>
+<startname>çŽ‹ã•ã¾<line>
+ã€Œã»ã†ã³ã® ã¯ãªã—ã¯ ãŸã‹ã‚‰ã°ã“ã‚’<line>
+ ãœã‚“ã¶ ã‚ã¤ã‚ã¦ã‹ã‚‰ã¨ã—ã‚ˆã†ã€<end>
 
 
 //POINTER #53 @ $216A80 - STRING #53 @ $274FC0
 
 #WRITE(GBA,$216A80)
-<startname>ƒLƒ‡ƒƒXƒP<line>
-uƒG[ƒb!! ‚¿‚Á‚­‚µ‚å[EEEEv<end>
+<startname>ã‚­ãƒ§ãƒ­ã‚¹ã‚±<line>
+ã€Œã‚¨ãƒ¼ãƒƒ!! ã¡ã£ãã—ã‚‡ãƒ¼ãƒ»ãƒ»ãƒ»ãƒ»ã€<end>
 
 
 //POINTER #54 @ $216A84 - STRING #54 @ $274FDD
 
 #WRITE(GBA,$216A84)
-u‚¢‚»‚¢‚Å ‚³‚ª‚µ‚É‚¢‚­‚¼!<line>
- ƒIƒ‰ƒIƒ‰!v<end>
+ã€Œã„ãã„ã§ ã•ãŒã—ã«ã„ããž!<line>
+ ã‚ªãƒ©ã‚ªãƒ©!ã€<end>
 
 
 //POINTER #55 @ $216A88 - STRING #55 @ $274FF6
 
 #WRITE(GBA,$216A88)
-wƒRƒRƒJƒ‰EEEƒ_ƒZEEE<line>
-  EEƒ}ƒ_ƒ}ƒ_EEƒ^ƒNƒTƒ“EEE<line>
-    ƒCƒ^ƒYƒ‰ƒVƒeƒ„ƒ‹EEEx<end>
+ã€Žã‚³ã‚³ã‚«ãƒ©ãƒ»ãƒ»ãƒ»ãƒ€ã‚»ãƒ»ãƒ»ãƒ»<line>
+  ãƒ»ãƒ»ãƒžãƒ€ãƒžãƒ€ãƒ»ãƒ»ã‚¿ã‚¯ã‚µãƒ³ãƒ»ãƒ»ãƒ»<line>
+    ã‚¤ã‚¿ã‚ºãƒ©ã‚·ãƒ†ãƒ¤ãƒ«ãƒ»ãƒ»ãƒ»ã€<end>
 
 
 //POINTER #56 @ $216A8C - STRING #56 @ $27502A
 
 #WRITE(GBA,$216A8C)
-‚Ü‚½ ƒI[ƒOƒ‰‚ð ‚±‚ç‚µ‚ß‚Ä<line>
-w‚Ó‚µ‚¬‚Èƒcƒ{x‚É<line>
-‚Ó‚¤‚¶‚±‚ß‚é‚±‚Æ‚ª ‚Å‚«‚Ü‚µ‚½<end>
+ã¾ãŸ ã‚ªãƒ¼ã‚°ãƒ©ã‚’ ã“ã‚‰ã—ã‚ã¦<line>
+ã€Žãµã—ãŽãªãƒ„ãƒœã€ã«<line>
+ãµã†ã˜ã“ã‚ã‚‹ã“ã¨ãŒ ã§ãã¾ã—ãŸ<end>
 
 
 //POINTER #57 @ $216A90 - STRING #57 @ $275056
 
 #WRITE(GBA,$216A90)
-<startname>‰¤‚³‚Ü<line>
-u‚æ‚­‚â‚Á‚½‚Æ ‚¢‚¢‚½‚¢‚ªEEEE<line>
- ‚È‚º ƒI[ƒOƒ‰‚Í ‚É‚°‚½‚Ì‚¾?v<line>
+<startname>çŽ‹ã•ã¾<line>
+ã€Œã‚ˆãã‚„ã£ãŸã¨ ã„ã„ãŸã„ãŒãƒ»ãƒ»ãƒ»ãƒ»<line>
+ ãªãœ ã‚ªãƒ¼ã‚°ãƒ©ã¯ ã«ã’ãŸã®ã ?ã€<line>
    <clear><line>
-<startname>ƒLƒ‡ƒƒXƒP<line>
-u’m‚ç‚Ë‚¦‚È‚Ÿ ƒ}ƒkƒP‚Èƒ„ƒc‚ª<line>
- ‚¤‚Á‚©‚è ƒcƒ{‚ð ‚¨‚Æ‚µ‚½‚ñ‚¾‚ë?v<line>
+<startname>ã‚­ãƒ§ãƒ­ã‚¹ã‚±<line>
+ã€ŒçŸ¥ã‚‰ã­ãˆãªã ãƒžãƒŒã‚±ãªãƒ¤ãƒ„ãŒ<line>
+ ã†ã£ã‹ã‚Š ãƒ„ãƒœã‚’ ãŠã¨ã—ãŸã‚“ã ã‚?ã€<line>
    <clear><line>
-<startname>‰¤‚³‚Ü<line>
-u‚»‚¤‚©‚à‚µ‚ê‚ñ ‚«‚ð‚Â‚¯‚Ë‚Î‚È!<line>
- ‚Æ‚±‚ë‚ÅƒXƒ^ƒtƒB[!v<end>
+<startname>çŽ‹ã•ã¾<line>
+ã€Œãã†ã‹ã‚‚ã—ã‚Œã‚“ ãã‚’ã¤ã‘ã­ã°ãª!<line>
+ ã¨ã“ã‚ã§ã‚¹ã‚¿ãƒ•ã‚£ãƒ¼!ã€<end>
 
 
 //POINTER #58 @ $216A94 - STRING #58 @ $2750E8
 
 #WRITE(GBA,$216A94)
-u‚¨‚Æ‚µ‚½ ‚½‚©‚ç‚Î‚±‚ð<line>
- ‚Ü‚¾ ‚ ‚Â‚ß‚«‚Á‚Ä‚¨‚ç‚ñ‚Å‚Í‚È‚¢‚©!<line>
- ‚Í‚â‚­ ‚³‚ª‚·‚Ì‚¾!v<end>
+ã€ŒãŠã¨ã—ãŸ ãŸã‹ã‚‰ã°ã“ã‚’<line>
+ ã¾ã  ã‚ã¤ã‚ãã£ã¦ãŠã‚‰ã‚“ã§ã¯ãªã„ã‹!<line>
+ ã¯ã‚„ã ã•ãŒã™ã®ã !ã€<end>
 
 
 //POINTER #59 @ $216A98 - STRING #59 @ $275119
 
 #WRITE(GBA,$216A98)
-<startname>ƒLƒ‡ƒƒXƒP<line>
-u‚È‚É? ‚¨‚¢ ƒXƒ^ƒtƒB[!<line>
- ‚Ü‚¾ ‚ ‚Â‚Ü‚Á‚Ä‚È‚¢‚¾‚Æ!?v<end>
+<startname>ã‚­ãƒ§ãƒ­ã‚¹ã‚±<line>
+ã€Œãªã«? ãŠã„ ã‚¹ã‚¿ãƒ•ã‚£ãƒ¼!<line>
+ ã¾ã  ã‚ã¤ã¾ã£ã¦ãªã„ã ã¨!?ã€<end>
 
 
 //POINTER #60 @ $216A9C - STRING #60 @ $275144
 
 #WRITE(GBA,$216A9C)
-uEEEƒoƒJƒ„ƒ[! ƒIƒŒ‚³‚Ü‚ª<line>
- ‚à‚ç‚¤‚±‚Æ‚É‚È‚Á‚Ä‚ñ‚¾!<line>
- ‚Í‚â‚­‚³‚ª‚¹‚Á! ƒIƒ‰ƒIƒ‰ƒb!v<end>
+ã€Œãƒ»ãƒ»ãƒ»ãƒã‚«ãƒ¤ãƒ­ãƒ¼! ã‚ªãƒ¬ã•ã¾ãŒ<line>
+ ã‚‚ã‚‰ã†ã“ã¨ã«ãªã£ã¦ã‚“ã !<line>
+ ã¯ã‚„ãã•ãŒã›ã£! ã‚ªãƒ©ã‚ªãƒ©ãƒƒ!ã€<end>
 
 
 //POINTER #61 @ $216AA0 - STRING #61 @ $275178
 
 #WRITE(GBA,$216AA0)
-wƒN ƒNƒ\EEEEE<line>
- EEEƒ}ƒ^ ƒVƒNƒWƒbƒ^ƒJEEE<line>
- ƒ‚ƒEƒCƒ`ƒh ƒ`ƒƒƒ“ƒXƒK ƒAƒŒƒox<end>
+ã€Žã‚¯ ã‚¯ã‚½ãƒ»ãƒ»ãƒ»ãƒ»ãƒ»<line>
+ ãƒ»ãƒ»ãƒ»ãƒžã‚¿ ã‚·ã‚¯ã‚¸ãƒƒã‚¿ã‚«ãƒ»ãƒ»ãƒ»<line>
+ ãƒ¢ã‚¦ã‚¤ãƒãƒ‰ ãƒãƒ£ãƒ³ã‚¹ã‚¬ ã‚¢ãƒ¬ãƒã€<end>
 
 
 //POINTER #62 @ $216AA4 - STRING #62 @ $2751A9
 
 #WRITE(GBA,$216AA4)
-‚Ü‚½ ƒI[ƒOƒ‰‚ð ‚±‚ç‚µ‚ß‚Ä<line>
-w‚Ó‚µ‚¬‚Èƒcƒ{x‚É<line>
-‚Ó‚¤‚¶‚±‚ß‚é‚±‚Æ‚ª ‚Å‚«‚Ü‚µ‚½<end>
+ã¾ãŸ ã‚ªãƒ¼ã‚°ãƒ©ã‚’ ã“ã‚‰ã—ã‚ã¦<line>
+ã€Žãµã—ãŽãªãƒ„ãƒœã€ã«<line>
+ãµã†ã˜ã“ã‚ã‚‹ã“ã¨ãŒ ã§ãã¾ã—ãŸ<end>
 
 
 //POINTER #63 @ $216AA8 - STRING #63 @ $2751D5
 
 #WRITE(GBA,$216AA8)
-<startname>‰¤‚³‚Ü<line>
-u‚Æ‚¤‚Æ‚¤ ‚·‚×‚Ä‚Ì ‚½‚©‚ç‚Î‚±‚ð<line>
- ‚ ‚Â‚ß‚½‚©EEE‚æ‚­‚â‚Á‚½!v<end>
+<startname>çŽ‹ã•ã¾<line>
+ã€Œã¨ã†ã¨ã† ã™ã¹ã¦ã® ãŸã‹ã‚‰ã°ã“ã‚’<line>
+ ã‚ã¤ã‚ãŸã‹ãƒ»ãƒ»ãƒ»ã‚ˆãã‚„ã£ãŸ!ã€<end>
 
 
 //POINTER #64 @ $216AAC - STRING #64 @ $275201
 
 #WRITE(GBA,$216AAC)
-u‚µ‚©‚µ ƒLƒ‡ƒƒXƒP‚æ!<line>
- ‚¹‚Á‚©‚­ ‚Ó‚¤‚¶‚±‚ß‚½ ƒI[ƒOƒ‰‚ð<line>
- ‚É‚ª‚µ‚½‚Ì‚Í ‚¨‚Ê‚µ‚¾‚¼!!v<line>
+ã€Œã—ã‹ã— ã‚­ãƒ§ãƒ­ã‚¹ã‚±ã‚ˆ!<line>
+ ã›ã£ã‹ã ãµã†ã˜ã“ã‚ãŸ ã‚ªãƒ¼ã‚°ãƒ©ã‚’<line>
+ ã«ãŒã—ãŸã®ã¯ ãŠã¬ã—ã ãž!!ã€<line>
     <clear><line>
-<startname>ƒLƒ‡ƒƒXƒP<line>
-uEE‚»‚¤‚¢‚â ƒcƒ{‚É ‚Ô‚Â‚©‚Á‚½‚È<line>
- ‚Ü ‚Ü‚ EEE‚¨‚í‚Á‚½ƒRƒg‚¾!v<end>
+<startname>ã‚­ãƒ§ãƒ­ã‚¹ã‚±<line>
+ã€Œãƒ»ãƒ»ãã†ã„ã‚„ ãƒ„ãƒœã« ã¶ã¤ã‹ã£ãŸãª<line>
+ ã¾ ã¾ã‚ãƒ»ãƒ»ãƒ»ãŠã‚ã£ãŸã‚³ãƒˆã !ã€<end>
 
 
 //POINTER #65 @ $216AB0 - STRING #65 @ $27526D
 
 #WRITE(GBA,$216AB0)
-u‚»‚ñ‚ÈƒRƒg‚æ‚èEEE<line>
- ‚³‚  ‚¨‚½‚©‚ç‚ð ‚æ‚±‚¹‚Á!<line>
- ¡‚·‚® ‚æ‚±‚¹‚Á!v<end>
+ã€Œãã‚“ãªã‚³ãƒˆã‚ˆã‚Šãƒ»ãƒ»ãƒ»<line>
+ ã•ã‚ ãŠãŸã‹ã‚‰ã‚’ ã‚ˆã“ã›ã£!<line>
+ ä»Šã™ã ã‚ˆã“ã›ã£!ã€<end>
 
 
 //POINTER #66 @ $216AB4 - STRING #66 @ $275298
 
 #WRITE(GBA,$216AB4)
-<startname>‰¤‚³‚Ü<line>
-uEEE‚æ‚©‚Á‚½‚È ƒXƒ^ƒtƒB[!v<line>
+<startname>çŽ‹ã•ã¾<line>
+ã€Œãƒ»ãƒ»ãƒ»ã‚ˆã‹ã£ãŸãª ã‚¹ã‚¿ãƒ•ã‚£ãƒ¼!ã€<line>
     <clear><line>
-uƒLƒ‡ƒƒXƒP‚Í ‚¨‚Ü‚¦‚Ì ‚¯‚ç‚¢‚É<line>
- ‚È‚Á‚Ä‚­‚ê‚é‚ç‚µ‚¢!v<line>
+ã€Œã‚­ãƒ§ãƒ­ã‚¹ã‚±ã¯ ãŠã¾ãˆã® ã‘ã‚‰ã„ã«<line>
+ ãªã£ã¦ãã‚Œã‚‹ã‚‰ã—ã„!ã€<line>
     <clear><line>
-<startname>ƒLƒ‡ƒƒXƒP<line>
-u‚È‚É‚ð ‚¢‚Á‚Ä‚ñ‚¾?<line>
- EEEE‚»‚ñ‚ÈƒƒP ‚Ë[‚¾‚ë?v<line>
+<startname>ã‚­ãƒ§ãƒ­ã‚¹ã‚±<line>
+ã€Œãªã«ã‚’ ã„ã£ã¦ã‚“ã ?<line>
+ ãƒ»ãƒ»ãƒ»ãƒ»ãã‚“ãªãƒ¯ã‚± ã­ãƒ¼ã ã‚?ã€<line>
     <clear><line>
-<startname>‰¤‚³‚Ü<line>
-u‚½‚©‚ç‚Í ‰¤‚É‚Â‚©‚¦‚é<line>
- ‚¯‚ç‚¢‚½‚¿‚Ì ‚ ‚©‚µ!v<line>
+<startname>çŽ‹ã•ã¾<line>
+ã€ŒãŸã‹ã‚‰ã¯ çŽ‹ã«ã¤ã‹ãˆã‚‹<line>
+ ã‘ã‚‰ã„ãŸã¡ã® ã‚ã‹ã—!ã€<line>
     <clear><line>
-u‚¯‚ç‚¢‚É‚µ‚© ‚à‚Â‚±‚Æ‚Í‚Å‚«‚ñ<line>
- EEE’m‚ç‚È‚©‚Á‚½‚©?v<end>
+ã€Œã‘ã‚‰ã„ã«ã—ã‹ ã‚‚ã¤ã“ã¨ã¯ã§ãã‚“<line>
+ ãƒ»ãƒ»ãƒ»çŸ¥ã‚‰ãªã‹ã£ãŸã‹?ã€<end>
 
 
 //POINTER #67 @ $216AB8 - STRING #67 @ $275361
 
 #WRITE(GBA,$216AB8)
-<startname>ƒLƒ‡ƒƒXƒP<line>
-u‚È ‚È‚ñ‚Å ƒIƒŒ‚³‚Ü‚ª<line>
- ƒRƒCƒc‚Ì ‚¯‚ç‚¢‚È‚ñ‚©‚É!v<line>
+<startname>ã‚­ãƒ§ãƒ­ã‚¹ã‚±<line>
+ã€Œãª ãªã‚“ã§ ã‚ªãƒ¬ã•ã¾ãŒ<line>
+ ã‚³ã‚¤ãƒ„ã® ã‘ã‚‰ã„ãªã‚“ã‹ã«!ã€<line>
     <clear><line>
-u‚â‚Á‚Ï‚è ƒIƒƒF‚Æ‚¢‚é‚Æ<line>
- ‚ë‚­‚È‚±‚Æ‚ª‚Ë‚¦‚Á!<line>
- EEE‚Ç‚¤‚µ‚Ä‚­‚ê‚é‚ñ‚¾‚æ‚Á!v<end>
+ã€Œã‚„ã£ã±ã‚Š ã‚ªãƒ¡ã‚§ã¨ã„ã‚‹ã¨<line>
+ ã‚ããªã“ã¨ãŒã­ãˆã£!<line>
+ ãƒ»ãƒ»ãƒ»ã©ã†ã—ã¦ãã‚Œã‚‹ã‚“ã ã‚ˆã£!ã€<end>
 
 
 //POINTER #68 @ $216ABC - STRING #68 @ $2753C0
 
 #WRITE(GBA,$216ABC)
-wƒ‚ƒEƒCƒ`ƒh ƒ_ƒŒƒJ ƒRƒmƒcƒ{ƒ’<line>
- ƒcƒLƒgƒoƒVƒeƒNƒŒƒiƒCƒJƒi?x<end>
+ã€Žãƒ¢ã‚¦ã‚¤ãƒãƒ‰ ãƒ€ãƒ¬ã‚« ã‚³ãƒŽãƒ„ãƒœãƒ²<line>
+ ãƒ„ã‚­ãƒˆãƒã‚·ãƒ†ã‚¯ãƒ¬ãƒŠã‚¤ã‚«ãƒŠ?ã€<end>
 
 
 //POINTER #69 @ $216AC0 - STRING #69 @ $2753E3
 
 #WRITE(GBA,$216AC0)
-wEEEEEEEEEEEEEEEx<end>
+ã€Žãƒ»ãƒ»ãƒ»ãƒ»ãƒ»ãƒ»ãƒ»ãƒ»ãƒ»ãƒ»ãƒ»ãƒ»ãƒ»ãƒ»ãƒ»ã€<end>
 
 
 //POINTER #70 @ $216AC4 - STRING #70 @ $2778D0
 
 #ACTIVETBL(engTable)
 #WRITE(GBA,$216AC4)
-//wƒƒu‚Ì‚Ç‚¤‚­‚Âx<end>
+//ã€Žãƒ­ãƒ–ã®ã©ã†ãã¤ã€<end>
 Rob's Cave<end>
 #ACTIVETBL(Table)
 
 //POINTER #71 @ $216AC8 - STRING #71 @ $2778DB
 
 #WRITE(GBA,$216AC8)
-wƒTƒ“ƒSƒVƒ‡ƒEx<end>
+ã€Žã‚µãƒ³ã‚´ã‚·ãƒ§ã‚¦ã€<end>
 
 
 //POINTER #72 @ $216ACC - STRING #72 @ $2778E5
 
 #WRITE(GBA,$216ACC)
-wƒUƒVƒ‡ƒEƒNƒWƒ‰x<end>
+ã€Žã‚¶ã‚·ãƒ§ã‚¦ã‚¯ã‚¸ãƒ©ã€<end>
 
 
 //POINTER #73 @ $216AD0 - STRING #73 @ $2778F0
 
 #WRITE(GBA,$216AD0)
-w•X‚ÌŠCx<end>
+ã€Žæ°·ã®æµ·ã€<end>
 
 
 //POINTER #74 @ $216AD4 - STRING #74 @ $2778F7
 
 #WRITE(GBA,$216AD4)
-w‚Ó‚©‚¢ŠCx<end>
+ã€Žãµã‹ã„æµ·ã€<end>
 
 
 //POINTER #75 @ $216AD8 - STRING #75 @ $2778FF
 
 #WRITE(GBA,$216AD8)
-w‚¿‚ñ‚Ú‚Â‚¹‚ñx<end>
+ã€Žã¡ã‚“ã¼ã¤ã›ã‚“ã€<end>
 
 
 //POINTER #76 @ $216ADC - STRING #76 @ $277909
 
 #WRITE(GBA,$216ADC)
-w‚©‚¢‚Ä‚¢‚µ‚ñ‚Å‚ñx<end>
+ã€Žã‹ã„ã¦ã„ã—ã‚“ã§ã‚“ã€<end>
 
 
 //POINTER #77 @ $216AE0 - STRING #77 @ $277915
 
 #WRITE(GBA,$216AE0)
-w‚»‚ç‚ÌŠCx<end>
+ã€Žãã‚‰ã®æµ·ã€<end>
 
 
 //POINTER #78 @ $216AE4 - STRING #78 @ $27791D
 
 #WRITE(GBA,$216AE4)
-wƒeƒ“ƒJƒCx<end>
+ã€Žãƒ†ãƒ³ã‚«ã‚¤ã€<end>
 
 
 //POINTER #79 @ $216AE8 - STRING #79 @ $2754F4
 
 #WRITE(GBA,$216AE8)
-ƒI[ƒvƒjƒ“ƒOƒfƒ‚<line>
-ŠC‚Ì‚Ë‚¢‚ë<line>
-ƒtƒ@ƒCƒ‹ƒZƒŒƒNƒg<line>
-ƒƒu‚Ì‚Ç‚¤‚­‚Â<line>
-ƒTƒ“ƒSƒVƒ‡ƒE<end>
+ã‚ªãƒ¼ãƒ—ãƒ‹ãƒ³ã‚°ãƒ‡ãƒ¢<line>
+æµ·ã®ã­ã„ã‚<line>
+ãƒ•ã‚¡ã‚¤ãƒ«ã‚»ãƒ¬ã‚¯ãƒˆ<line>
+ãƒ­ãƒ–ã®ã©ã†ãã¤<line>
+ã‚µãƒ³ã‚´ã‚·ãƒ§ã‚¦<end>
 
 
 //POINTER #80 @ $216AEC - STRING #80 @ $275520
 
 #WRITE(GBA,$216AEC)
-ƒUƒVƒ‡ƒEƒNƒWƒ‰<line>
-•X‚ÌŠC<line>
-‚Ó‚©‚¢ŠC<line>
-‚¿‚ñ‚Ú‚Â‚¹‚ñ<line>
-‚©‚¢‚Ä‚¢‚µ‚ñ‚Å‚ñ<end>
+ã‚¶ã‚·ãƒ§ã‚¦ã‚¯ã‚¸ãƒ©<line>
+æ°·ã®æµ·<line>
+ãµã‹ã„æµ·<line>
+ã¡ã‚“ã¼ã¤ã›ã‚“<line>
+ã‹ã„ã¦ã„ã—ã‚“ã§ã‚“<end>
 
 
 //POINTER #81 @ $216AF0 - STRING #81 @ $275546
 
 #WRITE(GBA,$216AF0)
-‚»‚ç‚ÌŠC<line>
-ƒeƒ“ƒJƒC<line>
-‚©‚¢‚í‚ª‚ß‚ñ1<line>
-‚©‚¢‚í‚ª‚ß‚ñ2<line>
-‚©‚¢‚í‚ª‚ß‚ñ3<end>
+ãã‚‰ã®æµ·<line>
+ãƒ†ãƒ³ã‚«ã‚¤<line>
+ã‹ã„ã‚ãŒã‚ã‚“1<line>
+ã‹ã„ã‚ãŒã‚ã‚“2<line>
+ã‹ã„ã‚ãŒã‚ã‚“3<end>
 
 
 //POINTER #82 @ $216AF4 - STRING #82 @ $27556D
 
 #WRITE(GBA,$216AF4)
-‚©‚¢‚í‚ª‚ß‚ñ4<line>
-ƒmƒ‹ƒ}‚½‚Á‚¹‚¢<line>
-ƒ{ƒX‚Í‹ß‚¢‚¼<line>
-ƒ{ƒX‚Æ‚½‚¢‚¯‚Â‚¾<line>
-ƒoƒgƒ‹ ƒ{ƒX!<end>
+ã‹ã„ã‚ãŒã‚ã‚“4<line>
+ãƒŽãƒ«ãƒžãŸã£ã›ã„<line>
+ãƒœã‚¹ã¯è¿‘ã„ãž<line>
+ãƒœã‚¹ã¨ãŸã„ã‘ã¤ã <line>
+ãƒãƒˆãƒ« ãƒœã‚¹!<end>
 
 
 //POINTER #83 @ $216AF8 - STRING #83 @ $27559A
 
 #WRITE(GBA,$216AF8)
-ƒI[ƒOƒ‰‚ð‚½‚¨‚¹<line>
-ƒ~ƒjƒQ[ƒ€<line>
-ƒQ[ƒ€ƒI[ƒo[1<line>
-ƒQ[ƒ€ƒI[ƒo[2<line>
-ƒ|[ƒY<end>
+ã‚ªãƒ¼ã‚°ãƒ©ã‚’ãŸãŠã›<line>
+ãƒŸãƒ‹ã‚²ãƒ¼ãƒ <line>
+ã‚²ãƒ¼ãƒ ã‚ªãƒ¼ãƒãƒ¼1<line>
+ã‚²ãƒ¼ãƒ ã‚ªãƒ¼ãƒãƒ¼2<line>
+ãƒãƒ¼ã‚º<end>
 
 
 //POINTER #84 @ $216AFC - STRING #84 @ $2755C4
 
 #WRITE(GBA,$216AFC)
-ƒXƒe[ƒWƒNƒŠƒA<line>
-‚«‚Ë‚ñ‚µ‚á‚µ‚ñ<line>
-‚«‚«‚ã‚¤<line>
-‚à‚®‚çƒ^ƒ“ƒN<line>
-‚È‚Ü‚¸ƒ{[ƒg<end>
+ã‚¹ãƒ†ãƒ¼ã‚¸ã‚¯ãƒªã‚¢<line>
+ãã­ã‚“ã—ã‚ƒã—ã‚“<line>
+ããã‚…ã†<line>
+ã‚‚ãã‚‰ã‚¿ãƒ³ã‚¯<line>
+ãªã¾ãšãƒœãƒ¼ãƒˆ<end>
 
 
 //POINTER #85 @ $216B00 - STRING #85 @ $2755EC
 
 #WRITE(GBA,$216B00)
-‚Ü‚Ù‚¤Žg‚¢<line>
-‚«‚®‚é‚Ý<line>
-ŠC‚Ì‚Ë‚¢‚ë?<line>
-ƒGƒ“ƒfƒBƒ“ƒO1<line>
-ƒGƒ“ƒfƒBƒ“ƒO2<end>
+ã¾ã»ã†ä½¿ã„<line>
+ããã‚‹ã¿<line>
+æµ·ã®ã­ã„ã‚?<line>
+ã‚¨ãƒ³ãƒ‡ã‚£ãƒ³ã‚°1<line>
+ã‚¨ãƒ³ãƒ‡ã‚£ãƒ³ã‚°2<end>
 
 
 //POINTER #86 @ $216B04 - STRING #86 @ $275613
 
 #WRITE(GBA,$216B04)
-ƒGƒ“ƒfƒBƒ“ƒO3<line>
-ƒXƒe[ƒWƒZƒŒƒNƒg<line>
-‚¸‚©‚ñ<line>
-‚¨‚½‚©‚ç‚¾!<line>
-‚½‚©‚ç‚à‚Ì<end>
+ã‚¨ãƒ³ãƒ‡ã‚£ãƒ³ã‚°3<line>
+ã‚¹ãƒ†ãƒ¼ã‚¸ã‚»ãƒ¬ã‚¯ãƒˆ<line>
+ãšã‹ã‚“<line>
+ãŠãŸã‹ã‚‰ã !<line>
+ãŸã‹ã‚‰ã‚‚ã®<end>
 
 
 //POINTER #87 @ $216B08 - STRING #87 @ $27563A
 
 #WRITE(GBA,$216B08)
-ƒ~ƒjƒQ[ƒ€‚µ‚ã‚¤<line>
-ƒXƒ^ƒbƒtƒ[ƒ‹<line>
-‚¨‚Ü‚¯‚¾‚æ!<line>
-ƒXƒ^ƒtƒB[ƒ_ƒ“ƒX<end>
+ãƒŸãƒ‹ã‚²ãƒ¼ãƒ ã—ã‚…ã†<line>
+ã‚¹ã‚¿ãƒƒãƒ•ãƒ­ãƒ¼ãƒ«<line>
+ãŠã¾ã‘ã ã‚ˆ!<line>
+ã‚¹ã‚¿ãƒ•ã‚£ãƒ¼ãƒ€ãƒ³ã‚¹<end>
 
 
 //POINTER #88 @ $216B0C - STRING #88 @ $27565F
@@ -786,1008 +787,1008 @@ Rob's Cave<end>
 //POINTER #89 @ $216B10 - STRING #89 @ $275664
 
 #WRITE(GBA,$216B10)
-ƒQ[ƒ€’†‚Ì ‚¢‚ë‚ñ‚È ‚¨‚ñ‚ª‚­‚ª<line>
-‚«‚¯‚é‚¼! ‚æ‚©‚Á‚½‚È!<end>
+ã‚²ãƒ¼ãƒ ä¸­ã® ã„ã‚ã‚“ãª ãŠã‚“ãŒããŒ<line>
+ãã‘ã‚‹ãž! ã‚ˆã‹ã£ãŸãª!<end>
 
 
 //POINTER #90 @ $216B14 - STRING #90 @ $275684
 
 #WRITE(GBA,$216B14)
-‚±‚ÌƒQ[ƒ€‚ð ‚Â‚­‚Á‚½<line>
-ƒXƒ^ƒbƒt‚ð ‚Ý‚ç‚ê‚é‚¼!<end>
+ã“ã®ã‚²ãƒ¼ãƒ ã‚’ ã¤ãã£ãŸ<line>
+ã‚¹ã‚¿ãƒƒãƒ•ã‚’ ã¿ã‚‰ã‚Œã‚‹ãž!<end>
 
 
 //POINTER #91 @ $216B18 - STRING #91 @ $27569F
 
 #WRITE(GBA,$216B18)
-‚±‚ÌƒQ[ƒ€‚ð ‚Â‚­‚Á‚½<line>
-ƒXƒ^ƒbƒt‚ð ‚Ý‚ç‚ê‚é‚¼!<end>
+ã“ã®ã‚²ãƒ¼ãƒ ã‚’ ã¤ãã£ãŸ<line>
+ã‚¹ã‚¿ãƒƒãƒ•ã‚’ ã¿ã‚‰ã‚Œã‚‹ãž!<end>
 
 
 //POINTER #92 @ $216B1C - STRING #92 @ $2756BA
 
 #WRITE(GBA,$216B1C)
-‚³‚¢‚µ‚å‚Ì ƒGƒ“ƒfƒBƒ“ƒO‚ð<line>
-‚Ý‚ç‚ê‚é‚¼!<end>
+ã•ã„ã—ã‚‡ã® ã‚¨ãƒ³ãƒ‡ã‚£ãƒ³ã‚°ã‚’<line>
+ã¿ã‚‰ã‚Œã‚‹ãž!<end>
 
 
 //POINTER #93 @ $216B20 - STRING #93 @ $2756D1
 
 #WRITE(GBA,$216B20)
-2‚µ‚ã‚¤‚ß‚Ì ƒGƒ“ƒfƒBƒ“ƒO‚ð<line>
-‚Ý‚ç‚ê‚é‚¼!<end>
+2ã—ã‚…ã†ã‚ã® ã‚¨ãƒ³ãƒ‡ã‚£ãƒ³ã‚°ã‚’<line>
+ã¿ã‚‰ã‚Œã‚‹ãž!<end>
 
 
 //POINTER #94 @ $216B24 - STRING #94 @ $2756E9
 
 #WRITE(GBA,$216B24)
-‚½‚©‚ç‚à‚Ì‚ð ‚·‚×‚Ä‚ ‚Â‚ß‚½<line>
-ƒGƒ“ƒfƒBƒ“ƒO‚ð ‚Ý‚ç‚ê‚é‚¼!<end>
+ãŸã‹ã‚‰ã‚‚ã®ã‚’ ã™ã¹ã¦ã‚ã¤ã‚ãŸ<line>
+ã‚¨ãƒ³ãƒ‡ã‚£ãƒ³ã‚°ã‚’ ã¿ã‚‰ã‚Œã‚‹ãž!<end>
 
 
 //POINTER #95 @ $216B28 - STRING #95 @ $275709
 
 #WRITE(GBA,$216B28)
-‚Ü‚¾ ƒIƒƒF‚É‚Í ‚Ý‚¹‚ç‚ê‚Ë‚¦!<line>
-‚à‚Á‚Æ ‚ ‚»‚ñ‚Å‚±‚¢!<end>
+ã¾ã  ã‚ªãƒ¡ã‚§ã«ã¯ ã¿ã›ã‚‰ã‚Œã­ãˆ!<line>
+ã‚‚ã£ã¨ ã‚ãã‚“ã§ã“ã„!<end>
 
 
 //POINTER #96 @ $216B2C - STRING #96 @ $275728
 
 #WRITE(GBA,$216B2C)
 <line>
-  <red>w<red>ƒT<red>ƒ“<red>ƒS<red>ƒV<red>ƒ‡<red>ƒE<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-uƒƒ‹ƒ‚ƒm‚É ‚³‚ç‚í‚ê‚½‚Á‚Ä‚¢‚¤<line>
- ƒ„ƒhƒJƒŠƒ^‚Ì ‚È‚©‚Ü‚ð<line>
- ‚³‚ª‚µ‚Ä‚Ëv<end>
+  <red>ã€Ž<red>ã‚µ<red>ãƒ³<red>ã‚´<red>ã‚·<red>ãƒ§<red>ã‚¦<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œãƒ¯ãƒ«ãƒ¢ãƒŽã« ã•ã‚‰ã‚ã‚ŒãŸã£ã¦ã„ã†<line>
+ ãƒ¤ãƒ‰ã‚«ãƒªã‚¿ã® ãªã‹ã¾ã‚’<line>
+ ã•ãŒã—ã¦ã­ã€<end>
 
 
 //POINTER #97 @ $216B30 - STRING #97 @ $27578E
 
 #WRITE(GBA,$216B30)
 <line>
-  <red>w<red>ƒU<red>ƒV<red>ƒ‡<red>ƒE<red>ƒN<red>ƒW<red>ƒ‰<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<red><endname><line>
-uƒNƒWƒ‰‚³‚ñ‚É<line>
- ‚·‚¢‚±‚Ü‚ê‚¿‚á‚Á‚½‚ñ‚¾EEEv<wait><scrollup><scrollup><line>
-u‚Å‚à ‚ ‚È‚½‚Ì ‚½‚·‚¯‚ð‚Ü‚Â<line>
- ‚È‚©‚Ü‚ª ‚¢‚é‚í! ‚ª‚ñ‚Î‚Á‚Ä!v<end>
+  <red>ã€Ž<red>ã‚¶<red>ã‚·<red>ãƒ§<red>ã‚¦<red>ã‚¯<red>ã‚¸<red>ãƒ©<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<red><endname><line>
+ã€Œã‚¯ã‚¸ãƒ©ã•ã‚“ã«<line>
+ ã™ã„ã“ã¾ã‚Œã¡ã‚ƒã£ãŸã‚“ã ãƒ»ãƒ»ãƒ»ã€<wait><scrollup><scrollup><line>
+ã€Œã§ã‚‚ ã‚ãªãŸã® ãŸã™ã‘ã‚’ã¾ã¤<line>
+ ãªã‹ã¾ãŒ ã„ã‚‹ã‚! ãŒã‚“ã°ã£ã¦!ã€<end>
 
 
 //POINTER #98 @ $216B34 - STRING #98 @ $275816
 
 #WRITE(GBA,$216B34)
 <line>
-    <red>w<red>•X<red>‚Ì<red>ŠC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-uƒNƒŠƒIƒŒ‚ð ‚½‚·‚¯‚Ä‚Ù‚µ‚¢‚Á‚Ä<line>
- ‚¢‚Á‚Ä‚½‚Á‚¯EEE<line>
- ‚³‚  ‚³‚ª‚µ‚És‚«‚Ü‚µ‚å!v<end>
+    <red>ã€Ž<red>æ°·<red>ã®<red>æµ·<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œã‚¯ãƒªã‚ªãƒ¬ã‚’ ãŸã™ã‘ã¦ã»ã—ã„ã£ã¦<line>
+ ã„ã£ã¦ãŸã£ã‘ãƒ»ãƒ»ãƒ»<line>
+ ã•ã‚ ã•ãŒã—ã«è¡Œãã¾ã—ã‚‡!ã€<end>
 
 
 //POINTER #99 @ $216B38 - STRING #99 @ $27587B
 
 #WRITE(GBA,$216B38)
 <line>
-   <red>w<red>‚Ó<red>‚©<red>‚¢<red>ŠC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚±‚Ì‚Ö‚ñ‚É ƒIƒIƒ^ƒ‹ƒCƒJ‚³‚ñ‚Ì<line>
- ‚Ö‚â‚ª‚ ‚é‚Í‚¸‚¾‚¯‚ÇEE?v<end>
+   <red>ã€Ž<red>ãµ<red>ã‹<red>ã„<red>æµ·<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œã“ã®ã¸ã‚“ã« ã‚ªã‚ªã‚¿ãƒ«ã‚¤ã‚«ã•ã‚“ã®<line>
+ ã¸ã‚„ãŒã‚ã‚‹ã¯ãšã ã‘ã©ãƒ»ãƒ»?ã€<end>
 
 
 //POINTER #100 @ $216B3C - STRING #100 @ $2758D6
 
 #WRITE(GBA,$216B3C)
 <line>
-  <red>w<red>‚¿<red>‚ñ<red>‚Ú<red>‚Â<red>‚¹<red>‚ñ<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-uƒ{ƒNƒgƒpƒX‚É ‚Æ‚ç‚¦‚ç‚ê‚½<line>
- ƒCƒ‹ƒJ‚½‚¿EE<line>
- ‘‚­ ‚½‚·‚¯‚¾‚µ‚Ä‚ ‚°‚Ä‚Ëv<end>
+  <red>ã€Ž<red>ã¡<red>ã‚“<red>ã¼<red>ã¤<red>ã›<red>ã‚“<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œãƒœã‚¯ãƒˆãƒ‘ã‚¹ã« ã¨ã‚‰ãˆã‚‰ã‚ŒãŸ<line>
+ ã‚¤ãƒ«ã‚«ãŸã¡ãƒ»ãƒ»<line>
+ æ—©ã ãŸã™ã‘ã ã—ã¦ã‚ã’ã¦ã­ã€<end>
 
 
 //POINTER #101 @ $216B40 - STRING #101 @ $27593E
 
 #WRITE(GBA,$216B40)
 <line>
- <red>w<red>‚©<red>‚¢<red>‚Ä<red>‚¢<red>‚µ<red>‚ñ<red>‚Å<red>‚ñ<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-uƒLƒ‡ƒƒXƒP‚Í ‚µ‚ñ‚Å‚ñ‚Ì’†‚É<line>
- “ü‚Á‚Ä‚¢‚Á‚½‚í‚æ?v<end>
+ <red>ã€Ž<red>ã‹<red>ã„<red>ã¦<red>ã„<red>ã—<red>ã‚“<red>ã§<red>ã‚“<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œã‚­ãƒ§ãƒ­ã‚¹ã‚±ã¯ ã—ã‚“ã§ã‚“ã®ä¸­ã«<line>
+ å…¥ã£ã¦ã„ã£ãŸã‚ã‚ˆ?ã€<end>
 
 
 //POINTER #102 @ $216B44 - STRING #102 @ $27599E
 
 #WRITE(GBA,$216B44)
 <line>
-   <red>w<red>‚»<red>‚ç<red>‚Ì<red>ŠC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚ª‚ñ‚Î‚Á‚Ä ƒXƒ^ƒtƒB[!<line>
- ‚É‚Á‚­‚« ƒI[ƒOƒ‰‚Í<line>
- ‚·‚®‚»‚±‚æ!v<end>
+   <red>ã€Ž<red>ã<red>ã‚‰<red>ã®<red>æµ·<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€ŒãŒã‚“ã°ã£ã¦ ã‚¹ã‚¿ãƒ•ã‚£ãƒ¼!<line>
+ ã«ã£ãã ã‚ªãƒ¼ã‚°ãƒ©ã¯<line>
+ ã™ããã“ã‚ˆ!ã€<end>
 
 
 //POINTER #103 @ $216B48 - STRING #103 @ $2759FC
 
 #WRITE(GBA,$216B48)
 <line>
-  <red>w<red>ƒ<red>ƒu<red>‚Ì<red>‚Ç<red>‚¤<red>‚­<red>‚Â<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-uƒ„ƒhƒJƒŠƒ^‚³‚ñ‚ª ‚È‚­‚µ‚½<line>
- ‚¨‚¤‚¿‚ð ‚³‚ª‚µ‚Ä‚ ‚°‚Ä‚Ëv<end>
+  <red>ã€Ž<red>ãƒ­<red>ãƒ–<red>ã®<red>ã©<red>ã†<red>ã<red>ã¤<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œãƒ¤ãƒ‰ã‚«ãƒªã‚¿ã•ã‚“ãŒ ãªãã—ãŸ<line>
+ ãŠã†ã¡ã‚’ ã•ãŒã—ã¦ã‚ã’ã¦ã­ã€<end>
 
 
 //POINTER #104 @ $216B4C - STRING #104 @ $275A5D
 
 #WRITE(GBA,$216B4C)
 <line>
-    <red>w<red>•X<red>‚Ì<red>ŠC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚Ç‚¤‚µ‚½‚Ì? ƒXƒ^ƒtƒB[<line>
- •X‚É ‚Æ‚¶‚±‚ß‚ç‚ê‚½ ƒNƒŠƒIƒŒ‚ð<line>
- ‚È‚ñ‚Æ‚©‚µ‚Ä‚ ‚°‚È‚¢‚ÆEEEv<end>
+    <red>ã€Ž<red>æ°·<red>ã®<red>æµ·<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œã©ã†ã—ãŸã®? ã‚¹ã‚¿ãƒ•ã‚£ãƒ¼<line>
+ æ°·ã« ã¨ã˜ã“ã‚ã‚‰ã‚ŒãŸ ã‚¯ãƒªã‚ªãƒ¬ã‚’<line>
+ ãªã‚“ã¨ã‹ã—ã¦ã‚ã’ãªã„ã¨ãƒ»ãƒ»ãƒ»ã€<end>
 
 
 //POINTER #105 @ $216B50 - STRING #105 @ $275AC7
 
 #WRITE(GBA,$216B50)
 <line>
-  <red>w<red>‚¿<red>‚ñ<red>‚Ú<red>‚Â<red>‚¹<red>‚ñ<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚¢‚»‚¢‚Å! ƒXƒ^ƒtƒB[!<line>
- ƒ}ƒ‚ƒm‚Í ‚·‚®‚»‚±‚Ü‚Å<line>
- —ˆ‚Ä‚¢‚é‚í!!v<end>
+  <red>ã€Ž<red>ã¡<red>ã‚“<red>ã¼<red>ã¤<red>ã›<red>ã‚“<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œã„ãã„ã§! ã‚¹ã‚¿ãƒ•ã‚£ãƒ¼!<line>
+ ãƒžãƒ¢ãƒŽã¯ ã™ããã“ã¾ã§<line>
+ æ¥ã¦ã„ã‚‹ã‚!!ã€<end>
 
 
 //POINTER #106 @ $216B54 - STRING #106 @ $275B2C
 
 #WRITE(GBA,$216B54)
 <line>
- <red>w<red>‚©<red>‚¢<red>‚Ä<red>‚¢<red>‚µ<red>‚ñ<red>‚Å<red>‚ñ<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u<red>w<red>‚æ<red>‚°<red>‚ñ<red>‚µ<red>‚å<red>x‚Í ‚Ç‚±‚É?<line>
- ‚µ‚ñ‚Å‚ñ‚Ì ’†‚ð ‚½‚ñ‚¯‚ñ‚·‚é‚Æ<line>
- ‚Ý‚Â‚©‚é‚©‚È?v<end>
+ <red>ã€Ž<red>ã‹<red>ã„<red>ã¦<red>ã„<red>ã—<red>ã‚“<red>ã§<red>ã‚“<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œ<red>ã€Ž<red>ã‚ˆ<red>ã’<red>ã‚“<red>ã—<red>ã‚‡<red>ã€ã¯ ã©ã“ã«?<line>
+ ã—ã‚“ã§ã‚“ã® ä¸­ã‚’ ãŸã‚“ã‘ã‚“ã™ã‚‹ã¨<line>
+ ã¿ã¤ã‹ã‚‹ã‹ãª?ã€<end>
 
 
 //POINTER #107 @ $216B58 - STRING #107 @ $275BAA
 
 #WRITE(GBA,$216B58)
 <line>
-   <red>w<red>ƒe<red>ƒ“<red>ƒJ<red>ƒC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-uƒXƒ^ƒtƒB[!!<line>
- ‚Æ‚¤‚Æ‚¤‚±‚±‚Ü‚Å<line>
- ‚â‚Á‚Ä—ˆ‚½‚í‚Ë!v<wait><scrollup><scrollup><scrollup><line>
-uƒI[ƒOƒ‰‚Í ‚«‚å‚¤‚Ä‚«‚æ!<line>
- ‹C‚ð‚Ð‚«‚µ‚ß‚Ä ‚³‚¢‚²‚Ì<line>
- ‚½‚½‚©‚¢‚É ‚Ì‚¼‚ñ‚Å‚Ë!v<end>
+   <red>ã€Ž<red>ãƒ†<red>ãƒ³<red>ã‚«<red>ã‚¤<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œã‚¹ã‚¿ãƒ•ã‚£ãƒ¼!!<line>
+ ã¨ã†ã¨ã†ã“ã“ã¾ã§<line>
+ ã‚„ã£ã¦æ¥ãŸã‚ã­!ã€<wait><scrollup><scrollup><scrollup><line>
+ã€Œã‚ªãƒ¼ã‚°ãƒ©ã¯ ãã‚‡ã†ã¦ãã‚ˆ!<line>
+ æ°—ã‚’ã²ãã—ã‚ã¦ ã•ã„ã”ã®<line>
+ ãŸãŸã‹ã„ã« ã®ãžã‚“ã§ã­!ã€<end>
 
 
 //POINTER #108 @ $216B5C - STRING #108 @ $275C3A
 
 #WRITE(GBA,$216B5C)
 <line>
-  <red>w<red>ƒT<red>ƒ“<red>ƒS<red>ƒV<red>ƒ‡<red>ƒE<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚ª‚ñ‚Î‚Á‚Ä ƒXƒ^ƒtƒB[!<line>
- ƒLƒ‡ƒƒXƒP‚Æ ‚«‚å‚¤‚è‚å‚­‚µ‚Ä<line>
- ƒnƒfƒqƒ‰ƒŠ‚ð ‚³‚ª‚µ‚Ä‚Ëv<end>
+  <red>ã€Ž<red>ã‚µ<red>ãƒ³<red>ã‚´<red>ã‚·<red>ãƒ§<red>ã‚¦<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€ŒãŒã‚“ã°ã£ã¦ ã‚¹ã‚¿ãƒ•ã‚£ãƒ¼!<line>
+ ã‚­ãƒ§ãƒ­ã‚¹ã‚±ã¨ ãã‚‡ã†ã‚Šã‚‡ãã—ã¦<line>
+ ãƒãƒ‡ãƒ’ãƒ©ãƒªã‚’ ã•ãŒã—ã¦ã­ã€<end>
 
 
 //POINTER #109 @ $216B60 - STRING #109 @ $275CA8
 
 #WRITE(GBA,$216B60)
 <line>
-  <red>w<red>ƒT<red>ƒ“<red>ƒS<red>ƒV<red>ƒ‡<red>ƒE<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚ª‚ñ‚Î‚Á‚Ä ƒXƒ^ƒtƒB[!<line>
- ƒLƒ‡ƒƒXƒP‚Æ ‚«‚å‚¤‚è‚å‚­‚µ‚Ä<line>
- ƒnƒfƒqƒ‰ƒŠ‚ð ‚³‚ª‚µ‚Ä‚Ëv<end>
+  <red>ã€Ž<red>ã‚µ<red>ãƒ³<red>ã‚´<red>ã‚·<red>ãƒ§<red>ã‚¦<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€ŒãŒã‚“ã°ã£ã¦ ã‚¹ã‚¿ãƒ•ã‚£ãƒ¼!<line>
+ ã‚­ãƒ§ãƒ­ã‚¹ã‚±ã¨ ãã‚‡ã†ã‚Šã‚‡ãã—ã¦<line>
+ ãƒãƒ‡ãƒ’ãƒ©ãƒªã‚’ ã•ãŒã—ã¦ã­ã€<end>
 
 
 //POINTER #110 @ $216B64 - STRING #110 @ $275D16
 
 #WRITE(GBA,$216B64)
 <line>
-  <red>w<red>ƒU<red>ƒV<red>ƒ‡<red>ƒE<red>ƒN<red>ƒW<red>ƒ‰<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚¢‚ë‚ñ‚È ‚È‚©‚Ü‚ð ‚³‚ª‚µ‚Ä‚Ë!<line>
- ‚«‚Á‚Æ ƒNƒWƒ‰‚³‚ñ‚Ì<line>
- ‚½‚·‚¯‚©‚½‚ª ‚í‚©‚é‚Í‚¸!v<end>
+  <red>ã€Ž<red>ã‚¶<red>ã‚·<red>ãƒ§<red>ã‚¦<red>ã‚¯<red>ã‚¸<red>ãƒ©<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œã„ã‚ã‚“ãª ãªã‹ã¾ã‚’ ã•ãŒã—ã¦ã­!<line>
+ ãã£ã¨ ã‚¯ã‚¸ãƒ©ã•ã‚“ã®<line>
+ ãŸã™ã‘ã‹ãŸãŒ ã‚ã‹ã‚‹ã¯ãš!ã€<end>
 
 
 //POINTER #111 @ $216B68 - STRING #111 @ $275D87
 
 #WRITE(GBA,$216B68)
 <line>
-  <red>w<red>ƒU<red>ƒV<red>ƒ‡<red>ƒE<red>ƒN<red>ƒW<red>ƒ‰<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-uƒNƒWƒ‰‚³‚ñEE<line>
- Œ³‹C‚É‚È‚é‚Æ ‚¢‚¢‚ËEEv<wait><scrollup><scrollup><line>
-uƒXƒ^ƒtƒB[‚¾‚¯‚¾‚æ<line>
- ‚ ‚Ìƒ}ƒ‚ƒm‚ð ‚½‚¨‚¹‚é‚Ì‚Í!v<end>
+  <red>ã€Ž<red>ã‚¶<red>ã‚·<red>ãƒ§<red>ã‚¦<red>ã‚¯<red>ã‚¸<red>ãƒ©<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œã‚¯ã‚¸ãƒ©ã•ã‚“ãƒ»ãƒ»<line>
+ å…ƒæ°—ã«ãªã‚‹ã¨ ã„ã„ã­ãƒ»ãƒ»ã€<wait><scrollup><scrollup><line>
+ã€Œã‚¹ã‚¿ãƒ•ã‚£ãƒ¼ã ã‘ã ã‚ˆ<line>
+ ã‚ã®ãƒžãƒ¢ãƒŽã‚’ ãŸãŠã›ã‚‹ã®ã¯!ã€<end>
 
 
 //POINTER #112 @ $216B6C - STRING #112 @ $275E05
 
 #WRITE(GBA,$216B6C)
 <line>
-    <red>w<red>•X<red>‚Ì<red>ŠC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚Ç‚¤‚µ‚½‚Ì? ƒXƒ^ƒtƒB[<line>
- •X‚É ‚Æ‚¶‚±‚ß‚ç‚ê‚½ ƒNƒŠƒIƒŒ‚ð<line>
- ‚È‚ñ‚Æ‚©‚µ‚Ä‚ ‚°‚È‚¢‚ÆEEEv<end>
+    <red>ã€Ž<red>æ°·<red>ã®<red>æµ·<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œã©ã†ã—ãŸã®? ã‚¹ã‚¿ãƒ•ã‚£ãƒ¼<line>
+ æ°·ã« ã¨ã˜ã“ã‚ã‚‰ã‚ŒãŸ ã‚¯ãƒªã‚ªãƒ¬ã‚’<line>
+ ãªã‚“ã¨ã‹ã—ã¦ã‚ã’ãªã„ã¨ãƒ»ãƒ»ãƒ»ã€<end>
 
 
 //POINTER #113 @ $216B70 - STRING #113 @ $275E6F
 
 #WRITE(GBA,$216B70)
 <line>
-    <red>w<red>•X<red>‚Ì<red>ŠC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚Ç‚¤‚µ‚½‚Ì? ƒXƒ^ƒtƒB[<line>
- •X‚É ‚Æ‚¶‚±‚ß‚ç‚ê‚½ ƒNƒŠƒIƒŒ‚ð<line>
- ‚È‚ñ‚Æ‚©‚µ‚Ä‚ ‚°‚È‚¢‚ÆEEEv<end>
+    <red>ã€Ž<red>æ°·<red>ã®<red>æµ·<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œã©ã†ã—ãŸã®? ã‚¹ã‚¿ãƒ•ã‚£ãƒ¼<line>
+ æ°·ã« ã¨ã˜ã“ã‚ã‚‰ã‚ŒãŸ ã‚¯ãƒªã‚ªãƒ¬ã‚’<line>
+ ãªã‚“ã¨ã‹ã—ã¦ã‚ã’ãªã„ã¨ãƒ»ãƒ»ãƒ»ã€<end>
 
 
 //POINTER #114 @ $216B74 - STRING #114 @ $275ED9
 
 #WRITE(GBA,$216B74)
 <line>
-    <red>w<red>•X<red>‚Ì<red>ŠC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚¨‚Â‚©‚ê‚³‚Ü ƒXƒ^ƒtƒB[!<line>
- ‚ ‚Æ‚Í ƒ{ƒG[ƒ‹ƒ“‚ð<line>
- ‚½‚¨‚·‚¾‚¯‚Ë! ‚ª‚ñ‚Î‚Á‚Ä!v<end>
+    <red>ã€Ž<red>æ°·<red>ã®<red>æµ·<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€ŒãŠã¤ã‹ã‚Œã•ã¾ ã‚¹ã‚¿ãƒ•ã‚£ãƒ¼!<line>
+ ã‚ã¨ã¯ ãƒœã‚¨ãƒ¼ãƒ«ãƒ³ã‚’<line>
+ ãŸãŠã™ã ã‘ã­! ãŒã‚“ã°ã£ã¦!ã€<end>
 
 
 //POINTER #115 @ $216B78 - STRING #115 @ $275F3E
 
 #WRITE(GBA,$216B78)
 <line>
-    <red>w<red>•X<red>‚Ì<red>ŠC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚Ç‚¤‚µ‚½‚Ì? ƒXƒ^ƒtƒB[<line>
- •X‚É ‚Æ‚¶‚±‚ß‚ç‚ê‚½ ƒNƒŠƒIƒŒ‚ð<line>
- ‚È‚ñ‚Æ‚©‚µ‚Ä‚ ‚°‚È‚¢‚ÆEEEv<end>
+    <red>ã€Ž<red>æ°·<red>ã®<red>æµ·<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œã©ã†ã—ãŸã®? ã‚¹ã‚¿ãƒ•ã‚£ãƒ¼<line>
+ æ°·ã« ã¨ã˜ã“ã‚ã‚‰ã‚ŒãŸ ã‚¯ãƒªã‚ªãƒ¬ã‚’<line>
+ ãªã‚“ã¨ã‹ã—ã¦ã‚ã’ãªã„ã¨ãƒ»ãƒ»ãƒ»ã€<end>
 
 
 //POINTER #116 @ $216B7C - STRING #116 @ $275FA8
 
 #WRITE(GBA,$216B7C)
 <line>
-  <red>w<red>‚¿<red>‚ñ<red>‚Ú<red>‚Â<red>‚¹<red>‚ñ<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-uƒ{ƒNƒgƒpƒX‚É ‚Æ‚ç‚¦‚ç‚ê‚½<line>
- ƒCƒ‹ƒJ‚½‚¿EE<line>
- ‘‚­ ‚½‚·‚¯‚¾‚µ‚Ä‚ ‚°‚Ä‚Ëv<end>
+  <red>ã€Ž<red>ã¡<red>ã‚“<red>ã¼<red>ã¤<red>ã›<red>ã‚“<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œãƒœã‚¯ãƒˆãƒ‘ã‚¹ã« ã¨ã‚‰ãˆã‚‰ã‚ŒãŸ<line>
+ ã‚¤ãƒ«ã‚«ãŸã¡ãƒ»ãƒ»<line>
+ æ—©ã ãŸã™ã‘ã ã—ã¦ã‚ã’ã¦ã­ã€<end>
 
 
 //POINTER #117 @ $216B80 - STRING #117 @ $276010
 
 #WRITE(GBA,$216B80)
 <line>
-  <red>w<red>‚¿<red>‚ñ<red>‚Ú<red>‚Â<red>‚¹<red>‚ñ<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-uƒ{ƒNƒgƒpƒX‚É ‚Æ‚ç‚¦‚ç‚ê‚½<line>
- ƒCƒ‹ƒJ‚½‚¿EE<line>
- ‘‚­ ‚½‚·‚¯‚¾‚µ‚Ä‚ ‚°‚Ä‚Ëv<end>
+  <red>ã€Ž<red>ã¡<red>ã‚“<red>ã¼<red>ã¤<red>ã›<red>ã‚“<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œãƒœã‚¯ãƒˆãƒ‘ã‚¹ã« ã¨ã‚‰ãˆã‚‰ã‚ŒãŸ<line>
+ ã‚¤ãƒ«ã‚«ãŸã¡ãƒ»ãƒ»<line>
+ æ—©ã ãŸã™ã‘ã ã—ã¦ã‚ã’ã¦ã­ã€<end>
 
 
 //POINTER #118 @ $216B84 - STRING #118 @ $276078
 
 #WRITE(GBA,$216B84)
 <line>
-   <red>w<red>‚»<red>‚ç<red>‚Ì<red>ŠC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚ª‚ñ‚Î‚Á‚Ä ƒXƒ^ƒtƒB[!<line>
- ‚É‚Á‚­‚« ƒI[ƒOƒ‰‚Í<line>
- ‚·‚®‚»‚±‚æ!v<end>
+   <red>ã€Ž<red>ã<red>ã‚‰<red>ã®<red>æµ·<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€ŒãŒã‚“ã°ã£ã¦ ã‚¹ã‚¿ãƒ•ã‚£ãƒ¼!<line>
+ ã«ã£ãã ã‚ªãƒ¼ã‚°ãƒ©ã¯<line>
+ ã™ããã“ã‚ˆ!ã€<end>
 
 
 //POINTER #119 @ $216B88 - STRING #119 @ $2760D6
 
 #WRITE(GBA,$216B88)
 <line>
-   <red>w<red>‚»<red>‚ç<red>‚Ì<red>ŠC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚ª‚ñ‚Î‚Á‚Ä ƒXƒ^ƒtƒB[!<line>
- ‚É‚Á‚­‚« ƒI[ƒOƒ‰‚Í<line>
- ‚·‚®‚»‚±‚æ!v<end>
+   <red>ã€Ž<red>ã<red>ã‚‰<red>ã®<red>æµ·<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€ŒãŒã‚“ã°ã£ã¦ ã‚¹ã‚¿ãƒ•ã‚£ãƒ¼!<line>
+ ã«ã£ãã ã‚ªãƒ¼ã‚°ãƒ©ã¯<line>
+ ã™ããã“ã‚ˆ!ã€<end>
 
 
 //POINTER #120 @ $216B8C - STRING #120 @ $276134
 
 #WRITE(GBA,$216B8C)
 <line>
-   <red>w<red>‚Ó<red>‚©<red>‚¢<red>ŠC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-uƒEƒH[ƒcƒ@ƒ‹ƒg‚³‚ñ‚Í<line>
- <red>w<red>ŠC<red>‚Ì<red>‚Ë<red>‚¢<red>‚ë<red>x‚ð<line>
- ‚Ü‚¾ ‚³‚ª‚µ‚Ä‚¢‚Ü‚·‚æEEEv<end>
+   <red>ã€Ž<red>ãµ<red>ã‹<red>ã„<red>æµ·<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œã‚¦ã‚©ãƒ¼ãƒ„ã‚¡ãƒ«ãƒˆã•ã‚“ã¯<line>
+ <red>ã€Ž<red>æµ·<red>ã®<red>ã­<red>ã„<red>ã‚<red>ã€ã‚’<line>
+ ã¾ã  ã•ãŒã—ã¦ã„ã¾ã™ã‚ˆãƒ»ãƒ»ãƒ»ã€<end>
 
 
 //POINTER #121 @ $216B90 - STRING #121 @ $2761A4
 
 #WRITE(GBA,$216B90)
 <line>
-   <red>w<red>‚Ó<red>‚©<red>‚¢<red>ŠC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚Ç‚ñ‚Ç‚ñ ‚·‚·‚Ý‚Ü‚µ‚å!<line>
- ‚Å‚à ‚Ç‚¤‚·‚ê‚Î<line>
- ƒgƒrƒ‰‚Í ‚Ð‚ç‚­‚Ì‚©‚µ‚ç?v<end>
+   <red>ã€Ž<red>ãµ<red>ã‹<red>ã„<red>æµ·<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œã©ã‚“ã©ã‚“ ã™ã™ã¿ã¾ã—ã‚‡!<line>
+ ã§ã‚‚ ã©ã†ã™ã‚Œã°<line>
+ ãƒˆãƒ“ãƒ©ã¯ ã²ã‚‰ãã®ã‹ã—ã‚‰?ã€<end>
 
 
 //POINTER #122 @ $216B94 - STRING #122 @ $276207
 
 #WRITE(GBA,$216B94)
 <line>
-   <red>w<red>‚Ó<red>‚©<red>‚¢<red>ŠC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-uƒuƒ‰ƒ“ƒ^ƒ“‚ª ‚ ‚È‚½‚ð<line>
- ‚Ü‚¿‚©‚Ü‚¦‚Ä ‚¢‚é‚í!v<wait><scrollup><scrollup><line>
-u‚Å‚à ŠC‚Ì‚»‚±‚©‚ç<line>
- ‚¾‚Á‚µ‚ã‚Â‚·‚é‚½‚ß‚É‚Í<line>
- ‚â‚Á‚Â‚¯‚È‚¢‚Æ!v<end>
+   <red>ã€Ž<red>ãµ<red>ã‹<red>ã„<red>æµ·<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œãƒ–ãƒ©ãƒ³ã‚¿ãƒ³ãŒ ã‚ãªãŸã‚’<line>
+ ã¾ã¡ã‹ã¾ãˆã¦ ã„ã‚‹ã‚!ã€<wait><scrollup><scrollup><line>
+ã€Œã§ã‚‚ æµ·ã®ãã“ã‹ã‚‰<line>
+ ã ã£ã—ã‚…ã¤ã™ã‚‹ãŸã‚ã«ã¯<line>
+ ã‚„ã£ã¤ã‘ãªã„ã¨!ã€<end>
 
 
 //POINTER #123 @ $216B98 - STRING #123 @ $276288
 
 #WRITE(GBA,$216B98)
 <line>
-   <red>w<red>ƒe<red>ƒ“<red>ƒJ<red>ƒC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-uƒXƒ^ƒtƒB[!!<line>
- ‚Æ‚¤‚Æ‚¤‚±‚±‚Ü‚Å<line>
- ‚â‚Á‚Ä—ˆ‚½‚í‚Ë!v<wait><scrollup><scrollup><scrollup><line>
-uƒI[ƒOƒ‰‚Í ‚«‚å‚¤‚Ä‚«‚æ!<line>
- ‹C‚ð‚Ð‚«‚µ‚ß‚Ä ‚³‚¢‚²‚Ì<line>
- ‚½‚½‚©‚¢‚É ‚Ì‚¼‚ñ‚Å‚Ë!v<end>
+   <red>ã€Ž<red>ãƒ†<red>ãƒ³<red>ã‚«<red>ã‚¤<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œã‚¹ã‚¿ãƒ•ã‚£ãƒ¼!!<line>
+ ã¨ã†ã¨ã†ã“ã“ã¾ã§<line>
+ ã‚„ã£ã¦æ¥ãŸã‚ã­!ã€<wait><scrollup><scrollup><scrollup><line>
+ã€Œã‚ªãƒ¼ã‚°ãƒ©ã¯ ãã‚‡ã†ã¦ãã‚ˆ!<line>
+ æ°—ã‚’ã²ãã—ã‚ã¦ ã•ã„ã”ã®<line>
+ ãŸãŸã‹ã„ã« ã®ãžã‚“ã§ã­!ã€<end>
 
 
 //POINTER #124 @ $216B9C - STRING #124 @ $276318
 
 #WRITE(GBA,$216B9C)
 <line>
-   <red>w<red>ƒe<red>ƒ“<red>ƒJ<red>ƒC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-uƒXƒ^ƒtƒB[!!<line>
- ‚Æ‚¤‚Æ‚¤‚±‚±‚Ü‚Å<line>
- ‚â‚Á‚Ä—ˆ‚½‚í‚Ë!v<wait><scrollup><scrollup><scrollup><line>
-uƒI[ƒOƒ‰‚Í ‚«‚å‚¤‚Ä‚«‚æ!<line>
- ‹C‚ð‚Ð‚«‚µ‚ß‚Ä ‚³‚¢‚²‚Ì<line>
- ‚½‚½‚©‚¢‚É ‚Ì‚¼‚ñ‚Å‚Ë!v<end>
+   <red>ã€Ž<red>ãƒ†<red>ãƒ³<red>ã‚«<red>ã‚¤<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œã‚¹ã‚¿ãƒ•ã‚£ãƒ¼!!<line>
+ ã¨ã†ã¨ã†ã“ã“ã¾ã§<line>
+ ã‚„ã£ã¦æ¥ãŸã‚ã­!ã€<wait><scrollup><scrollup><scrollup><line>
+ã€Œã‚ªãƒ¼ã‚°ãƒ©ã¯ ãã‚‡ã†ã¦ãã‚ˆ!<line>
+ æ°—ã‚’ã²ãã—ã‚ã¦ ã•ã„ã”ã®<line>
+ ãŸãŸã‹ã„ã« ã®ãžã‚“ã§ã­!ã€<end>
 
 
 //POINTER #125 @ $216BA0 - STRING #125 @ $2763A8
 
 #WRITE(GBA,$216BA0)
 <line>
-   <red>w<red>ƒe<red>ƒ“<red>ƒJ<red>ƒC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-uƒXƒ^ƒtƒB[!!<line>
- ‚Æ‚¤‚Æ‚¤‚±‚±‚Ü‚Å<line>
- ‚â‚Á‚Ä—ˆ‚½‚í‚Ë!v<wait><scrollup><scrollup><scrollup><line>
-uƒI[ƒOƒ‰‚Í ‚«‚å‚¤‚Ä‚«‚æ!<line>
- ‹C‚ð‚Ð‚«‚µ‚ß‚Ä ‚³‚¢‚²‚Ì<line>
- ‚½‚½‚©‚¢‚É ‚Ì‚¼‚ñ‚Å‚Ë!v<end>
+   <red>ã€Ž<red>ãƒ†<red>ãƒ³<red>ã‚«<red>ã‚¤<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œã‚¹ã‚¿ãƒ•ã‚£ãƒ¼!!<line>
+ ã¨ã†ã¨ã†ã“ã“ã¾ã§<line>
+ ã‚„ã£ã¦æ¥ãŸã‚ã­!ã€<wait><scrollup><scrollup><scrollup><line>
+ã€Œã‚ªãƒ¼ã‚°ãƒ©ã¯ ãã‚‡ã†ã¦ãã‚ˆ!<line>
+ æ°—ã‚’ã²ãã—ã‚ã¦ ã•ã„ã”ã®<line>
+ ãŸãŸã‹ã„ã« ã®ãžã‚“ã§ã­!ã€<end>
 
 
 //POINTER #126 @ $216BA4 - STRING #126 @ $276438
 
 #WRITE(GBA,$216BA4)
 <line>
-   <red>w<red>ƒe<red>ƒ“<red>ƒJ<red>ƒC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-uƒXƒ^ƒtƒB[!!<line>
- ‚Æ‚¤‚Æ‚¤‚±‚±‚Ü‚Å<line>
- ‚â‚Á‚Ä—ˆ‚½‚í‚Ë!v<wait><scrollup><scrollup><scrollup><line>
-uƒI[ƒOƒ‰‚Í ‚«‚å‚¤‚Ä‚«‚æ!<line>
- ‹C‚ð‚Ð‚«‚µ‚ß‚Ä ‚³‚¢‚²‚Ì<line>
- ‚½‚½‚©‚¢‚É ‚Ì‚¼‚ñ‚Å‚Ë!v<end>
+   <red>ã€Ž<red>ãƒ†<red>ãƒ³<red>ã‚«<red>ã‚¤<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œã‚¹ã‚¿ãƒ•ã‚£ãƒ¼!!<line>
+ ã¨ã†ã¨ã†ã“ã“ã¾ã§<line>
+ ã‚„ã£ã¦æ¥ãŸã‚ã­!ã€<wait><scrollup><scrollup><scrollup><line>
+ã€Œã‚ªãƒ¼ã‚°ãƒ©ã¯ ãã‚‡ã†ã¦ãã‚ˆ!<line>
+ æ°—ã‚’ã²ãã—ã‚ã¦ ã•ã„ã”ã®<line>
+ ãŸãŸã‹ã„ã« ã®ãžã‚“ã§ã­!ã€<end>
 
 
 //POINTER #127 @ $216BA8 - STRING #127 @ $2764C8
 
 #WRITE(GBA,$216BA8)
 <line>
-   <red>w<red>ƒe<red>ƒ“<red>ƒJ<red>ƒC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-uƒXƒ^ƒtƒB[!!<line>
- ‚Æ‚¤‚Æ‚¤‚±‚±‚Ü‚Å<line>
- ‚â‚Á‚Ä—ˆ‚½‚í‚Ë!v<wait><scrollup><scrollup><scrollup><line>
-uƒI[ƒOƒ‰‚Í ‚«‚å‚¤‚Ä‚«‚æ!<line>
- ‹C‚ð‚Ð‚«‚µ‚ß‚Ä ‚³‚¢‚²‚Ì<line>
- ‚½‚½‚©‚¢‚É ‚Ì‚¼‚ñ‚Å‚Ë!v<end>
+   <red>ã€Ž<red>ãƒ†<red>ãƒ³<red>ã‚«<red>ã‚¤<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œã‚¹ã‚¿ãƒ•ã‚£ãƒ¼!!<line>
+ ã¨ã†ã¨ã†ã“ã“ã¾ã§<line>
+ ã‚„ã£ã¦æ¥ãŸã‚ã­!ã€<wait><scrollup><scrollup><scrollup><line>
+ã€Œã‚ªãƒ¼ã‚°ãƒ©ã¯ ãã‚‡ã†ã¦ãã‚ˆ!<line>
+ æ°—ã‚’ã²ãã—ã‚ã¦ ã•ã„ã”ã®<line>
+ ãŸãŸã‹ã„ã« ã®ãžã‚“ã§ã­!ã€<end>
 
 
 //POINTER #128 @ $216BAC - STRING #128 @ $276558
 
 #WRITE(GBA,$216BAC)
 <line>
- <red>w<red>‚©<red>‚¢<red>‚Ä<red>‚¢<red>‚µ<red>‚ñ<red>‚Å<red>‚ñ<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚Í‚®‚ê‚½ ƒLƒ‡ƒƒXƒP‚ª ‚µ‚ñ‚Ï‚¢<line>
- ‚³‚ª‚µ‚Ä‚ ‚°‚Ä‚Ë!v<end>
+ <red>ã€Ž<red>ã‹<red>ã„<red>ã¦<red>ã„<red>ã—<red>ã‚“<red>ã§<red>ã‚“<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œã¯ãã‚ŒãŸ ã‚­ãƒ§ãƒ­ã‚¹ã‚±ãŒ ã—ã‚“ã±ã„<line>
+ ã•ãŒã—ã¦ã‚ã’ã¦ã­!ã€<end>
 
 
 //POINTER #129 @ $216BB0 - STRING #129 @ $2765BA
 
 #WRITE(GBA,$216BB0)
 <line>
- <red>w<red>‚©<red>‚¢<red>‚Ä<red>‚¢<red>‚µ<red>‚ñ<red>‚Å<red>‚ñ<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚Ü‚Ù‚¤‚Å ‚Â‚­‚è‚¾‚³‚ê‚½<line>
- ƒ}ƒ‚ƒm‚ª‚¢‚é‚í! ‚Ü‚¯‚È‚¢‚Å!v<end>
+ <red>ã€Ž<red>ã‹<red>ã„<red>ã¦<red>ã„<red>ã—<red>ã‚“<red>ã§<red>ã‚“<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œã¾ã»ã†ã§ ã¤ãã‚Šã ã•ã‚ŒãŸ<line>
+ ãƒžãƒ¢ãƒŽãŒã„ã‚‹ã‚! ã¾ã‘ãªã„ã§!ã€<end>
 
 
 //POINTER #130 @ $216BB4 - STRING #130 @ $27661E
 
 #WRITE(GBA,$216BB4)
 <line>
-   <red>w<red>‚»<red>‚ç<red>‚Ì<red>ŠC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚ª‚ñ‚Î‚Á‚Ä ƒXƒ^ƒtƒB[!<line>
- ‚É‚Á‚­‚« ƒI[ƒOƒ‰‚Í<line>
- ‚·‚®‚»‚±‚æ!v<end>
+   <red>ã€Ž<red>ã<red>ã‚‰<red>ã®<red>æµ·<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€ŒãŒã‚“ã°ã£ã¦ ã‚¹ã‚¿ãƒ•ã‚£ãƒ¼!<line>
+ ã«ã£ãã ã‚ªãƒ¼ã‚°ãƒ©ã¯<line>
+ ã™ããã“ã‚ˆ!ã€<end>
 
 
 //POINTER #131 @ $216BB8 - STRING #131 @ $27667C
 
 #WRITE(GBA,$216BB8)
 <line>
-  <red>w<red>‚¿<red>‚ñ<red>‚Ú<red>‚Â<red>‚¹<red>‚ñ<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚¢‚»‚¢‚Å! ƒXƒ^ƒtƒB[!<line>
- ƒ}ƒ‚ƒm‚Í ‚·‚®‚»‚±‚Ü‚Å<line>
- —ˆ‚Ä‚¢‚é‚í!!v<end>
+  <red>ã€Ž<red>ã¡<red>ã‚“<red>ã¼<red>ã¤<red>ã›<red>ã‚“<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œã„ãã„ã§! ã‚¹ã‚¿ãƒ•ã‚£ãƒ¼!<line>
+ ãƒžãƒ¢ãƒŽã¯ ã™ããã“ã¾ã§<line>
+ æ¥ã¦ã„ã‚‹ã‚!!ã€<end>
 
 
 //POINTER #132 @ $216BBC - STRING #132 @ $2766E1
 
 #WRITE(GBA,$216BBC)
 <line>
-   <red>w<red>ƒe<red>ƒ“<red>ƒJ<red>ƒC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-uƒXƒ^ƒtƒB[!!<line>
- ‚Æ‚¤‚Æ‚¤‚±‚±‚Ü‚Å<line>
- ‚â‚Á‚Ä—ˆ‚½‚í‚Ë!v<wait><scrollup><scrollup><scrollup><line>
-uƒI[ƒOƒ‰‚Í ‚«‚å‚¤‚Ä‚«‚æ!<line>
- ‹C‚ð‚Ð‚«‚µ‚ß‚Ä ‚³‚¢‚²‚Ì<line>
- ‚½‚½‚©‚¢‚É ‚Ì‚¼‚ñ‚Å‚Ë!v<end>
+   <red>ã€Ž<red>ãƒ†<red>ãƒ³<red>ã‚«<red>ã‚¤<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œã‚¹ã‚¿ãƒ•ã‚£ãƒ¼!!<line>
+ ã¨ã†ã¨ã†ã“ã“ã¾ã§<line>
+ ã‚„ã£ã¦æ¥ãŸã‚ã­!ã€<wait><scrollup><scrollup><scrollup><line>
+ã€Œã‚ªãƒ¼ã‚°ãƒ©ã¯ ãã‚‡ã†ã¦ãã‚ˆ!<line>
+ æ°—ã‚’ã²ãã—ã‚ã¦ ã•ã„ã”ã®<line>
+ ãŸãŸã‹ã„ã« ã®ãžã‚“ã§ã­!ã€<end>
 
 
 //POINTER #133 @ $216BC0 - STRING #133 @ $276771
 
 #WRITE(GBA,$216BC0)
 <line>
-    <red>w<red>•X<red>‚Ì<red>ŠC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚Ç‚¤‚µ‚½‚Ì? ƒXƒ^ƒtƒB[<line>
- •X‚É ‚Æ‚¶‚±‚ß‚ç‚ê‚½ ƒNƒŠƒIƒŒ‚ð<line>
- ‚È‚ñ‚Æ‚©‚µ‚Ä‚ ‚°‚È‚¢‚ÆEEEv<end>
+    <red>ã€Ž<red>æ°·<red>ã®<red>æµ·<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œã©ã†ã—ãŸã®? ã‚¹ã‚¿ãƒ•ã‚£ãƒ¼<line>
+ æ°·ã« ã¨ã˜ã“ã‚ã‚‰ã‚ŒãŸ ã‚¯ãƒªã‚ªãƒ¬ã‚’<line>
+ ãªã‚“ã¨ã‹ã—ã¦ã‚ã’ãªã„ã¨ãƒ»ãƒ»ãƒ»ã€<end>
 
 
 //POINTER #134 @ $216BC4 - STRING #134 @ $2767DB
 
 #WRITE(GBA,$216BC4)
 <line>
-    <red>w<red>•X<red>‚Ì<red>ŠC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚Ç‚¤‚µ‚½‚Ì? ƒXƒ^ƒtƒB[<line>
- •X‚É ‚Æ‚¶‚±‚ß‚ç‚ê‚½ ƒNƒŠƒIƒŒ‚ð<line>
- ‚È‚ñ‚Æ‚©‚µ‚Ä‚ ‚°‚È‚¢‚ÆEEEv<end>
+    <red>ã€Ž<red>æ°·<red>ã®<red>æµ·<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œã©ã†ã—ãŸã®? ã‚¹ã‚¿ãƒ•ã‚£ãƒ¼<line>
+ æ°·ã« ã¨ã˜ã“ã‚ã‚‰ã‚ŒãŸ ã‚¯ãƒªã‚ªãƒ¬ã‚’<line>
+ ãªã‚“ã¨ã‹ã—ã¦ã‚ã’ãªã„ã¨ãƒ»ãƒ»ãƒ»ã€<end>
 
 
 //POINTER #135 @ $216BC8 - STRING #135 @ $276845
 
 #WRITE(GBA,$216BC8)
 <line>
-  <red>w<red>ƒU<red>ƒV<red>ƒ‡<red>ƒE<red>ƒN<red>ƒW<red>ƒ‰<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-uƒNƒWƒ‰‚³‚ñ‚É<line>
- ‚·‚¢‚±‚Ü‚ê‚¿‚á‚Á‚½‚ñ‚¾EEEv<wait><scrollup><scrollup><line>
-u‚Å‚à ‚ ‚È‚½‚Ì ‚½‚·‚¯‚ð‚Ü‚Â<line>
- ‚È‚©‚Ü‚ª ‚¢‚é‚í! ‚ª‚ñ‚Î‚Á‚Ä!v<end>
+  <red>ã€Ž<red>ã‚¶<red>ã‚·<red>ãƒ§<red>ã‚¦<red>ã‚¯<red>ã‚¸<red>ãƒ©<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œã‚¯ã‚¸ãƒ©ã•ã‚“ã«<line>
+ ã™ã„ã“ã¾ã‚Œã¡ã‚ƒã£ãŸã‚“ã ãƒ»ãƒ»ãƒ»ã€<wait><scrollup><scrollup><line>
+ã€Œã§ã‚‚ ã‚ãªãŸã® ãŸã™ã‘ã‚’ã¾ã¤<line>
+ ãªã‹ã¾ãŒ ã„ã‚‹ã‚! ãŒã‚“ã°ã£ã¦!ã€<end>
 
 
 //POINTER #136 @ $216BCC - STRING #136 @ $2768CB
 
 #WRITE(GBA,$216BCC)
 <line>
-  <red>w<red>ƒU<red>ƒV<red>ƒ‡<red>ƒE<red>ƒN<red>ƒW<red>ƒ‰<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚¢‚ë‚ñ‚È ‚È‚©‚Ü‚ð ‚³‚ª‚µ‚Ä‚Ë!<line>
- ‚«‚Á‚Æ ƒNƒWƒ‰‚³‚ñ‚Ì<line>
- ‚½‚·‚¯‚©‚½‚ª ‚í‚©‚é‚Í‚¸!v<end>
+  <red>ã€Ž<red>ã‚¶<red>ã‚·<red>ãƒ§<red>ã‚¦<red>ã‚¯<red>ã‚¸<red>ãƒ©<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œã„ã‚ã‚“ãª ãªã‹ã¾ã‚’ ã•ãŒã—ã¦ã­!<line>
+ ãã£ã¨ ã‚¯ã‚¸ãƒ©ã•ã‚“ã®<line>
+ ãŸã™ã‘ã‹ãŸãŒ ã‚ã‹ã‚‹ã¯ãš!ã€<end>
 
 
 //POINTER #137 @ $216BD0 - STRING #137 @ $27693C
 
 #WRITE(GBA,$216BD0)
 <line>
-    <red>w<red>•X<red>‚Ì<red>ŠC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚¨‚Â‚©‚ê‚³‚Ü ƒXƒ^ƒtƒB[!<line>
- ‚ ‚Æ‚Í ƒ{ƒG[ƒ‹ƒ“‚ð<line>
- ‚½‚¨‚·‚¾‚¯‚Ë! ‚ª‚ñ‚Î‚Á‚Ä!v<end>
+    <red>ã€Ž<red>æ°·<red>ã®<red>æµ·<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€ŒãŠã¤ã‹ã‚Œã•ã¾ ã‚¹ã‚¿ãƒ•ã‚£ãƒ¼!<line>
+ ã‚ã¨ã¯ ãƒœã‚¨ãƒ¼ãƒ«ãƒ³ã‚’<line>
+ ãŸãŠã™ã ã‘ã­! ãŒã‚“ã°ã£ã¦!ã€<end>
 
 
 //POINTER #138 @ $216BD4 - STRING #138 @ $2769A1
 
 #WRITE(GBA,$216BD4)
 <line>
-   <red>w<red>‚Ó<red>‚©<red>‚¢<red>ŠC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-uƒ^ƒ‹ƒCƒJ‚³‚ñ‚½‚¿‚ª ‚Ó‚³‚¢‚Å<line>
- ‚¢‚½ 4‚Â‚Ìƒgƒrƒ‰‚Í ‚Ç‚±‚É<line>
- ‚Â‚È‚ª‚Á‚Ä‚¢‚é‚Ì‚©‚µ‚çEEv<end>
+   <red>ã€Ž<red>ãµ<red>ã‹<red>ã„<red>æµ·<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œã‚¿ãƒ«ã‚¤ã‚«ã•ã‚“ãŸã¡ãŒ ãµã•ã„ã§<line>
+ ã„ãŸ 4ã¤ã®ãƒˆãƒ“ãƒ©ã¯ ã©ã“ã«<line>
+ ã¤ãªãŒã£ã¦ã„ã‚‹ã®ã‹ã—ã‚‰ãƒ»ãƒ»ã€<end>
 
 
 //POINTER #139 @ $216BD8 - STRING #139 @ $276A0C
 
 #WRITE(GBA,$216BD8)
 <line>
-   <red>w<red>‚Ó<red>‚©<red>‚¢<red>ŠC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚Ç‚ñ‚Ç‚ñ ‚·‚·‚Ý‚Ü‚µ‚å!<line>
- ‚Å‚à ‚Ç‚¤‚·‚ê‚Î<line>
- ƒgƒrƒ‰‚Í ‚Ð‚ç‚­‚Ì‚©‚µ‚ç?v<end>
+   <red>ã€Ž<red>ãµ<red>ã‹<red>ã„<red>æµ·<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œã©ã‚“ã©ã‚“ ã™ã™ã¿ã¾ã—ã‚‡!<line>
+ ã§ã‚‚ ã©ã†ã™ã‚Œã°<line>
+ ãƒˆãƒ“ãƒ©ã¯ ã²ã‚‰ãã®ã‹ã—ã‚‰?ã€<end>
 
 
 //POINTER #140 @ $216BDC - STRING #140 @ $276A6F
 
 #WRITE(GBA,$216BDC)
 <line>
- <red>w<red>‚©<red>‚¢<red>‚Ä<red>‚¢<red>‚µ<red>‚ñ<red>‚Å<red>‚ñ<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u<red>w<red>‚æ<red>‚°<red>‚ñ<red>‚µ<red>‚å<red>x‚Í ‚Ç‚±‚É?<line>
- ‚µ‚ñ‚Å‚ñ‚Ì ’†‚ð ‚½‚ñ‚¯‚ñ‚·‚é‚Æ<line>
- ‚Ý‚Â‚©‚é‚©‚È?v<end>
+ <red>ã€Ž<red>ã‹<red>ã„<red>ã¦<red>ã„<red>ã—<red>ã‚“<red>ã§<red>ã‚“<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œ<red>ã€Ž<red>ã‚ˆ<red>ã’<red>ã‚“<red>ã—<red>ã‚‡<red>ã€ã¯ ã©ã“ã«?<line>
+ ã—ã‚“ã§ã‚“ã® ä¸­ã‚’ ãŸã‚“ã‘ã‚“ã™ã‚‹ã¨<line>
+ ã¿ã¤ã‹ã‚‹ã‹ãª?ã€<end>
 
 
 //POINTER #141 @ $216BE0 - STRING #141 @ $276AED
 
 #WRITE(GBA,$216BE0)
 <line>
- <red>w<red>‚©<red>‚¢<red>‚Ä<red>‚¢<red>‚µ<red>‚ñ<red>‚Å<red>‚ñ<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u<red>w<red>‚æ<red>‚°<red>‚ñ<red>‚µ<red>‚å<red>x‚Í ‚Ç‚±‚É?<line>
- ‚µ‚ñ‚Å‚ñ‚Ì ’†‚ð ‚½‚ñ‚¯‚ñ‚·‚é‚Æ<line>
- ‚Ý‚Â‚©‚é‚©‚È?v<end>
+ <red>ã€Ž<red>ã‹<red>ã„<red>ã¦<red>ã„<red>ã—<red>ã‚“<red>ã§<red>ã‚“<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œ<red>ã€Ž<red>ã‚ˆ<red>ã’<red>ã‚“<red>ã—<red>ã‚‡<red>ã€ã¯ ã©ã“ã«?<line>
+ ã—ã‚“ã§ã‚“ã® ä¸­ã‚’ ãŸã‚“ã‘ã‚“ã™ã‚‹ã¨<line>
+ ã¿ã¤ã‹ã‚‹ã‹ãª?ã€<end>
 
 
 //POINTER #142 @ $216BE4 - STRING #142 @ $276B6B
 
 #WRITE(GBA,$216BE4)
 <line>
-   <red>w<red>ƒe<red>ƒ“<red>ƒJ<red>ƒC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-uƒXƒ^ƒtƒB[!!<line>
- ‚Æ‚¤‚Æ‚¤‚±‚±‚Ü‚Å<line>
- ‚â‚Á‚Ä—ˆ‚½‚í‚Ë!v<wait><scrollup><scrollup><scrollup><line>
-uƒI[ƒOƒ‰‚Í ‚«‚å‚¤‚Ä‚«‚æ!<line>
- ‹C‚ð‚Ð‚«‚µ‚ß‚Ä ‚³‚¢‚²‚Ì<line>
- ‚½‚½‚©‚¢‚É ‚Ì‚¼‚ñ‚Å‚Ë!v<end>
+   <red>ã€Ž<red>ãƒ†<red>ãƒ³<red>ã‚«<red>ã‚¤<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œã‚¹ã‚¿ãƒ•ã‚£ãƒ¼!!<line>
+ ã¨ã†ã¨ã†ã“ã“ã¾ã§<line>
+ ã‚„ã£ã¦æ¥ãŸã‚ã­!ã€<wait><scrollup><scrollup><scrollup><line>
+ã€Œã‚ªãƒ¼ã‚°ãƒ©ã¯ ãã‚‡ã†ã¦ãã‚ˆ!<line>
+ æ°—ã‚’ã²ãã—ã‚ã¦ ã•ã„ã”ã®<line>
+ ãŸãŸã‹ã„ã« ã®ãžã‚“ã§ã­!ã€<end>
 
 
 //POINTER #143 @ $216BE8 - STRING #143 @ $276BFB
 
 #WRITE(GBA,$216BE8)
 <line>
-   <red>w<red>ƒe<red>ƒ“<red>ƒJ<red>ƒC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-uƒXƒ^ƒtƒB[!!<line>
- ‚Æ‚¤‚Æ‚¤‚±‚±‚Ü‚Å<line>
- ‚â‚Á‚Ä—ˆ‚½‚í‚Ë!v<wait><scrollup><scrollup><scrollup><line>
-uƒI[ƒOƒ‰‚Í ‚«‚å‚¤‚Ä‚«‚æ!<line>
- ‹C‚ð‚Ð‚«‚µ‚ß‚Ä ‚³‚¢‚²‚Ì<line>
- ‚½‚½‚©‚¢‚É ‚Ì‚¼‚ñ‚Å‚Ë!v<end>
+   <red>ã€Ž<red>ãƒ†<red>ãƒ³<red>ã‚«<red>ã‚¤<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œã‚¹ã‚¿ãƒ•ã‚£ãƒ¼!!<line>
+ ã¨ã†ã¨ã†ã“ã“ã¾ã§<line>
+ ã‚„ã£ã¦æ¥ãŸã‚ã­!ã€<wait><scrollup><scrollup><scrollup><line>
+ã€Œã‚ªãƒ¼ã‚°ãƒ©ã¯ ãã‚‡ã†ã¦ãã‚ˆ!<line>
+ æ°—ã‚’ã²ãã—ã‚ã¦ ã•ã„ã”ã®<line>
+ ãŸãŸã‹ã„ã« ã®ãžã‚“ã§ã­!ã€<end>
 
 
 //POINTER #144 @ $216BEC - STRING #144 @ $276C8B
 
 #WRITE(GBA,$216BEC)
 <line>
-   <red>w<red>‚»<red>‚ç<red>‚Ì<red>ŠC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚ª‚ñ‚Î‚Á‚Ä ƒXƒ^ƒtƒB[!<line>
- ‚É‚Á‚­‚« ƒI[ƒOƒ‰‚Í<line>
- ‚·‚®‚»‚±‚æ!v<end>
+   <red>ã€Ž<red>ã<red>ã‚‰<red>ã®<red>æµ·<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€ŒãŒã‚“ã°ã£ã¦ ã‚¹ã‚¿ãƒ•ã‚£ãƒ¼!<line>
+ ã«ã£ãã ã‚ªãƒ¼ã‚°ãƒ©ã¯<line>
+ ã™ããã“ã‚ˆ!ã€<end>
 
 
 //POINTER #145 @ $216BF0 - STRING #145 @ $276CE9
 
 #WRITE(GBA,$216BF0)
 <line>
-   <red>w<red>‚»<red>‚ç<red>‚Ì<red>ŠC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚ª‚ñ‚Î‚Á‚Ä ƒXƒ^ƒtƒB[!<line>
- ‚É‚Á‚­‚« ƒI[ƒOƒ‰‚Í<line>
- ‚·‚®‚»‚±‚æ!v<end>
+   <red>ã€Ž<red>ã<red>ã‚‰<red>ã®<red>æµ·<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€ŒãŒã‚“ã°ã£ã¦ ã‚¹ã‚¿ãƒ•ã‚£ãƒ¼!<line>
+ ã«ã£ãã ã‚ªãƒ¼ã‚°ãƒ©ã¯<line>
+ ã™ããã“ã‚ˆ!ã€<end>
 
 
 //POINTER #146 @ $216BF4 - STRING #146 @ $276D47
 
 #WRITE(GBA,$216BF4)
 <line>
-   <red>w<red>‚»<red>‚ç<red>‚Ì<red>ŠC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚ª‚ñ‚Î‚Á‚Ä ƒXƒ^ƒtƒB[!<line>
- ‚É‚Á‚­‚« ƒI[ƒOƒ‰‚Í<line>
- ‚·‚®‚»‚±‚æ!v<end>
+   <red>ã€Ž<red>ã<red>ã‚‰<red>ã®<red>æµ·<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€ŒãŒã‚“ã°ã£ã¦ ã‚¹ã‚¿ãƒ•ã‚£ãƒ¼!<line>
+ ã«ã£ãã ã‚ªãƒ¼ã‚°ãƒ©ã¯<line>
+ ã™ããã“ã‚ˆ!ã€<end>
 
 
 //POINTER #147 @ $216BF8 - STRING #147 @ $276DA5
 
 #WRITE(GBA,$216BF8)
 <line>
-  <red>w<red>ƒ<red>ƒu<red>‚Ì<red>‚Ç<red>‚¤<red>‚­<red>‚Â<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚½‚©‚ç‚à‚Ì‚Í ‚Ç‚ê‚¾‚¯<line>
- ‚Ý‚Â‚©‚Á‚½‚Ì‚©‚µ‚ç?<line>
- ‚ª‚ñ‚Î‚Á‚Ä ‚Ú‚¤‚¯‚ñ‚µ‚Ä‚Ë!v<end>
+  <red>ã€Ž<red>ãƒ­<red>ãƒ–<red>ã®<red>ã©<red>ã†<red>ã<red>ã¤<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€ŒãŸã‹ã‚‰ã‚‚ã®ã¯ ã©ã‚Œã ã‘<line>
+ ã¿ã¤ã‹ã£ãŸã®ã‹ã—ã‚‰?<line>
+ ãŒã‚“ã°ã£ã¦ ã¼ã†ã‘ã‚“ã—ã¦ã­!ã€<end>
 
 
 //POINTER #148 @ $216BFC - STRING #148 @ $276E12
 
 #WRITE(GBA,$216BFC)
 <line>
-  <red>w<red>ƒT<red>ƒ“<red>ƒS<red>ƒV<red>ƒ‡<red>ƒE<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚½‚©‚ç‚à‚Ì‚Í ‚Ç‚ê‚¾‚¯<line>
- ‚Ý‚Â‚©‚Á‚½‚Ì‚©‚µ‚ç?<line>
- ‚ª‚ñ‚Î‚Á‚Ä ‚Ú‚¤‚¯‚ñ‚µ‚Ä‚Ë!v<end>
+  <red>ã€Ž<red>ã‚µ<red>ãƒ³<red>ã‚´<red>ã‚·<red>ãƒ§<red>ã‚¦<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€ŒãŸã‹ã‚‰ã‚‚ã®ã¯ ã©ã‚Œã ã‘<line>
+ ã¿ã¤ã‹ã£ãŸã®ã‹ã—ã‚‰?<line>
+ ãŒã‚“ã°ã£ã¦ ã¼ã†ã‘ã‚“ã—ã¦ã­!ã€<end>
 
 
 //POINTER #149 @ $216C00 - STRING #149 @ $276E7C
 
 #WRITE(GBA,$216C00)
 <line>
-  <red>w<red>ƒU<red>ƒV<red>ƒ‡<red>ƒE<red>ƒN<red>ƒW<red>ƒ‰<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚½‚©‚ç‚à‚Ì‚Í ‚Ç‚ê‚¾‚¯<line>
- ‚Ý‚Â‚©‚Á‚½‚Ì‚©‚µ‚ç?<line>
- ‚ª‚ñ‚Î‚Á‚Ä ‚Ú‚¤‚¯‚ñ‚µ‚Ä‚Ë!v<end>
+  <red>ã€Ž<red>ã‚¶<red>ã‚·<red>ãƒ§<red>ã‚¦<red>ã‚¯<red>ã‚¸<red>ãƒ©<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€ŒãŸã‹ã‚‰ã‚‚ã®ã¯ ã©ã‚Œã ã‘<line>
+ ã¿ã¤ã‹ã£ãŸã®ã‹ã—ã‚‰?<line>
+ ãŒã‚“ã°ã£ã¦ ã¼ã†ã‘ã‚“ã—ã¦ã­!ã€<end>
 
 
 //POINTER #150 @ $216C04 - STRING #150 @ $276EE9
 
 #WRITE(GBA,$216C04)
 <line>
-    <red>w<red>•X<red>‚Ì<red>ŠC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚½‚©‚ç‚à‚Ì‚Í ‚Ç‚ê‚¾‚¯<line>
- ‚Ý‚Â‚©‚Á‚½‚Ì‚©‚µ‚ç?<line>
- ‚ª‚ñ‚Î‚Á‚Ä ‚Ú‚¤‚¯‚ñ‚µ‚Ä‚Ë!v<end>
+    <red>ã€Ž<red>æ°·<red>ã®<red>æµ·<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€ŒãŸã‹ã‚‰ã‚‚ã®ã¯ ã©ã‚Œã ã‘<line>
+ ã¿ã¤ã‹ã£ãŸã®ã‹ã—ã‚‰?<line>
+ ãŒã‚“ã°ã£ã¦ ã¼ã†ã‘ã‚“ã—ã¦ã­!ã€<end>
 
 
 //POINTER #151 @ $216C08 - STRING #151 @ $276F4C
 
 #WRITE(GBA,$216C08)
 <line>
-   <red>w<red>‚Ó<red>‚©<red>‚¢<red>ŠC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚½‚©‚ç‚à‚Ì‚Í ‚Ç‚ê‚¾‚¯<line>
- ‚Ý‚Â‚©‚Á‚½‚Ì‚©‚µ‚ç?<line>
- ‚ª‚ñ‚Î‚Á‚Ä ‚Ú‚¤‚¯‚ñ‚µ‚Ä‚Ë!v<end>
+   <red>ã€Ž<red>ãµ<red>ã‹<red>ã„<red>æµ·<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€ŒãŸã‹ã‚‰ã‚‚ã®ã¯ ã©ã‚Œã ã‘<line>
+ ã¿ã¤ã‹ã£ãŸã®ã‹ã—ã‚‰?<line>
+ ãŒã‚“ã°ã£ã¦ ã¼ã†ã‘ã‚“ã—ã¦ã­!ã€<end>
 
 
 //POINTER #152 @ $216C0C - STRING #152 @ $276FB1
 
 #WRITE(GBA,$216C0C)
 <line>
-  <red>w<red>‚¿<red>‚ñ<red>‚Ú<red>‚Â<red>‚¹<red>‚ñ<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚½‚©‚ç‚à‚Ì‚Í ‚Ç‚ê‚¾‚¯<line>
- ‚Ý‚Â‚©‚Á‚½‚Ì‚©‚µ‚ç?<line>
- ‚ª‚ñ‚Î‚Á‚Ä ‚Ú‚¤‚¯‚ñ‚µ‚Ä‚Ë!v<end>
+  <red>ã€Ž<red>ã¡<red>ã‚“<red>ã¼<red>ã¤<red>ã›<red>ã‚“<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€ŒãŸã‹ã‚‰ã‚‚ã®ã¯ ã©ã‚Œã ã‘<line>
+ ã¿ã¤ã‹ã£ãŸã®ã‹ã—ã‚‰?<line>
+ ãŒã‚“ã°ã£ã¦ ã¼ã†ã‘ã‚“ã—ã¦ã­!ã€<end>
 
 
 //POINTER #153 @ $216C10 - STRING #153 @ $27701B
 
 #WRITE(GBA,$216C10)
 <line>
- <red>w<red>‚©<red>‚¢<red>‚Ä<red>‚¢<red>‚µ<red>‚ñ<red>‚Å<red>‚ñ<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚½‚©‚ç‚à‚Ì‚Í ‚Ç‚ê‚¾‚¯<line>
- ‚Ý‚Â‚©‚Á‚½‚Ì‚©‚µ‚ç?<line>
- ‚ª‚ñ‚Î‚Á‚Ä ‚Ú‚¤‚¯‚ñ‚µ‚Ä‚Ë!v<end>
+ <red>ã€Ž<red>ã‹<red>ã„<red>ã¦<red>ã„<red>ã—<red>ã‚“<red>ã§<red>ã‚“<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€ŒãŸã‹ã‚‰ã‚‚ã®ã¯ ã©ã‚Œã ã‘<line>
+ ã¿ã¤ã‹ã£ãŸã®ã‹ã—ã‚‰?<line>
+ ãŒã‚“ã°ã£ã¦ ã¼ã†ã‘ã‚“ã—ã¦ã­!ã€<end>
 
 
 //POINTER #154 @ $216C14 - STRING #154 @ $27708A
 
 #WRITE(GBA,$216C14)
 <line>
-   <red>w<red>‚»<red>‚ç<red>‚Ì<red>ŠC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚½‚©‚ç‚à‚Ì‚Í ‚Ç‚ê‚¾‚¯<line>
- ‚Ý‚Â‚©‚Á‚½‚Ì‚©‚µ‚ç?<line>
- ‚ª‚ñ‚Î‚Á‚Ä ‚Ú‚¤‚¯‚ñ‚µ‚Ä‚Ë!v<end>
+   <red>ã€Ž<red>ã<red>ã‚‰<red>ã®<red>æµ·<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€ŒãŸã‹ã‚‰ã‚‚ã®ã¯ ã©ã‚Œã ã‘<line>
+ ã¿ã¤ã‹ã£ãŸã®ã‹ã—ã‚‰?<line>
+ ãŒã‚“ã°ã£ã¦ ã¼ã†ã‘ã‚“ã—ã¦ã­!ã€<end>
 
 
 //POINTER #155 @ $216C18 - STRING #155 @ $2770EF
 
 #WRITE(GBA,$216C18)
 <line>
-   <red>w<red>ƒe<red>ƒ“<red>ƒJ<red>ƒC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚½‚©‚ç‚à‚Ì‚Í ‚Ç‚ê‚¾‚¯<line>
- ‚Ý‚Â‚©‚Á‚½‚Ì‚©‚µ‚ç?<line>
- ‚ª‚ñ‚Î‚Á‚Ä ‚Ú‚¤‚¯‚ñ‚µ‚Ä‚Ë!v<end>
+   <red>ã€Ž<red>ãƒ†<red>ãƒ³<red>ã‚«<red>ã‚¤<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€ŒãŸã‹ã‚‰ã‚‚ã®ã¯ ã©ã‚Œã ã‘<line>
+ ã¿ã¤ã‹ã£ãŸã®ã‹ã—ã‚‰?<line>
+ ãŒã‚“ã°ã£ã¦ ã¼ã†ã‘ã‚“ã—ã¦ã­!ã€<end>
 
 
 //POINTER #156 @ $216C1C - STRING #156 @ $277154
 
 #WRITE(GBA,$216C1C)
 <line>
-    <red>w<red>•X<red>‚Ì<red>ŠC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚Ç‚¤‚µ‚½‚Ì? ƒXƒ^ƒtƒB[<line>
- •X‚É ‚Æ‚¶‚±‚ß‚ç‚ê‚½ ƒNƒŠƒIƒŒ‚ð<line>
- ‚È‚ñ‚Æ‚©‚µ‚Ä‚ ‚°‚È‚¢‚ÆEEEv<end>
+    <red>ã€Ž<red>æ°·<red>ã®<red>æµ·<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œã©ã†ã—ãŸã®? ã‚¹ã‚¿ãƒ•ã‚£ãƒ¼<line>
+ æ°·ã« ã¨ã˜ã“ã‚ã‚‰ã‚ŒãŸ ã‚¯ãƒªã‚ªãƒ¬ã‚’<line>
+ ãªã‚“ã¨ã‹ã—ã¦ã‚ã’ãªã„ã¨ãƒ»ãƒ»ãƒ»ã€<end>
 
 
 //POINTER #157 @ $216C20 - STRING #157 @ $2771BE
 
 #WRITE(GBA,$216C20)
 <line>
-   <red>w<red>‚»<red>‚ç<red>‚Ì<red>ŠC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚ª‚ñ‚Î‚Á‚Ä ƒXƒ^ƒtƒB[!<line>
- ‚É‚Á‚­‚« ƒI[ƒOƒ‰‚Í<line>
- ‚·‚®‚»‚±‚æ!v<end>
+   <red>ã€Ž<red>ã<red>ã‚‰<red>ã®<red>æµ·<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€ŒãŒã‚“ã°ã£ã¦ ã‚¹ã‚¿ãƒ•ã‚£ãƒ¼!<line>
+ ã«ã£ãã ã‚ªãƒ¼ã‚°ãƒ©ã¯<line>
+ ã™ããã“ã‚ˆ!ã€<end>
 
 
 //POINTER #158 @ $216C24 - STRING #158 @ $27721C
 
 #WRITE(GBA,$216C24)
 <line>
-   <red>w<red>ƒe<red>ƒ“<red>ƒJ<red>ƒC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-uƒXƒ^ƒtƒB[!!<line>
- ‚Æ‚¤‚Æ‚¤‚±‚±‚Ü‚Å<line>
- ‚â‚Á‚Ä—ˆ‚½‚í‚Ë!v<wait><scrollup><scrollup><scrollup><line>
-uƒI[ƒOƒ‰‚Í ‚«‚å‚¤‚Ä‚«‚æ!<line>
- ‹C‚ð‚Ð‚«‚µ‚ß‚Ä ‚³‚¢‚²‚Ì<line>
- ‚½‚½‚©‚¢‚É ‚Ì‚¼‚ñ‚Å‚Ë!v<end>
+   <red>ã€Ž<red>ãƒ†<red>ãƒ³<red>ã‚«<red>ã‚¤<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œã‚¹ã‚¿ãƒ•ã‚£ãƒ¼!!<line>
+ ã¨ã†ã¨ã†ã“ã“ã¾ã§<line>
+ ã‚„ã£ã¦æ¥ãŸã‚ã­!ã€<wait><scrollup><scrollup><scrollup><line>
+ã€Œã‚ªãƒ¼ã‚°ãƒ©ã¯ ãã‚‡ã†ã¦ãã‚ˆ!<line>
+ æ°—ã‚’ã²ãã—ã‚ã¦ ã•ã„ã”ã®<line>
+ ãŸãŸã‹ã„ã« ã®ãžã‚“ã§ã­!ã€<end>
 
 
 //POINTER #159 @ $216C28 - STRING #159 @ $2772AC
 
 #WRITE(GBA,$216C28)
 <line>
-  <red>w<red>‚¿<red>‚ñ<red>‚Ú<red>‚Â<red>‚¹<red>‚ñ<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚¢‚»‚¢‚Å! ƒXƒ^ƒtƒB[!<line>
- ƒ}ƒ‚ƒm‚Í ‚·‚®‚»‚±‚Ü‚Å<line>
- —ˆ‚Ä‚¢‚é‚í!!v<end>
+  <red>ã€Ž<red>ã¡<red>ã‚“<red>ã¼<red>ã¤<red>ã›<red>ã‚“<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€Œã„ãã„ã§! ã‚¹ã‚¿ãƒ•ã‚£ãƒ¼!<line>
+ ãƒžãƒ¢ãƒŽã¯ ã™ããã“ã¾ã§<line>
+ æ¥ã¦ã„ã‚‹ã‚!!ã€<end>
 
 
 //POINTER #160 @ $216C2C - STRING #160 @ $277311
 
 #WRITE(GBA,$216C2C)
 <line>
-  <red>w<red>ƒ<red>ƒu<red>‚Ì<red>‚Ç<red>‚¤<red>‚­<red>‚Â<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚½‚©‚ç‚à‚Ì‚Í ‚Ç‚ê‚¾‚¯<line>
- ‚Ý‚Â‚©‚Á‚½‚Ì‚©‚µ‚ç?<line>
- ‚ª‚ñ‚Î‚Á‚Ä ‚Ú‚¤‚¯‚ñ‚µ‚Ä‚Ë!v<end>
+  <red>ã€Ž<red>ãƒ­<red>ãƒ–<red>ã®<red>ã©<red>ã†<red>ã<red>ã¤<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€ŒãŸã‹ã‚‰ã‚‚ã®ã¯ ã©ã‚Œã ã‘<line>
+ ã¿ã¤ã‹ã£ãŸã®ã‹ã—ã‚‰?<line>
+ ãŒã‚“ã°ã£ã¦ ã¼ã†ã‘ã‚“ã—ã¦ã­!ã€<end>
 
 
 //POINTER #161 @ $216C30 - STRING #161 @ $27737E
 
 #WRITE(GBA,$216C30)
 <line>
-  <red>w<red>ƒU<red>ƒV<red>ƒ‡<red>ƒE<red>ƒN<red>ƒW<red>ƒ‰<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚½‚©‚ç‚à‚Ì‚Í ‚Ç‚ê‚¾‚¯<line>
- ‚Ý‚Â‚©‚Á‚½‚Ì‚©‚µ‚ç?<line>
- ‚ª‚ñ‚Î‚Á‚Ä ‚Ú‚¤‚¯‚ñ‚µ‚Ä‚Ë!v<end>
+  <red>ã€Ž<red>ã‚¶<red>ã‚·<red>ãƒ§<red>ã‚¦<red>ã‚¯<red>ã‚¸<red>ãƒ©<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€ŒãŸã‹ã‚‰ã‚‚ã®ã¯ ã©ã‚Œã ã‘<line>
+ ã¿ã¤ã‹ã£ãŸã®ã‹ã—ã‚‰?<line>
+ ãŒã‚“ã°ã£ã¦ ã¼ã†ã‘ã‚“ã—ã¦ã­!ã€<end>
 
 
 //POINTER #162 @ $216C34 - STRING #162 @ $2773EB
 
 #WRITE(GBA,$216C34)
 <line>
-    <red>w<red>•X<red>‚Ì<red>ŠC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚½‚©‚ç‚à‚Ì‚Í ‚Ç‚ê‚¾‚¯<line>
- ‚Ý‚Â‚©‚Á‚½‚Ì‚©‚µ‚ç?<line>
- ‚ª‚ñ‚Î‚Á‚Ä ‚Ú‚¤‚¯‚ñ‚µ‚Ä‚Ë!v<end>
+    <red>ã€Ž<red>æ°·<red>ã®<red>æµ·<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€ŒãŸã‹ã‚‰ã‚‚ã®ã¯ ã©ã‚Œã ã‘<line>
+ ã¿ã¤ã‹ã£ãŸã®ã‹ã—ã‚‰?<line>
+ ãŒã‚“ã°ã£ã¦ ã¼ã†ã‘ã‚“ã—ã¦ã­!ã€<end>
 
 
 //POINTER #163 @ $216C38 - STRING #163 @ $27744E
 
 #WRITE(GBA,$216C38)
 <line>
-   <red>w<red>‚Ó<red>‚©<red>‚¢<red>ŠC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚½‚©‚ç‚à‚Ì‚Í ‚Ç‚ê‚¾‚¯<line>
- ‚Ý‚Â‚©‚Á‚½‚Ì‚©‚µ‚ç?<line>
- ‚ª‚ñ‚Î‚Á‚Ä ‚Ú‚¤‚¯‚ñ‚µ‚Ä‚Ë!v<end>
+   <red>ã€Ž<red>ãµ<red>ã‹<red>ã„<red>æµ·<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€ŒãŸã‹ã‚‰ã‚‚ã®ã¯ ã©ã‚Œã ã‘<line>
+ ã¿ã¤ã‹ã£ãŸã®ã‹ã—ã‚‰?<line>
+ ãŒã‚“ã°ã£ã¦ ã¼ã†ã‘ã‚“ã—ã¦ã­!ã€<end>
 
 
 //POINTER #164 @ $216C3C - STRING #164 @ $2774B3
 
 #WRITE(GBA,$216C3C)
 <line>
-  <red>w<red>‚¿<red>‚ñ<red>‚Ú<red>‚Â<red>‚¹<red>‚ñ<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚½‚©‚ç‚à‚Ì‚Í ‚Ç‚ê‚¾‚¯<line>
- ‚Ý‚Â‚©‚Á‚½‚Ì‚©‚µ‚ç?<line>
- ‚ª‚ñ‚Î‚Á‚Ä ‚Ú‚¤‚¯‚ñ‚µ‚Ä‚Ë!v<end>
+  <red>ã€Ž<red>ã¡<red>ã‚“<red>ã¼<red>ã¤<red>ã›<red>ã‚“<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€ŒãŸã‹ã‚‰ã‚‚ã®ã¯ ã©ã‚Œã ã‘<line>
+ ã¿ã¤ã‹ã£ãŸã®ã‹ã—ã‚‰?<line>
+ ãŒã‚“ã°ã£ã¦ ã¼ã†ã‘ã‚“ã—ã¦ã­!ã€<end>
 
 
 //POINTER #165 @ $216C40 - STRING #165 @ $27751D
 
 #WRITE(GBA,$216C40)
 <line>
-  <red>w<red>‚¿<red>‚ñ<red>‚Ú<red>‚Â<red>‚¹<red>‚ñ<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚½‚©‚ç‚à‚Ì‚Í ‚Ç‚ê‚¾‚¯<line>
- ‚Ý‚Â‚©‚Á‚½‚Ì‚©‚µ‚ç?<line>
- ‚ª‚ñ‚Î‚Á‚Ä ‚Ú‚¤‚¯‚ñ‚µ‚Ä‚Ë!v<end>
+  <red>ã€Ž<red>ã¡<red>ã‚“<red>ã¼<red>ã¤<red>ã›<red>ã‚“<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€ŒãŸã‹ã‚‰ã‚‚ã®ã¯ ã©ã‚Œã ã‘<line>
+ ã¿ã¤ã‹ã£ãŸã®ã‹ã—ã‚‰?<line>
+ ãŒã‚“ã°ã£ã¦ ã¼ã†ã‘ã‚“ã—ã¦ã­!ã€<end>
 
 
 //POINTER #166 @ $216C44 - STRING #166 @ $277587
 
 #WRITE(GBA,$216C44)
 <line>
-  <red>w<red>‚¿<red>‚ñ<red>‚Ú<red>‚Â<red>‚¹<red>‚ñ<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚½‚©‚ç‚à‚Ì‚Í ‚Ç‚ê‚¾‚¯<line>
- ‚Ý‚Â‚©‚Á‚½‚Ì‚©‚µ‚ç?<line>
- ‚ª‚ñ‚Î‚Á‚Ä ‚Ú‚¤‚¯‚ñ‚µ‚Ä‚Ë!v<end>
+  <red>ã€Ž<red>ã¡<red>ã‚“<red>ã¼<red>ã¤<red>ã›<red>ã‚“<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€ŒãŸã‹ã‚‰ã‚‚ã®ã¯ ã©ã‚Œã ã‘<line>
+ ã¿ã¤ã‹ã£ãŸã®ã‹ã—ã‚‰?<line>
+ ãŒã‚“ã°ã£ã¦ ã¼ã†ã‘ã‚“ã—ã¦ã­!ã€<end>
 
 
 //POINTER #167 @ $216C48 - STRING #167 @ $2775F1
 
 #WRITE(GBA,$216C48)
 <line>
-  <red>w<red>‚¿<red>‚ñ<red>‚Ú<red>‚Â<red>‚¹<red>‚ñ<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚½‚©‚ç‚à‚Ì‚Í ‚Ç‚ê‚¾‚¯<line>
- ‚Ý‚Â‚©‚Á‚½‚Ì‚©‚µ‚ç?<line>
- ‚ª‚ñ‚Î‚Á‚Ä ‚Ú‚¤‚¯‚ñ‚µ‚Ä‚Ë!v<end>
+  <red>ã€Ž<red>ã¡<red>ã‚“<red>ã¼<red>ã¤<red>ã›<red>ã‚“<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€ŒãŸã‹ã‚‰ã‚‚ã®ã¯ ã©ã‚Œã ã‘<line>
+ ã¿ã¤ã‹ã£ãŸã®ã‹ã—ã‚‰?<line>
+ ãŒã‚“ã°ã£ã¦ ã¼ã†ã‘ã‚“ã—ã¦ã­!ã€<end>
 
 
 //POINTER #168 @ $216C4C - STRING #168 @ $27765B
 
 #WRITE(GBA,$216C4C)
 <line>
- <red>w<red>‚©<red>‚¢<red>‚Ä<red>‚¢<red>‚µ<red>‚ñ<red>‚Å<red>‚ñ<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚½‚©‚ç‚à‚Ì‚Í ‚Ç‚ê‚¾‚¯<line>
- ‚Ý‚Â‚©‚Á‚½‚Ì‚©‚µ‚ç?<line>
- ‚ª‚ñ‚Î‚Á‚Ä ‚Ú‚¤‚¯‚ñ‚µ‚Ä‚Ë!v<end>
+ <red>ã€Ž<red>ã‹<red>ã„<red>ã¦<red>ã„<red>ã—<red>ã‚“<red>ã§<red>ã‚“<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€ŒãŸã‹ã‚‰ã‚‚ã®ã¯ ã©ã‚Œã ã‘<line>
+ ã¿ã¤ã‹ã£ãŸã®ã‹ã—ã‚‰?<line>
+ ãŒã‚“ã°ã£ã¦ ã¼ã†ã‘ã‚“ã—ã¦ã­!ã€<end>
 
 
 //POINTER #169 @ $216C50 - STRING #169 @ $2776CA
 
 #WRITE(GBA,$216C50)
 <line>
- <red>w<red>‚©<red>‚¢<red>‚Ä<red>‚¢<red>‚µ<red>‚ñ<red>‚Å<red>‚ñ<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚½‚©‚ç‚à‚Ì‚Í ‚Ç‚ê‚¾‚¯<line>
- ‚Ý‚Â‚©‚Á‚½‚Ì‚©‚µ‚ç?<line>
- ‚ª‚ñ‚Î‚Á‚Ä ‚Ú‚¤‚¯‚ñ‚µ‚Ä‚Ë!v<end>
+ <red>ã€Ž<red>ã‹<red>ã„<red>ã¦<red>ã„<red>ã—<red>ã‚“<red>ã§<red>ã‚“<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€ŒãŸã‹ã‚‰ã‚‚ã®ã¯ ã©ã‚Œã ã‘<line>
+ ã¿ã¤ã‹ã£ãŸã®ã‹ã—ã‚‰?<line>
+ ãŒã‚“ã°ã£ã¦ ã¼ã†ã‘ã‚“ã—ã¦ã­!ã€<end>
 
 
 //POINTER #170 @ $216C54 - STRING #170 @ $277739
 
 #WRITE(GBA,$216C54)
 <line>
-   <red>w<red>‚»<red>‚ç<red>‚Ì<red>ŠC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚½‚©‚ç‚à‚Ì‚Í ‚Ç‚ê‚¾‚¯<line>
- ‚Ý‚Â‚©‚Á‚½‚Ì‚©‚µ‚ç?<line>
- ‚ª‚ñ‚Î‚Á‚Ä ‚Ú‚¤‚¯‚ñ‚µ‚Ä‚Ë!v<end>
+   <red>ã€Ž<red>ã<red>ã‚‰<red>ã®<red>æµ·<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€ŒãŸã‹ã‚‰ã‚‚ã®ã¯ ã©ã‚Œã ã‘<line>
+ ã¿ã¤ã‹ã£ãŸã®ã‹ã—ã‚‰?<line>
+ ãŒã‚“ã°ã£ã¦ ã¼ã†ã‘ã‚“ã—ã¦ã­!ã€<end>
 
 
 //POINTER #171 @ $216C58 - STRING #171 @ $27779E
 
 #WRITE(GBA,$216C58)
 <line>
-   <red>w<red>ƒe<red>ƒ“<red>ƒJ<red>ƒC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚½‚©‚ç‚à‚Ì‚Í ‚Ç‚ê‚¾‚¯<line>
- ‚Ý‚Â‚©‚Á‚½‚Ì‚©‚µ‚ç?<line>
- ‚ª‚ñ‚Î‚Á‚Ä ‚Ú‚¤‚¯‚ñ‚µ‚Ä‚Ë!v<end>
+   <red>ã€Ž<red>ãƒ†<red>ãƒ³<red>ã‚«<red>ã‚¤<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€ŒãŸã‹ã‚‰ã‚‚ã®ã¯ ã©ã‚Œã ã‘<line>
+ ã¿ã¤ã‹ã£ãŸã®ã‹ã—ã‚‰?<line>
+ ãŒã‚“ã°ã£ã¦ ã¼ã†ã‘ã‚“ã—ã¦ã­!ã€<end>
 
 
 //POINTER #172 @ $216C5C - STRING #172 @ $277803
 
 #WRITE(GBA,$216C5C)
 <line>
-   <red>w<red>ƒe<red>ƒ“<red>ƒJ<red>ƒC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚½‚©‚ç‚à‚Ì‚Í ‚Ç‚ê‚¾‚¯<line>
- ‚Ý‚Â‚©‚Á‚½‚Ì‚©‚µ‚ç?<line>
- ‚ª‚ñ‚Î‚Á‚Ä ‚Ú‚¤‚¯‚ñ‚µ‚Ä‚Ë!v<end>
+   <red>ã€Ž<red>ãƒ†<red>ãƒ³<red>ã‚«<red>ã‚¤<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€ŒãŸã‹ã‚‰ã‚‚ã®ã¯ ã©ã‚Œã ã‘<line>
+ ã¿ã¤ã‹ã£ãŸã®ã‹ã—ã‚‰?<line>
+ ãŒã‚“ã°ã£ã¦ ã¼ã†ã‘ã‚“ã—ã¦ã­!ã€<end>
 
 
 //POINTER #173 @ $216C60 - STRING #173 @ $277868
 
 #WRITE(GBA,$216C60)
 <line>
-   <red>w<red>ƒe<red>ƒ“<red>ƒJ<red>ƒC<red>x‚Ì ‚Â‚Ã‚«<wait><clear><line>
-<startname>Ÿ<red>ƒ}<red>[<red>ƒ<red>ƒC<red>ƒh<endname><line>
-u‚½‚©‚ç‚à‚Ì‚Í ‚Ç‚ê‚¾‚¯<line>
- ‚Ý‚Â‚©‚Á‚½‚Ì‚©‚µ‚ç?<line>
- ‚ª‚ñ‚Î‚Á‚Ä ‚Ú‚¤‚¯‚ñ‚µ‚Ä‚Ë!v<end>
+   <red>ã€Ž<red>ãƒ†<red>ãƒ³<red>ã‚«<red>ã‚¤<red>ã€ã® ã¤ã¥ã<wait><clear><line>
+<startname>â—†<red>ãƒž<red>ãƒ¼<red>ãƒ¡<red>ã‚¤<red>ãƒ‰<endname><line>
+ã€ŒãŸã‹ã‚‰ã‚‚ã®ã¯ ã©ã‚Œã ã‘<line>
+ ã¿ã¤ã‹ã£ãŸã®ã‹ã—ã‚‰?<line>
+ ãŒã‚“ã°ã£ã¦ ã¼ã†ã‘ã‚“ã—ã¦ã­!ã€<end>
 
 
 //POINTER #174 @ $216C64 - STRING #174 @ $2753F8
 
 #WRITE(GBA,$216C64)
-ƒ^ƒcƒmƒR‚ð ‚¨‚Æ‚³‚¸<line>
-‚Ð‚ë‚Á‚Ä ‚Ä‚ñ‚·‚¤‚ð<line>
-‚©‚¹‚²‚¤<end>
+ã‚¿ãƒ„ãƒŽã‚³ã‚’ ãŠã¨ã•ãš<line>
+ã²ã‚ã£ã¦ ã¦ã‚“ã™ã†ã‚’<line>
+ã‹ã›ã”ã†<end>
 
 
 //POINTER #175 @ $216C68 - STRING #175 @ $275416
 
 #WRITE(GBA,$216C68)
-ƒTƒ“ƒOƒ‰ƒX‚Ì “ü‚Á‚½<line>
-ƒJƒ“‚ð ‚æ‚­‚Ý‚Ä<line>
-‚±‚í‚»‚¤<end>
+ã‚µãƒ³ã‚°ãƒ©ã‚¹ã® å…¥ã£ãŸ<line>
+ã‚«ãƒ³ã‚’ ã‚ˆãã¿ã¦<line>
+ã“ã‚ãã†<end>
 
 
 //POINTER #176 @ $216C6C - STRING #176 @ $275432
 
 #WRITE(GBA,$216C6C)
-‚¶‚Ô‚ñ‚Ì ƒS[ƒ‹‚ð<line>
-‚Ü‚à‚è‚È‚ª‚ç ‚ ‚¢‚Ä‚Ì<line>
-ƒS[ƒ‹‚ð ‚Ë‚ç‚¨‚¤<end>
+ã˜ã¶ã‚“ã® ã‚´ãƒ¼ãƒ«ã‚’<line>
+ã¾ã‚‚ã‚ŠãªãŒã‚‰ ã‚ã„ã¦ã®<line>
+ã‚´ãƒ¼ãƒ«ã‚’ ã­ã‚‰ãŠã†<end>
 
 
 //POINTER #177 @ $216C70 - STRING #177 @ $275455
 
 #WRITE(GBA,$216C70)
-ŠC‚ÌƒSƒ~‚ð ‚ ‚¢‚Ä‚æ‚è<line>
-‚¨‚¨‚­ ‚ ‚Â‚ß‚æ‚¤<end>
+æµ·ã®ã‚´ãƒŸã‚’ ã‚ã„ã¦ã‚ˆã‚Š<line>
+ãŠãŠã ã‚ã¤ã‚ã‚ˆã†<end>
 
 
 //POINTER #178 @ $216C74 - STRING #178 @ $27546D
 
 #WRITE(GBA,$216C74)
-‚Î‚­‚Ó‚¤‚É ‚Ü‚«‚±‚Ü‚ê<line>
-‚È‚¢‚æ‚¤‚É ‚Î‚­‚¾‚ñ‚ð<line>
-‚ ‚¢‚Ä‚É ‚í‚½‚»‚¤<end>
+ã°ããµã†ã« ã¾ãã“ã¾ã‚Œ<line>
+ãªã„ã‚ˆã†ã« ã°ãã ã‚“ã‚’<line>
+ã‚ã„ã¦ã« ã‚ãŸãã†<end>
 
 
 //POINTER #179 @ $216C78 - STRING #179 @ $275492
 
 #WRITE(GBA,$216C78)
-ƒ{[ƒ‹‚ð ‚¤‚Ü‚­<line>
-‚Í‚¶‚¢‚Ä ‚ ‚È‚É<line>
-‚Ù‚¤‚è‚±‚à‚¤<end>
+ãƒœãƒ¼ãƒ«ã‚’ ã†ã¾ã<line>
+ã¯ã˜ã„ã¦ ã‚ãªã«<line>
+ã»ã†ã‚Šã“ã‚‚ã†<end>
 
 
 //POINTER #180 @ $216C7C - STRING #180 @ $2754AE
 
 #WRITE(GBA,$216C7C)
-ƒtƒ‹[ƒc‚ð ‚Ë‚ç‚Á‚Ä<line>
-‚¨‚¿‚Ä‚«‚½‚Æ‚±‚ë‚ð<line>
-‚¤‚Ü‚­ ‚Æ‚ë‚¤<end>
+ãƒ•ãƒ«ãƒ¼ãƒ„ã‚’ ã­ã‚‰ã£ã¦<line>
+ãŠã¡ã¦ããŸã¨ã“ã‚ã‚’<line>
+ã†ã¾ã ã¨ã‚ã†<end>
 
 
 //POINTER #181 @ $216C80 - STRING #181 @ $2754CE
 
 #WRITE(GBA,$216C80)
-‚Ü‚¾ ƒNƒŠƒA‚µ‚Ä‚¢‚È‚¢<line>
-ƒ~ƒjƒQ[ƒ€‚¾‚æ<line>
-‚Ú‚¤‚¯‚ñ‚µ‚Ä ‚³‚ª‚»‚¤<end>
+ã¾ã  ã‚¯ãƒªã‚¢ã—ã¦ã„ãªã„<line>
+ãƒŸãƒ‹ã‚²ãƒ¼ãƒ ã ã‚ˆ<line>
+ã¼ã†ã‘ã‚“ã—ã¦ ã•ãŒãã†<end>
 
 
 //POINTER #182 @ $216C84 - STRING #182 @ $277A7C
 
 #ACTIVETBL(engTable)
 #WRITE(GBA,$216C84)
-//     wƒƒu‚Ì‚Ç‚¤‚­‚Âx<end>
+//     ã€Žãƒ­ãƒ–ã®ã©ã†ãã¤ã€<end>
      Rob's Cave<end>
 #ACTIVETBL(Table)
 
@@ -1795,113 +1796,113 @@ Rob's Cave<end>
 //POINTER #183 @ $216C88 - STRING #183 @ $277A8C
 
 #WRITE(GBA,$216C88)
-      wƒTƒ“ƒSƒVƒ‡ƒEx<end>
+      ã€Žã‚µãƒ³ã‚´ã‚·ãƒ§ã‚¦ã€<end>
 
 
 //POINTER #184 @ $216C8C - STRING #184 @ $277A9C
 
 #WRITE(GBA,$216C8C)
-     wƒUƒVƒ‡ƒEƒNƒWƒ‰x<end>
+     ã€Žã‚¶ã‚·ãƒ§ã‚¦ã‚¯ã‚¸ãƒ©ã€<end>
 
 
 //POINTER #185 @ $216C90 - STRING #185 @ $277AAC
 
 #WRITE(GBA,$216C90)
-       w•X‚ÌŠCx<end>
+       ã€Žæ°·ã®æµ·ã€<end>
 
 
 //POINTER #186 @ $216C94 - STRING #186 @ $277ABA
 
 #WRITE(GBA,$216C94)
-       w‚Ó‚©‚¢ŠCx<end>
+       ã€Žãµã‹ã„æµ·ã€<end>
 
 
 //POINTER #187 @ $216C98 - STRING #187 @ $277AC9
 
 #WRITE(GBA,$216C98)
-      w‚¿‚ñ‚Ú‚Â‚¹‚ñx<end>
+      ã€Žã¡ã‚“ã¼ã¤ã›ã‚“ã€<end>
 
 
 //POINTER #188 @ $216C9C - STRING #188 @ $277AD9
 
 #WRITE(GBA,$216C9C)
-     w‚©‚¢‚Ä‚¢‚µ‚ñ‚Å‚ñx<end>
+     ã€Žã‹ã„ã¦ã„ã—ã‚“ã§ã‚“ã€<end>
 
 
 //POINTER #189 @ $216CA0 - STRING #189 @ $277AEA
 
 #WRITE(GBA,$216CA0)
-       w‚»‚ç‚ÌŠCx<end>
+       ã€Žãã‚‰ã®æµ·ã€<end>
 
 
 //POINTER #190 @ $216CA4 - STRING #190 @ $277AF9
 
 #WRITE(GBA,$216CA4)
-       wƒeƒ“ƒJƒCx<end>
+       ã€Žãƒ†ãƒ³ã‚«ã‚¤ã€<end>
 
 
 //POINTER #191 @ $216CA8 - STRING #191 @ $277928
 
 #WRITE(GBA,$216CA8)
-‚±‚ê‚©‚ç ‚Í‚¶‚Ü‚é ‚Ú‚¤‚¯‚ñ‚Ì‚½‚ß‚É<line>
-‚Ü‚¸‚Í ‚¤‚²‚«‚ð ‚ê‚ñ‚µ‚ã‚¤‚µ‚æ‚¤<end>
+ã“ã‚Œã‹ã‚‰ ã¯ã˜ã¾ã‚‹ ã¼ã†ã‘ã‚“ã®ãŸã‚ã«<line>
+ã¾ãšã¯ ã†ã”ãã‚’ ã‚Œã‚“ã—ã‚…ã†ã—ã‚ˆã†<end>
 
 
 //POINTER #192 @ $216CAC - STRING #192 @ $27794F
 
 #WRITE(GBA,$216CAC)
-‚Ú‚¤‚¯‚ñ‚ð ‚½‚·‚¯‚Ä‚­‚ê‚é<line>
-S‚Ã‚æ‚¢ ‚È‚©‚Ü‚ª ‚Æ‚¤‚¶‚å‚¤!?<end>
+ã¼ã†ã‘ã‚“ã‚’ ãŸã™ã‘ã¦ãã‚Œã‚‹<line>
+å¿ƒã¥ã‚ˆã„ ãªã‹ã¾ãŒ ã¨ã†ã˜ã‚‡ã†!?<end>
 
 
 //POINTER #193 @ $216CB0 - STRING #193 @ $277971
 
 #WRITE(GBA,$216CB0)
-wƒeƒ“ƒJƒCx‚É ‚©‚¦‚é ‚Ù‚¤‚Ù‚¤‚Í?<line>
-‚È‚©‚Ü‚ð ‚Ý‚Â‚¯‚Ä ‚Í‚È‚µ‚©‚¯‚æ‚¤<end>
+ã€Žãƒ†ãƒ³ã‚«ã‚¤ã€ã« ã‹ãˆã‚‹ ã»ã†ã»ã†ã¯?<line>
+ãªã‹ã¾ã‚’ ã¿ã¤ã‘ã¦ ã¯ãªã—ã‹ã‘ã‚ˆã†<end>
 
 
 //POINTER #194 @ $216CB4 - STRING #194 @ $277998
 
 #WRITE(GBA,$216CB4)
-ƒLƒ‡ƒƒXƒP‚Æ ‚¢‚Á‚µ‚å‚É<line>
-ƒNƒŠƒIƒŒ‚ð ‚³‚ª‚µ‚Ä‚Ý‚æ‚¤!<end>
+ã‚­ãƒ§ãƒ­ã‚¹ã‚±ã¨ ã„ã£ã—ã‚‡ã«<line>
+ã‚¯ãƒªã‚ªãƒ¬ã‚’ ã•ãŒã—ã¦ã¿ã‚ˆã†!<end>
 
 
 //POINTER #195 @ $216CB8 - STRING #195 @ $2779B6
 
 #WRITE(GBA,$216CB8)
-ƒiƒ]‚Ì ƒ}ƒ‚ƒm‚É<line>
-‚Ó‚©[‚¢ŠC‚Ö ‚Æ‚¶‚±‚ß‚ç‚ê‚½‚æ!<line>
-‚¾‚Á‚µ‚ã‚Â ‚µ‚È‚­‚¿‚á!<end>
+ãƒŠã‚¾ã® ãƒžãƒ¢ãƒŽã«<line>
+ãµã‹ãƒ¼ã„æµ·ã¸ ã¨ã˜ã“ã‚ã‚‰ã‚ŒãŸã‚ˆ!<line>
+ã ã£ã—ã‚…ã¤ ã—ãªãã¡ã‚ƒ!<end>
 
 
 //POINTER #196 @ $216CBC - STRING #196 @ $2779E0
 
 #WRITE(GBA,$216CBC)
-‚Ç‚¤‚â‚ç ’†‚ð ‚Æ‚¨‚é‚µ‚©‚È‚¢‚Ë<line>
-‚ä‚¤‚«‚ðo‚µ‚Ä ‚½‚ñ‚¯‚ñ‚µ‚æ‚¤<end>
+ã©ã†ã‚„ã‚‰ ä¸­ã‚’ ã¨ãŠã‚‹ã—ã‹ãªã„ã­<line>
+ã‚†ã†ãã‚’å‡ºã—ã¦ ãŸã‚“ã‘ã‚“ã—ã‚ˆã†<end>
 
 
 //POINTER #197 @ $216CC0 - STRING #197 @ $277A03
 
 #WRITE(GBA,$216CC0)
-‚Ó‚é‚¢ ‚µ‚ñ‚Å‚ñ‚É ‚©‚­‚³‚ê‚½ƒiƒ]!<line>
-‚µ‚ç‚×‚Ä‚¢‚é‚Ì‚Í ƒXƒ^ƒtƒB[‚½‚¿‚Æ<line>
-‚»‚µ‚ÄEEE?<end>
+ãµã‚‹ã„ ã—ã‚“ã§ã‚“ã« ã‹ãã•ã‚ŒãŸãƒŠã‚¾!<line>
+ã—ã‚‰ã¹ã¦ã„ã‚‹ã®ã¯ ã‚¹ã‚¿ãƒ•ã‚£ãƒ¼ãŸã¡ã¨<line>
+ãã—ã¦ãƒ»ãƒ»ãƒ»?<end>
 
 
 //POINTER #198 @ $216CC4 - STRING #198 @ $277A33
 
 #WRITE(GBA,$216CC4)
-ƒiƒ]‚Ìƒ}ƒ‚ƒm ƒI[ƒOƒ‰‚ð ‚¨‚¢‚©‚¯‚Ä<line>
-‚Æ‚¤‚Æ‚¤ ‚»‚ç‚Ö!<end>
+ãƒŠã‚¾ã®ãƒžãƒ¢ãƒŽ ã‚ªãƒ¼ã‚°ãƒ©ã‚’ ãŠã„ã‹ã‘ã¦<line>
+ã¨ã†ã¨ã† ãã‚‰ã¸!<end>
 
 
 //POINTER #199 @ $216CC8 - STRING #199 @ $277A52
 
 #WRITE(GBA,$216CC8)
-‚¢‚æ‚¢‚æ ‚³‚¢‚²‚Ì ‚½‚½‚©‚¢!<line>
-ƒI[ƒOƒ‰‚ð ‚½‚¨‚µ‚Ä<line>
-•½˜a‚ð ‚Æ‚è‚à‚Ç‚»‚¤!<end>
+ã„ã‚ˆã„ã‚ˆ ã•ã„ã”ã® ãŸãŸã‹ã„!<line>
+ã‚ªãƒ¼ã‚°ãƒ©ã‚’ ãŸãŠã—ã¦<line>
+å¹³å’Œã‚’ ã¨ã‚Šã‚‚ã©ãã†!<end>
 
