@@ -152,7 +152,12 @@ Nee pleease!<line>
  ボクの いえを さがしてきてっ!」<wait><scrollup><scrollup><scrollup><line>
 「きっと 近くに あるはずっ!<line>
  おねがいっ! さがして来てっ!」<end>
-
+<startname><red>Ya<red>do<red>ka<red>ri<red>ta<endname><line>
+Found iit? Eeh!<line>
+ Not yeet? Pleease!<line>
+ Look for my Hoouse!<wait><scrollup><scrollup><scrollup><line>
+Of course I expect it to be around heere!<line>
+ Pleease! Go find iit!<end>
 
 //POINTER #4 @ $23104C - STRING #4 @ $217245
 
@@ -176,7 +181,25 @@ Nee pleease!<line>
  テクニックを みがくといいよっ!」<wait><clear><line>
 <line>
    <red>『<red>カ<red>ギ<red>』を もらったよ<end>
-
+<startname><red>Ya<red>do<red>ka<red>ri<red>ta<endname><line>
+Eeh? You found it!?<wait><scrollup><line>
+Great~...um<line>
+ Isn't thaat a <red>"<red>K<red>e<red>t<red>t<red>t<red>l<red>e"!」<wait><scrollup><scrollup><line>
+That's wrong! My house is<line>
+ even certainly more attractive than that!<wait><scrollup><scrollup><line>
+I wonder if it flowed<line>
+ faarther away?<wait><scrollup><scrollup><line>
+That's iit! I'll give you a <red>"<red>K<red>e<red>y<red>"<line>
+ Go to the <red>"<red>K<red>e<red>y<red> H<red>o<red>l<red>e<red>" location and<line>
+ the door will opeen!<wait><scrollup><scrollup><scrollup><line>
+Beyond the Door<line>
+ if you do not jump skillfully<line>
+ then you certainly woon't proceed!<wait><scrollup><scrollup><scrollup><line>
+While Jumping and by <button-dpad>Button<line>
+ because the direction proceeded can change<line>
+ it's a greeat technique to polish!<wait><clear><line>
+<line>
+   Obviously received a <red>"<red>K<red>e<red>y<red>"<end>
 
 //POINTER #5 @ $231050 - STRING #5 @ $2173BB
 
@@ -190,8 +213,18 @@ Nee pleease!<line>
 「ジャンプ中も <button-dpad>ボタンで<line>
  すすむほうこうを かえられるから<line>
  テクニックを みがくといいよっ!」<end>
-
-
+<startname><red>Ya<red>do<red>ka<red>ri<red>ta<endname><line>
+ Go to the <red>"<red>K<red>e<red>y<red> H<red>o<red>l<red>e<red>" location and<line>
+ the door will opeen!<wait><scrollup><scrollup><scrollup><line>
+Beyond the Door<line>
+ if you do not jump skillfully<line>
+ then you certainly woon't proceed!<wait><scrollup><scrollup><scrollup><line>
+While Jumping and by <button-dpad>Button<line>
+ because the direction proceeded can change<line>
+ it's a greeat technique to polish!<wait><clear><line>
+<line>
+   Obviously received a <red>"<red>K<red>e<red>y<red>"<end>
+ 
 //POINTER #6 @ $231054 - STRING #6 @ $217468
 
 #WRITE(GBA,$231054)
@@ -224,7 +257,35 @@ Nee pleease!<line>
 「目が 回ったときは <button-dpad>ボタンを<line>
  ガチャガチャ押せば<line>
  早く 元にもどるんだよ」<end>
-
+<startname><red>Ya<red>do<red>ka<red>ri<red>ta<endname><line>
+I've waaited!<line>
+ Nee let me see? Let me see?<wait><scrollup><scrollup><line>
+...-Heartbroken-<wait><scrollup><line>
+This Seashell! It's too thin!<wait><scrollup><line>
+I wonder where it went?<line>
+ My faavorite...<wait><scrollup><scrollup><line>
+.......Aah!<line>
+ A location you haven't searched yeet!<wait><scrollup><scrollup><line>
+It's a location blocked by a Waall!<wait><scrollup><line>
+If it were you<line>
+ spinning in circles<line>
+ I wonder if it wouldn't break the Waall<wait><scrollup><scrollup><scrollup><line>
+I call it the <red>"<red>S<red>p<red>i<red>n <red>A<red>t<red>t<red>a<red>c<red>k<red>"!<line>
+ ..How about thaat I wonder?<wait><clear><line>
+  <button-b>Button..<red>"<red>S<red>p<red>i<red>n <red>A<red>t<red>t<red>a<red>c<red>k<red>"<line>
+    When spinning<line>
+    try ramming against<line>
+    enemies and blocks!<wait><clear><line>
+<startname><red>Ya<red>do<red>ka<red>ri<red>ta<endname><line>
+Ahead here you might meet with some baddies<line>
+ Completely punish them by using the <red>"<red>S<red>p<red>i<red>n <red>A<red>t<red>t<red>a<red>c<red>k<red>"<line>
+ this time!」<wait><scrollup><scrollup><scrollup><line>
+But if you spin too much and<line>
+ because your eyes will get dizzy<line>
+ be careful okay<wait><scrollup><scrollup><scrollup><line>
+If you rattlingly press the <button-dpad>Button<line>
+ when your eyes are completely dizzy<line>
+ you'll quickly go back to normal you know<end>
 
 //POINTER #7 @ $231058 - STRING #7 @ $2176A3
 
@@ -236,7 +297,13 @@ Nee pleease!<line>
     かいてんしているときに<line>
     テキやブロックに<line>
     たい当たりしよう!<end>
-
+<startname><red>Ya<red>do<red>ka<red>ri<red>ta<endname><line>
+Use the <red>"<red>S<red>p<red>i<red>n <red>A<red>t<red>t<red>a<red>c<red>k<red>"<line>
+ skillfully?<wait><clear><line>
+ <button-b>Button..<red>"<red>S<red>p<red>i<red>n <red>A<red>t<red>t<red>a<red>c<red>k<red>"<line>
+    When spinning<line>
+    try ramming against<line>
+    enemies and blocks!<wait><clear><line>
 
 //POINTER #8 @ $23105C - STRING #8 @ $21773F
 
@@ -260,7 +327,25 @@ Nee pleease!<line>
  おしえたのさっ エッヘン!」<wait><scrollup><scrollup><scrollup><line>
 「外は <red>『<red>サ<red>ン<red>ゴ<red>シ<red>ョ<red>ウ<red>』の海っ!<line>
  さあ 行くよっ!」<end>
-
+ <startname><red>Ya<red>do<red>ka<red>ri<red>ta<endname><line>
+Thaat's it! Thaat!<wait><scrollup><line>
+That's my Seasheell!<line>
+ Thank you~<wait><scrollup><scrollup><line>
+I'll change immediatelyy<line>
+ Here I gooo!<wait><scrollup><scrollup><line>
+Ooh~ As I figured it's cooool!!<line>
+ Yaaay! Yaaay!<wait><scrollup><scrollup><line>
+..And we well theen!<line>
+ I certainly heard about you<line>
+ from Old Lob!<wait><scrollup><scrollup><scrollup><line>
+<red>"<red>H<red>e<red>a<red>v<red>e<red>n<red>"'s Prince Stafy!<line>
+ You certainly came here<line>
+ falling to the Ocean!<wait><scrollup><scrollup><scrollup><line>
+for your Adventure<line>
+ I taught you the <red>"<red>S<red>p<red>i<red>n <red>A<red>t<red>t<red>a<red>c<red>k<red>"<line>
+ Ehhen!」<wait><scrollup><scrollup><scrollup><line>
+Outside is the Sea of <red>"<red>C<red>o<red>r<red>a<red>l<red> <red>R<red>e<red>e<red>f<red>"!<line>
+ Well then gooo!<end>
 
 //POINTER #9 @ $231060 - STRING #9 @ $2178B1
 
