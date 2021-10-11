@@ -21,227 +21,306 @@
 //POINTER #0 @ $2169AC - STRING #0 @ $2747B4
 
 #WRITE(GBA,$2169AC)
-泳ぎを れんしゅうしながら<line>
-ロブじいさんの ところへ<line>
-いこう<wait><end>
+//泳ぎを れんしゅうしながら<line>
+//ロブじいさんの ところへ<line>
+//いこう<wait><end>
+While practicing swimming<line>
+let's go to<line>
+Old Lob's place<wait><end>
 
 
 //POINTER #1 @ $2169B0 - STRING #1 @ $2747D8
 
 #WRITE(GBA,$2169B0)
-ヤドカリタに あいに行こう<line>
-どこに いるのかな?<wait><end>
+//ヤドカリタに あいに行こう<line>
+//どこに いるのかな?<wait><end>
+Going to meet Yadokarita<line>
+I wonder where he is?<wait><end>
 
 
 //POINTER #2 @ $2169B4 - STRING #2 @ $2747F5
 
 #WRITE(GBA,$2169B4)
-ヤドカリタの いえを さがして<line>
-とどけてあげよう<wait><end>
+//ヤドカリタの いえを さがして<line>
+//とどけてあげよう<wait><end>
+Look for Yadokarita's House<line>
+to deliver it to him<wait><end>
 
 
 //POINTER #3 @ $2169B8 - STRING #3 @ $274812
 
 #WRITE(GBA,$2169B8)
-さあ がんばって<line>
-ぼうけんを はじめてみよう!<wait><end>
+//さあ がんばって<line>
+//ぼうけんを はじめてみよう!<wait><end>
+Well do your best<line>
+on your first adventure!<wait><end>
 
 
 //POINTER #4 @ $2169BC - STRING #4 @ $27482E
 
 #WRITE(GBA,$2169BC)
-わるいヤツを おいかけて<line>
-ヤドカリタの なかまを さがそう<wait><end>
+//わるいヤツを おいかけて<line>
+//ヤドカリタの なかまを さがそう<wait><end>
+Chase after the baddie<line>
+look for Yadokarita's friend<wait><end>
 
 
 //POINTER #5 @ $2169C0 - STRING #5 @ $274850
 
 #WRITE(GBA,$2169C0)
-なかまになった キョロスケと<line>
-いっしょに<line>
-ハデヒラリを さがしだそう<wait><end>
+//なかまになった キョロスケと<line>
+//いっしょに<line>
+//ハデヒラリを さがしだそう<wait><end>
+With the new friend Kyorosuke<line>
+together<line>
+it seems Hadehirari has been found<wait><end>
 
 
 //POINTER #6 @ $2169C4 - STRING #6 @ $274878
 
 #WRITE(GBA,$2169C4)
-ザショウクジラに<line>
-テンカイへかえる ほうほうを<line>
-きいてみよう<wait><end>
+//ザショウクジラに<line>
+//テンカイへかえる ほうほうを<line>
+//きいてみよう<wait><end>
+At the Bruised Whale<line>
+try listening how<line>
+to return to Heaven<wait><end>
 
 
 //POINTER #7 @ $2169C8 - STRING #7 @ $27489C
 
 #WRITE(GBA,$2169C8)
-ザショウクジラに<line>
-のみこまれちゃった<line>
-とにかく たんけんしてみよう<wait><end>
+//ザショウクジラに<line>
+//のみこまれちゃった<line>
+//とにかく たんけんしてみよう<wait><end>
+At the Bruised Whale<line>
+for the time being try exploring<line>
+having been swallowed<wait><end>
 
 
 //POINTER #8 @ $2169CC - STRING #8 @ $2748C3
 
 #WRITE(GBA,$2169CC)
-いろんな ひとを たずねたら<line>
-ヤコウカガミを たすけるほうほうが<line>
-みつかるよ<wait><end>
+//いろんな ひとを たずねたら<line>
+//ヤコウカガミを たすけるほうほうが<line>
+//みつかるよ<wait><end>
+If you were to look for various people<line>
+it will be found<line>
+the way to save Noctilucence Mirror<wait><end>
 
 
 //POINTER #9 @ $2169D0 - STRING #9 @ $2748EF
 
 #WRITE(GBA,$2169D0)
-あばれているマモノを とっちめて<line>
-ザショウクジラの おなかを<line>
-なおしてあげよう<wait><end>
+//あばれているマモノを とっちめて<line>
+//ザショウクジラの おなかを<line>
+//なおしてあげよう<wait><end>
+The violent demons are taking it out<line>
+on the Bruised Whale's Stomach<line>
+Go and cure it<wait><end>
 
 
 //POINTER #10 @ $2169D4 - STRING #10 @ $27491C
 
 #WRITE(GBA,$2169D4)
-クリオレっていう なかまが<line>
-この海に いるはず<line>
-さがしてみよう<wait><end>
+//クリオレっていう なかまが<line>
+//この海に いるはず<line>
+//さがしてみよう<wait><end>
+I expect Friend "Creole"<line>
+to be in this Sea<line>
+go look around<wait><end>
 
 
 //POINTER #11 @ $2169D8 - STRING #11 @ $274941
 
 #WRITE(GBA,$2169D8)
-氷づけにされた クリオレを<line>
-さがしだして たすけてあげよう<wait><end>
+//氷づけにされた クリオレを<line>
+//さがしだして たすけてあげよう<wait><end>
+Look for and go save<line>
+the Frozen Creole<wait><end>
 
 
 //POINTER #12 @ $2169DC - STRING #12 @ $274963
 
 #WRITE(GBA,$2169DC)
-おんせんで クリオレの<line>
-氷を とかしてあげよう<wait><end>
+//おんせんで クリオレの<line>
+//氷を とかしてあげよう<wait><end>
+Melt the Ice<line>
+of Creole's Hot Spring<wait><end>
 
 
 //POINTER #13 @ $2169E0 - STRING #13 @ $27497F
 
 #WRITE(GBA,$2169E0)
-クリオレを 氷づけにした<line>
-マモノを やっつけよう<wait><end>
+//クリオレを 氷づけにした<line>
+//マモノを やっつけよう<wait><end>
+Beat up the Demons<line>
+that turned Creole to Ice<wait><end>
 
 
 //POINTER #14 @ $2169E4 - STRING #14 @ $27499C
 
 #WRITE(GBA,$2169E4)
-気がつくと ふかーい<line>
-うみのそこ<line>
-だっしゅつほうほうは あるかな?<wait><end>
+//気がつくと ふかーい<line>
+//うみのそこ<line>
+//だっしゅつほうほうは あるかな?<wait><end>
+Before I knew it deeeep<line>
+there of the Sea<line>
+I wonder if there's a way to escape?<wait><end>
 
 
 //POINTER #15 @ $2169E8 - STRING #15 @ $2749C3
 
 #WRITE(GBA,$2169E8)
-ここから ぬけだすには<line>
-オオタルイカの たのみを<line>
-きいたほうが よさそう<wait><end>
+//ここから ぬけだすには<line>
+//オオタルイカの たのみを<line>
+//きいたほうが よさそう<wait><end>
+It's good how I heard<line>
+the Large Ballel Octopus's request<line>
+in order to break free from here<wait><end>
 
 
 //POINTER #16 @ $2169EC - STRING #16 @ $2749ED
 
 #WRITE(GBA,$2169EC)
-タルイカが まもっていた トビラを<line>
-とおれるようになったよ<line>
-たんけんしてみよう<wait><end>
+//タルイカが まもっていた トビラを<line>
+//とおれるようになったよ<line>
+//たんけんしてみよう<wait><end>
+The door the Barrel Squid had protected<line>
+it appears I am able to pass through it<line>
+I will try exploring<wait><end>
 
 
 //POINTER #17 @ $2169F0 - STRING #17 @ $274A1A
 
 #WRITE(GBA,$2169F0)
-<red>『<red>海<red>の<red>ね<red>い<red>ろ<red>』を さがしだして<line>
-ウォーツァルトに<line>
-とどけてあげよう<wait><end>
+//<red>『<red>海<red>の<red>ね<red>い<red>ろ<red>』を さがしだして<line>
+//ウォーツァルトに<line>
+//とどけてあげよう<wait><end>
+Locate the <red>"<red>S<red>e<red>a<red>'<red>s<red> <red>T<red>i<red>m<red>b<red>r<red>e<red>"<line>
+and deliver it to<line>
+Waltz<wait><end>
 
 
 //POINTER #18 @ $2169F4 - STRING #18 @ $274A4F
 
 #WRITE(GBA,$2169F4)
-ウォーツァルトの えんそうで<line>
-じゃまものが いなくなった!<line>
-出口は この先?<wait><end>
+//ウォーツァルトの えんそうで<line>
+//じゃまものが いなくなった!<line>
+//出口は この先?<wait><end>
+By Waltz's Musical Performance<line>
+the obstacle disappeared!<line>
+The exit is just ahead?<wait><end>
 
 
 //POINTER #19 @ $2169F8 - STRING #19 @ $274A7B
 
 #WRITE(GBA,$2169F8)
-ブランコは なんだかチョット<line>
-あやしいぞ!<line>
-だまされないように!<wait><end>
+//ブランコは なんだかチョット<line>
+//あやしいぞ!<line>
+//だまされないように!<wait><end>
+Blanko is somehow a little<line>
+suspicious!<line>
+Do not be deceived!<wait><end>
 
 
 //POINTER #20 @ $2169FC - STRING #20 @ $274AA1
 
 #WRITE(GBA,$2169FC)
-うそつき ブランコは<line>
-ボスの 子分?<line>
-さあ たいけつに むかうんだ!<wait><end>
+//うそつき ブランコは<line>
+//ボスの 子分?<line>
+//さあ たいけつに むかうんだ!<wait><end>
+The lying Blanko is<line>
+the boss's follower?<line>
+Well go to the showdown!<wait><end>
 
 
 //POINTER #21 @ $216A00 - STRING #21 @ $274AC9
 
 #WRITE(GBA,$216A00)
-目のまえに 大きな ちんぼつせん<line>
-どうやら 中を とおらなくちゃ<line>
-いけないみたい<wait><end>
+//目のまえに 大きな ちんぼつせん<line>
+//どうやら 中を とおらなくちゃ<line>
+//いけないみたい<wait><end>
+A large Sunken Ship before your Eyes<line>
+unless you can pass somehow inside<line>
+looks like you cannot proceed<wait><end>
 
 
 //POINTER #22 @ $216A04 - STRING #22 @ $274AF7
 
 #WRITE(GBA,$216A04)
-カギを 4つ さがして<line>
-ドルフィーの なかまを<line>
-たすけだそう!<wait><end>
+//カギを 4つ さがして<line>
+//ドルフィーの なかまを<line>
+//たすけだそう!<wait><end>
+It seems you can rescue<line>
+Dolfi's friends by<line>
+looking for the 4 Keys!<wait><end>
 
 
 //POINTER #23 @ $216A08 - STRING #23 @ $274B1C
 
 #WRITE(GBA,$216A08)
-マモノに 気付かれた!<line>
-おいつかれないように<line>
-いそいで にげよう!<wait><end>
+//マモノに 気付かれた!<line>
+//おいつかれないように<line>
+//いそいで にげよう!<wait><end>
+The demons noticed!<line>
+It doesn't appear you can chase them<line>
+quickly escape!<wait><end>
 
 
 //POINTER #24 @ $216A0C - STRING #24 @ $274B43
 
 #WRITE(GBA,$216A0C)
-キョロスケが ガレキのむこうに<line>
-のこっちゃった<line>
-んもう しかたないなあ<wait><end>
+//キョロスケが ガレキのむこうに<line>
+//のこっちゃった<line>
+//んもう しかたないなあ<wait><end>
+Kyorosuke remained<line>
+at the opposite of the debris<line>
+Ugh it can't he helped huh<wait><end>
 
 
 //POINTER #25 @ $216A10 - STRING #25 @ $274B6C
 
 #WRITE(GBA,$216A10)
-だいじな えものを にがされて<line>
-ボスは おこっているよ<line>
-おちついて やっつけよう<wait><end>
+//だいじな えものを にがされて<line>
+//ボスは おこっているよ<line>
+//おちついて やっつけよう<wait><end>
+An important prey sest free<line>
+the boss is certainly angry<line>
+beat him calm<wait><end>
 
 
 //POINTER #26 @ $216A14 - STRING #26 @ $274B9A
 
 #WRITE(GBA,$216A14)
-かいていしんでんに とうちゃく<line>
-テンカイへの てがかりは<line>
-あるのかな?<wait><end>
+//かいていしんでんに とうちゃく<line>
+//テンカイへの てがかりは<line>
+//あるのかな?<wait><end>
+Arrival at Revolving Temple<line>
+Perhaps there is a clue<line>
+of Heaven?<wait><end>
 
 
 //POINTER #27 @ $216A18 - STRING #27 @ $274BC3
 
 #WRITE(GBA,$216A18)
-かいていしんでんの どこかにある<line>
-<red>『<red>よ<red>げ<red>ん<red>し<red>ょ<red>』を さがしだし、<line>
-平和な海を とりもどそう<wait><end>
+//かいていしんでんの どこかにある<line>
+//<red>『<red>よ<red>げ<red>ん<red>し<red>ょ<red>』を さがしだし、<line>
+//平和な海を とりもどそう<wait><end>
+Somewhere in the Revolving Temple<line>
+look for the <red>"<red>P<red>r<red>o<red>p<red>h<red>e<red>t<red>i<red>c<red> <red>W<red>r<red>i<red>t<red>i<red>n<red>g<red>",<line>
+it seems it will restore peace to the Sea<wait><end>
 
 
 //POINTER #28 @ $216A1C - STRING #28 @ $274C04
 
 #WRITE(GBA,$216A1C)
-あやしいマモノに<line>
-ふきとばされたっ!<line>
-キョロスケは・・どこ?<wait><end>
-
+//あやしいマモノに<line>
+//ふきとばされたっ!<line>
+//キョロスケは・・どこ?<wait><end>
+The suspicious Demon<line>
+was driven awaay!<line>
+Where is..Kyorosuke?<wait><end>
 
 //POINTER #29 @ $216A20 - STRING #29 @ $274C28
 
@@ -249,60 +328,82 @@
 せっかく キョロスケをみつけたのに<line>
 またどこかに 行っちゃった!<line>
 ひょっとすると ララコに!?<wait><end>
+Though with great trouble Kyorosuke was found<line>
+he went somewhere again!<line>
+Possibly to Lalako!?<wait><end>
 
 
 //POINTER #30 @ $216A24 - STRING #30 @ $274C5D
 
 #WRITE(GBA,$216A24)
-やっと てにいれた<red>『<red>よ<red>げ<red>ん<red>し<red>ょ<red>』を<line>
-うばわれたよ!<line>
-また あの あやしいマモノだ!<wait><end>
+//やっと てにいれた<red>『<red>よ<red>げ<red>ん<red>し<red>ょ<red>』を<line>
+//うばわれたよ!<line>
+//また あの あやしいマモノだ!<wait><end>
+Finally obtained the <red>"<red>P<red>r<red>o<red>p<red>h<red>e<red>t<red>i<red>c<red> <red>W<red>r<red>i<red>t<red>i<red>n<red>g<red>"<line>
+which was stolen!<line>
+It's that suspicious Demon again!<wait><end>
 
 
 //POINTER #31 @ $216A28 - STRING #31 @ $274C9A
 
 #WRITE(GBA,$216A28)
-テンカイに にげた オーグラを<line>
-おいかけよう<wait><end>
+//テンカイに にげた オーグラを<line>
+//おいかけよう<wait><end>
+The Demon escaped to Heaven<line>
+chase after it<wait><end>
 
 
 //POINTER #32 @ $216A2C - STRING #32 @ $274CB5
 
 #WRITE(GBA,$216A2C)
-オーグラの てしたを 3びき<line>
-やっつけて テンカイへ<line>
-いそごう<wait><end>
+//オーグラの てしたを 3びき<line>
+//やっつけて テンカイへ<line>
+//いそごう<wait><end>
+The 3 defeated Subordinates<line>
+of Ogura hurried toward<line>
+Heaven<wait><end>
 
 
 //POINTER #33 @ $216A30 - STRING #33 @ $274CDA
 
 #WRITE(GBA,$216A30)
-なんとか テンカイに 入れたよ<line>
-オーグラは どこにひそんで<line>
-いるのだろう?<wait><end>
+//なんとか テンカイに 入れたよ<line>
+//オーグラは どこにひそんで<line>
+//いるのだろう?<wait><end>
+Somehow entered Heaven<line>
+Just where<line>
+is Ogura lurking?<wait><end>
 
 
 //POINTER #34 @ $216A34 - STRING #34 @ $274D05
 
 #WRITE(GBA,$216A34)
-3かしょにいる にげおくれた<line>
-テンカイのなかまを<line>
-みんな たすけてあげよう<wait><end>
+//3かしょにいる にげおくれた<line>
+//テンカイのなかまを<line>
+//みんな たすけてあげよう<wait><end>
+Here three passages escaped<line>
+Go save all of<line>
+Heaven's friends<wait><end>
 
 
 //POINTER #35 @ $216A38 - STRING #35 @ $274D30
 
 #WRITE(GBA,$216A38)
-ついに オーグラと たいけつ!?<line>
-平和を とりもどすんだ!<wait><end>
+//ついに オーグラと たいけつ!?<line>
+//平和を とりもどすんだ!<wait><end>
+Final showdown with Ogura!?<line>
+Restore peace!<wait><end>
 
 
 //POINTER #36 @ $216A3C - STRING #36 @ $274D52
 
 #WRITE(GBA,$216A3C)
-<red>『<red>セ<red>レ<red>ク<red>ト<red>+<red>ス<red>タ<red>ー<red>ト<red>』を押すと<line>
-あつめたものを セーブして<line>
-ステージセレクトに もどるよ<wait><end>
+//<red>『<red>セ<red>レ<red>ク<red>ト<red>+<red>ス<red>タ<red>ー<red>ト<red>』を押すと<line>
+//あつめたものを セーブして<line>
+//ステージセレクトに もどるよ<wait><end>
+Press <red>"<red>S<red>e<red>l<red>e<red>c<red>t<red>+<red>S<red>t<red>a<red>r<red>t<red>"<line>
+to return to Stage Select and to<line>
+save all collected things<wait><end>
 
 
 //POINTER #37 @ $216A40 - STRING #37 @ $274630
@@ -410,371 +511,536 @@ had been entirely dropped<wait><end>
 //POINTER #48 @ $216A6C - STRING #48 @ $274D9C
 
 #WRITE(GBA,$216A6C)
-オーグラは 『ふしぎなツボ』に<line>
-すいこまれて おとなしくなりました<line>
-ようやく すべての海と テンカイに<line>
+//オーグラは 『ふしぎなツボ』に<line>
+//すいこまれて おとなしくなりました<line>
+//ようやく すべての海と テンカイに<line>
 平和が もどったようです・・・・・<end>
+Ogura was absorbed<line>
+in a "Mysterious Jar" obediently<line>
+At last it appears peace restored<line>
+to the entire Ocean and Heaven.....<end>
 
 
 //POINTER #49 @ $216A70 - STRING #49 @ $274DE6
 
 #WRITE(GBA,$216A70)
-<startname>王さま<line>
-「よくぞ 『ふしぎなツボ』の<line>
- ひみつが わかったな!」<line>
+//<startname>王さま<line>
+//「よくぞ 『ふしぎなツボ』の<line>
+ //ひみつが わかったな!」<line>
+   //<clear><line>
+//「だが おまえが あのツボを<line>
+ //おとしたのが わるいのだぞ!」<line>
+   //<clear><line>
+//「オーグラは いたずらずきゆえ<line>
+ //ふういんされておったのに!」<line>
+   //<clear><line>
+//「さて キョロスケよ! スタフィーを<line>
+ //たすけてくれて かんしゃするぞ!」<line>
+   //<clear><line>
+//<startname>キョロスケ<line>
+//「おいおい わかってねえな!<line>
+ //ぜーんぶ オレさまのおかげで・・」<line>
+   //<clear><line>
+//<startname>王さま<line>
+//「わかった わかった!<line>
+ //ほうびに ほしいものがあるか?」<line>
+   //<clear><line>
+//<startname>キョロスケ<line>
+//「もちろん テンカイの おたから!」<line>
+   //<clear><line>
+//<startname>王さま<line>
+//「ほう そうか!<line>
+ //スタフィー もってきなさい!」<end>
+<startname>King<line>
+The secret "Mysterious Jar" is understood<line>
+ Well done!<line>
    <clear><line>
-「だが おまえが あのツボを<line>
- おとしたのが わるいのだぞ!」<line>
+Although you dropping that Jar<line>
+ was bad!<line>
    <clear><line>
-「オーグラは いたずらずきゆえ<line>
- ふういんされておったのに!」<line>
+Though Ogura's love of pranks<line>
+ has been sealed!<line>
    <clear><line>
-「さて キョロスケよ! スタフィーを<line>
- たすけてくれて かんしゃするぞ!」<line>
+Well then Kyorosuke! I am glad<line>
+ Starfy was saved!<line>
    <clear><line>
-<startname>キョロスケ<line>
-「おいおい わかってねえな!<line>
- ぜーんぶ オレさまのおかげで・・」<line>
+<startname>Kyorosuke<line>
+Hey hey you don't understand!<line>
+ It's aaaaall thanks to me..<line>
    <clear><line>
-<startname>王さま<line>
-「わかった わかった!<line>
- ほうびに ほしいものがあるか?」<line>
+<startname>King<line>
+Understood understood!<line>
+ Is there a reward you wish for?<line>
    <clear><line>
-<startname>キョロスケ<line>
-「もちろん テンカイの おたから!」<line>
+<startname>Kyorosuke<line>
+Of course Heaven's Great Treasure!<line>
    <clear><line>
-<startname>王さま<line>
-「ほう そうか!<line>
- スタフィー もってきなさい!」<end>
-
+<startname>King<line>
+Hou I see!<line>
+ Bring it here Starfy!<end>
+ 
 
 //POINTER #50 @ $216A74 - STRING #50 @ $274F3D
 
 #WRITE(GBA,$216A74)
-<startname>王さま<line>
-「なんと! たからばこを ぜんぶ<line>
- 海に おとしたというのか!?」<end>
+//<startname>王さま<line>
+//「なんと! たからばこを ぜんぶ<line>
+ //海に おとした<startname>王さま<line>
+<startname>King<line>
+What! All the Treasure<line>
+ fell in the Ocean<startname>King<line>
 
 
 //POINTER #51 @ $216A78 - STRING #51 @ $274F68
 
 #WRITE(GBA,$216A78)
-<startname>キョロスケ<line>
-「オイッ! ホントか!? オレさまの<line>
- おたから どうすんだ!」<end>
-
+//<startname>キョロスケ<line>
+//「オイッ! ホントか!? オレさまの<line>
+ //おたから どうすんだ!」<end>
+<startname>Kyorosuke<line>
+Ooi! Seriously!?<line>
+ What will you do about MY Treasure!<end>
+ 
 
 //POINTER #52 @ $216A7C - STRING #52 @ $274F94
 
 #WRITE(GBA,$216A7C)
-<startname>王さま<line>
-「ほうびの はなしは たからばこを<line>
- ぜんぶ あつめてからとしよう」<end>
+//<startname>王さま<line>
+//「ほうびの はなしは たからばこを<line>
+ //ぜんぶ あつめてからとしよう」<end>
+<startname>King<line>
+The discussion of the reward<line>
+ ought to be from collecting all of the Treasure Chest<end>
 
 
 //POINTER #53 @ $216A80 - STRING #53 @ $274FC0
 
 #WRITE(GBA,$216A80)
-<startname>キョロスケ<line>
-「エーッ!! ちっくしょー・・・・」<end>
+//<startname>キョロスケ<line>
+//「エーッ!! ちっくしょー・・・・」<end>
+<startname>Kyorosuke<line>
+Eeeh!! Shiiiiit....<end>
 
 
 //POINTER #54 @ $216A84 - STRING #54 @ $274FDD
 
 #WRITE(GBA,$216A84)
-「いそいで さがしにいくぞ!<line>
- オラオラ!」<end>
-
+//「いそいで さがしにいくぞ!<line>
+ //オラオラ!」<end>
+Go and find it quickly!<line>
+ Hey hey!<end>
+ 
 
 //POINTER #55 @ $216A88 - STRING #55 @ $274FF6
 
 #WRITE(GBA,$216A88)
-『ココカラ・・・ダセ・・・<line>
-  ・・マダマダ・・タクサン・・・<line>
-    イタズラシテヤル・・・』<end>
-
+//『ココカラ・・・ダセ・・・<line>
+  //・・マダマダ・・タクサン・・・<line>
+    //イタズラシテヤル・・・』<end>
+Get out...from here...<line>
+  ..Still..a lot...<line>
+    I will mischeviously deceive...<end>
+    
 
 //POINTER #56 @ $216A8C - STRING #56 @ $27502A
 
 #WRITE(GBA,$216A8C)
-また オーグラを こらしめて<line>
-『ふしぎなツボ』に<line>
-ふうじこめることが できました<end>
+//また オーグラを こらしめて<line>
+//『ふしぎなツボ』に<line>
+//ふうじこめることが できました<end>
+Ogura was able to be punished<line>
+once again by being sealed in<line>
+the "Mysterious Jar"<end>
 
 
 //POINTER #57 @ $216A90 - STRING #57 @ $275056
 
 #WRITE(GBA,$216A90)
-<startname>王さま<line>
-「よくやったと いいたいが・・・・<line>
- なぜ オーグラは にげたのだ?」<line>
+//<startname>王さま<line>
+//「よくやったと いいたいが・・・・<line>
+ //なぜ オーグラは にげたのだ?」<line>
+   //<clear><line>
+//<startname>キョロスケ<line>
+//「知らねえなぁ マヌケなヤツが<line>
+ //うっかり ツボを おとしたんだろ?」<line>
+   //<clear><line>
+//<startname>王さま<line>
+//「そうかもしれん きをつけねばな!<line>
+ //ところでスタフィー!」<end>
+<startname>King<line>
+I want to say you did well but....<line>
+ how is it that Ogura escaped?<line>
    <clear><line>
-<startname>キョロスケ<line>
-「知らねえなぁ マヌケなヤツが<line>
- うっかり ツボを おとしたんだろ?」<line>
+<startname>Kyorosuke<line>
+I dunnooo but that stupid thing<line>
+ carelessly dropped the Jar right?<line>
    <clear><line>
-<startname>王さま<line>
-「そうかもしれん きをつけねばな!<line>
- ところでスタフィー!」<end>
+<startname>King<line>
+Possibly so if not standing to attention eh!<line>
+ By the way Starfy~!<end>
 
 
 //POINTER #58 @ $216A94 - STRING #58 @ $2750E8
 
 #WRITE(GBA,$216A94)
-「おとした たからばこを<line>
- まだ あつめきっておらんではないか!<line>
- はやく さがすのだ!」<end>
+//「おとした たからばこを<line>
+ //まだ あつめきっておらんではないか!<line>
+ //はやく さがすのだ!」<end>
+You still have yet to collect<line>
+ the fallen Treasure Chest no!<line>
+ Quickly find it!<end>
 
 
 //POINTER #59 @ $216A98 - STRING #59 @ $275119
 
 #WRITE(GBA,$216A98)
-<startname>キョロスケ<line>
-「なに? おい スタフィー!<line>
- まだ あつまってないだと!?」<end>
+//<startname>キョロスケ<line>
+//「なに? おい スタフィー!<line>
+ //まだ あつまってないだと!?」<end>
+<startname>Kyorosuke<line>
+What? Hey Starfy~!<line>
+ You say you still haven't collected it!?<end>
 
 
 //POINTER #60 @ $216A9C - STRING #60 @ $275144
 
 #WRITE(GBA,$216A9C)
-「・・・バカヤロー! オレさまが<line>
- もらうことになってんだ!<line>
- はやくさがせっ! オラオラッ!」<end>
+//「・・・バカヤロー! オレさまが<line>
+ //もらうことになってんだ!<line>
+ //はやくさがせっ! オラオラッ!」<end>
+...Goddamn morooon! MINE<line>
+ was taken!<line>
+ Hurry and find iii! Hey heey!<end>
 
 
 //POINTER #61 @ $216AA0 - STRING #61 @ $275178
 
 #WRITE(GBA,$216AA0)
-『ク クソ・・・・・<line>
- ・・・マタ シクジッタカ・・・<line>
- モウイチド チャンスガ アレバ』<end>
-
+//『ク クソ・・・・・<line>
+ //・・・マタ シクジッタカ・・・<line>
+ //モウイチド チャンスガ アレバ』<end>
+Sh Shit......<line>
+ ...Failed again... <line>
+ if I had one more chance<end>
+ 
 
 //POINTER #62 @ $216AA4 - STRING #62 @ $2751A9
 
 #WRITE(GBA,$216AA4)
-また オーグラを こらしめて<line>
-『ふしぎなツボ』に<line>
-ふうじこめることが できました<end>
+//また オーグラを こらしめて<line>
+//『ふしぎなツボ』に<line>
+//ふうじこめることが できました<end>
+Again Ogura was able to be punished<line>
+and sealed in<line>
+ the "Mysterious Jar"<end>
 
 
 //POINTER #63 @ $216AA8 - STRING #63 @ $2751D5
 
 #WRITE(GBA,$216AA8)
-<startname>王さま<line>
-「とうとう すべての たからばこを<line>
- あつめたか・・・よくやった!」<end>
+//<startname>王さま<line>
+//「とうとう すべての たからばこを<line>
+ //あつめたか・・・よくやった!」<end>
+<startname>King<line>
+At last all of the Treasure Chest<line>
+ has finally...been collected huh!<end>
 
 
 //POINTER #64 @ $216AAC - STRING #64 @ $275201
 
 #WRITE(GBA,$216AAC)
-「しかし キョロスケよ!<line>
- せっかく ふうじこめた オーグラを<line>
- にがしたのは おぬしだぞ!!」<line>
+//「しかし キョロスケよ!<line>
+ //せっかく ふうじこめた オーグラを<line>
+ //にがしたのは おぬしだぞ!!」<line>
+    //<clear><line>
+//<startname>キョロスケ<line>
+//「・・そういや ツボに ぶつかったな<line>
+ //ま まあ・・・おわったコトだ!」<end>
+However Kyorosuke!<line>
+ At great trouble the sealed Ogura<line>
+ was set free due to you!!<line>
     <clear><line>
-<startname>キョロスケ<line>
-「・・そういや ツボに ぶつかったな<line>
- ま まあ・・・おわったコトだ!」<end>
+<startname>Kyorosuke<line>
+..Come to think of it the Jar was bumped huh<line>
+ We Well...it's over!<end>
 
 
 //POINTER #65 @ $216AB0 - STRING #65 @ $27526D
 
 #WRITE(GBA,$216AB0)
-「そんなコトより・・・<line>
- さあ おたからを よこせっ!<line>
- 今すぐ よこせっ!」<end>
+//「そんなコトより・・・<line>
+ //さあ おたからを よこせっ!<line>
+ //今すぐ よこせっ!」<end>
+More than that...<line>
+ Well hand over the Treaasure!<line>
+ Hand it over immeediately!<end>
 
 
 //POINTER #66 @ $216AB4 - STRING #66 @ $275298
 
 #WRITE(GBA,$216AB4)
-<startname>王さま<line>
-「・・・よかったな スタフィー!」<line>
+//<startname>王さま<line>
+//「・・・よかったな スタフィー!」<line>
+    //<clear><line>
+//「キョロスケは おまえの けらいに<line>
+ //なってくれるらしい!」<line>
+    //<clear><line>
+//<startname>キョロスケ<line>
+//「なにを いってんだ?<line>
+ //・・・・そんなワケ ねーだろ?」<line>
+    //<clear><line>
+//<startname>王さま<line>
+//「たからは 王につかえる<line>
+ //けらいたちの あかし!」<line>
+    //<clear><line>
+//「けらいにしか もつことはできん<line>
+ //・・・知らなかったか?」<end>
+<startname>King<line>
+...Well done Starfy~!<line>
     <clear><line>
-「キョロスケは おまえの けらいに<line>
- なってくれるらしい!」<line>
+It seems Kyorosuke<line>
+ has become your servant!<line>
     <clear><line>
-<startname>キョロスケ<line>
-「なにを いってんだ?<line>
- ・・・・そんなワケ ねーだろ?」<line>
+<startname>Kyorosuke<line>
+What are you saying?<line>
+ ....There's no reason for that eh?<line>
     <clear><line>
-<startname>王さま<line>
-「たからは 王につかえる<line>
- けらいたちの あかし!」<line>
+<startname>King<line>
+The Treasure is usable to the King<line>
+ as proof of you as servants!<line>
     <clear><line>
-「けらいにしか もつことはできん<line>
- ・・・知らなかったか?」<end>
+Just servants cannot have it<line>
+ ...didn't you know that?<end>
 
 
 //POINTER #67 @ $216AB8 - STRING #67 @ $275361
 
 #WRITE(GBA,$216AB8)
-<startname>キョロスケ<line>
-「な なんで オレさまが<line>
- コイツの けらいなんかに!」<line>
+//<startname>キョロスケ<line>
+//「な なんで オレさまが<line>
+ //コイツの けらいなんかに!」<line>
+    //<clear><line>
+//「やっぱり オメェといると<line>
+ //ろくなことがねえっ!<line>
+ //・・・どうしてくれるんだよっ!」<end>
+<startname>Kyorosuke<line>
+Wh Why am I but<line>
+ that thing's servant huh!<line>
     <clear><line>
-「やっぱり オメェといると<line>
- ろくなことがねえっ!<line>
- ・・・どうしてくれるんだよっ!」<end>
+Figures it is not satisfactory<line>
+ with you here!<line>
+ <end>
 
 
 //POINTER #68 @ $216ABC - STRING #68 @ $2753C0
 
 #WRITE(GBA,$216ABC)
-『モウイチド ダレカ コノツボヲ<line>
- ツキトバシテクレナイカナ?』<end>
+//『モウイチド ダレカ コノツボヲ<line>
+ //ツキトバシテクレナイカナ?』<end>
+One more time someone this Jar<line>
+ I wonder if I should throw it?<end>
 
 
 //POINTER #69 @ $216AC0 - STRING #69 @ $2753E3
 
 #WRITE(GBA,$216AC0)
-『・・・・・・・・・・・・・・・』<end>
-
+//『・・・・・・・・・・・・・・・』<end>
+".............."<end>
 
 //POINTER #70 @ $216AC4 - STRING #70 @ $2778D0
 
 #ACTIVETBL(engTable)
 #WRITE(GBA,$216AC4)
 //『ロブのどうくつ』<end>
-Rob's Cave<end>
+Lob's Cave<end>
 #ACTIVETBL(Table)
 
 //POINTER #71 @ $216AC8 - STRING #71 @ $2778DB
 
 #WRITE(GBA,$216AC8)
-『サンゴショウ』<end>
+//『サンゴショウ』<end>
+"Coral Reef"<end>
 
 
 //POINTER #72 @ $216ACC - STRING #72 @ $2778E5
 
 #WRITE(GBA,$216ACC)
-『ザショウクジラ』<end>
+//『ザショウクジラ』<end>
+"Bruised Whale"<end>
 
 
 //POINTER #73 @ $216AD0 - STRING #73 @ $2778F0
 
 #WRITE(GBA,$216AD0)
-『氷の海』<end>
+//『氷の海』<end>
+"Sea of Ice"<end>
 
 
 //POINTER #74 @ $216AD4 - STRING #74 @ $2778F7
 
+
 #WRITE(GBA,$216AD4)
-『ふかい海』<end>
+//『ふかい海』<end>
+"Deep Sea"<end>
 
 
 //POINTER #75 @ $216AD8 - STRING #75 @ $2778FF
 
 #WRITE(GBA,$216AD8)
-『ちんぼつせん』<end>
+//『ちんぼつせん』<end>
+"Sunken Ship"<end>
 
 
 //POINTER #76 @ $216ADC - STRING #76 @ $277909
 
 #WRITE(GBA,$216ADC)
-『かいていしんでん』<end>
+//『かいていしんでん』<end>
+"Revolving Temple"<end>
 
 
 //POINTER #77 @ $216AE0 - STRING #77 @ $277915
 
 #WRITE(GBA,$216AE0)
-『そらの海』<end>
+//『そらの海』<end>
+"Sky of the Seas"<end>
 
 
 //POINTER #78 @ $216AE4 - STRING #78 @ $27791D
 
 #WRITE(GBA,$216AE4)
-『テンカイ』<end>
+//『テンカイ』<end>
+"Heaven"<end>
 
 
 //POINTER #79 @ $216AE8 - STRING #79 @ $2754F4
 
 #WRITE(GBA,$216AE8)
-オープニングデモ<line>
-海のねいろ<line>
-ファイルセレクト<line>
-ロブのどうくつ<line>
-サンゴショウ<end>
+//オープニングデモ<line>
+//海のねいろ<line>
+//ファイルセレクト<line>
+//ロブのどうくつ<line>
+//サンゴショウ<end>
+Opening Demo<line>
+Sea Timbre<line>
+File Select<line>
+Lob's Cave<line>
+Coral Reef<end>
 
 
 //POINTER #80 @ $216AEC - STRING #80 @ $275520
 
 #WRITE(GBA,$216AEC)
-ザショウクジラ<line>
-氷の海<line>
-ふかい海<line>
-ちんぼつせん<line>
-かいていしんでん<end>
+//ザショウクジラ<line>
+//氷の海<line>
+//ふかい海<line>
+//ちんぼつせん<line>
+//かいていしんでん<end>
+Bruised Whale<line>
+Sea of Ice<line>
+Deep Sea<line>
+Sunken Ship<line>
+Revolving Temple<end>
 
 
 //POINTER #81 @ $216AF0 - STRING #81 @ $275546
 
 #WRITE(GBA,$216AF0)
-そらの海<line>
-テンカイ<line>
-かいわがめん1<line>
-かいわがめん2<line>
-かいわがめん3<end>
+//そらの海<line>
+//テンカイ<line>
+//かいわがめん1<line>
+//かいわがめん2<line>
+//かいわがめん3<end>
+Sky of the Sea<line>
+Heaven<line>
+Conversation Screen 1<line>
+Conversation Screen 2<line>
+Conversation Screen 3<end>
 
 
 //POINTER #82 @ $216AF4 - STRING #82 @ $27556D
 
 #WRITE(GBA,$216AF4)
-かいわがめん4<line>
-ノルマたっせい<line>
-ボスは近いぞ<line>
-ボスとたいけつだ<line>
-バトル ボス!<end>
+//かいわがめん4<line>
+//ノルマたっせい<line>
+//ボスは近いぞ<line>
+//ボスとたいけつだ<line>
+//バトル ボス!<end>
+Conversation Screen 4<line>
+Quota Achievement<line>
+Boss is close<line>
+It's the Boss Showdown<line>
+Boss Battle!<end>
 
 
 //POINTER #83 @ $216AF8 - STRING #83 @ $27559A
 
 #WRITE(GBA,$216AF8)
-オーグラをたおせ<line>
-ミニゲーム<line>
-ゲームオーバー1<line>
-ゲームオーバー2<line>
-ポーズ<end>
+//オーグラをたおせ<line>
+//ミニゲーム<line>
+//ゲームオーバー1<line>
+//ゲームオーバー2<line>
+//ポーズ<end>
+Defeat Ogura<line>
+Mini Game<line>
+Game Over 1<line>
+Game Over 2<line>
+Pause<end>
 
 
 //POINTER #84 @ $216AFC - STRING #84 @ $2755C4
 
 #WRITE(GBA,$216AFC)
-ステージクリア<line>
-きねんしゃしん<line>
-ききゅう<line>
-もぐらタンク<line>
-なまずボート<end>
+//ステージクリア<line>
+//きねんしゃしん<line>
+//ききゅう<line>
+//もぐらタンク<line>
+//なまずボート<end>
+Stage Clear<line>
+Photo Souveneir<line>
+Balloon<line>
+Mole Tank<line>
+Catfish Boat<end>
 
 
 //POINTER #85 @ $216B00 - STRING #85 @ $2755EC
 
 #WRITE(GBA,$216B00)
-まほう使い<line>
-きぐるみ<line>
-海のねいろ?<line>
-エンディング1<line>
-エンディング2<end>
+//まほう使い<line>
+//きぐるみ<line>
+//海のねいろ?<line>
+//エンディング1<line>
+//エンディング2<end>
+Sorcery<line>
+Cartoon-Character Costume<line>
+Sea of Timbre?<line>
+Ending 1<line>
+Ending 2<end>
 
 
 //POINTER #86 @ $216B04 - STRING #86 @ $275613
 
 #WRITE(GBA,$216B04)
-エンディング3<line>
-ステージセレクト<line>
-ずかん<line>
-おたからだ!<line>
-たからもの<end>
+//エンディング3<line>
+//ステージセレクト<line>
+//ずかん<line>
+//おたからだ!<line>
+//たからもの<end>
+Ending 3<line>
+Stage Select<line>
+Picture Book<line>
+It's Treasure!<line>
+Treasure<end>
 
 
 //POINTER #87 @ $216B08 - STRING #87 @ $27563A
 
 #WRITE(GBA,$216B08)
-ミニゲームしゅう<line>
-スタッフロール<line>
-おまけだよ!<line>
-スタフィーダンス<end>
+//スタッフロール<line>
+//おまけだよ!<line>
+//スタフィーダンス<end>
+Staff Roll<line>
+It's a Bonus!<line>
+Starfy Dance<end>
 
 
 //POINTER #88 @ $216B0C - STRING #88 @ $27565F
@@ -787,147 +1053,213 @@ Rob's Cave<end>
 //POINTER #89 @ $216B10 - STRING #89 @ $275664
 
 #WRITE(GBA,$216B10)
-ゲーム中の いろんな おんがくが<line>
-きけるぞ! よかったな!<end>
+//ゲーム中の いろんな おんがくが<line>
+//きけるぞ! よかったな!<end>
+You can listen to various Songs<line>
+of the Game! Great huh!<end>
 
 
 //POINTER #90 @ $216B14 - STRING #90 @ $275684
 
 #WRITE(GBA,$216B14)
-このゲームを つくった<line>
-スタッフを みられるぞ!<end>
+//このゲームを つくった<line>
+//スタッフを みられるぞ!<end>
+You can see the Staff<line>
+that created this Game!<end>
 
 
 //POINTER #91 @ $216B18 - STRING #91 @ $27569F
 
 #WRITE(GBA,$216B18)
-このゲームを つくった<line>
-スタッフを みられるぞ!<end>
+//このゲームを つくった<line>
+//スタッフを みられるぞ!<end>
+You can see the Staff<line>
+that created this Game!<end>
 
 
 //POINTER #92 @ $216B1C - STRING #92 @ $2756BA
 
 #WRITE(GBA,$216B1C)
-さいしょの エンディングを<line>
-みられるぞ!<end>
+//さいしょの エンディングを<line>
+//みられるぞ!<end>
+You can see the<line>
+first ending!<end>
 
 
 //POINTER #93 @ $216B20 - STRING #93 @ $2756D1
 
 #WRITE(GBA,$216B20)
-2しゅうめの エンディングを<line>
-みられるぞ!<end>
+//2しゅうめの エンディングを<line>
+//みられるぞ!<end>
+You can see<line>
+2 Endings!<end>
 
 
 //POINTER #94 @ $216B24 - STRING #94 @ $2756E9
 
 #WRITE(GBA,$216B24)
-たからものを すべてあつめた<line>
-エンディングを みられるぞ!<end>
+//たからものを すべてあつめた<line>
+//エンディングを みられるぞ!<end>
+You can see the Ending<line>
+All Collected Treasure!<end>
 
 
 //POINTER #95 @ $216B28 - STRING #95 @ $275709
 
 #WRITE(GBA,$216B28)
-まだ オメェには みせられねえ!<line>
-もっと あそんでこい!<end>
+//まだ オメェには みせられねえ!<line>
+//もっと あそんでこい!<end>
+You cannot see it yet!<line>
+Go and play more!<end>
 
 
 //POINTER #96 @ $216B2C - STRING #96 @ $275728
 
 #WRITE(GBA,$216B2C)
+//<line>
+  //<red>『<red>サ<red>ン<red>ゴ<red>シ<red>ョ<red>ウ<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「ワルモノに さらわれたっていう<line>
+ //ヤドカリタの なかまを<line>
+ //さがしてね」<end>
 <line>
-  <red>『<red>サ<red>ン<red>ゴ<red>シ<red>ョ<red>ウ<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「ワルモノに さらわれたっていう<line>
- ヤドカリタの なかまを<line>
- さがしてね」<end>
+  Continued in <red>"<red>C<red>o<red>r<red>a<red>l<red> <red>R<red>e<red>e<red>f<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+Look for the villain<line>
+ that took Yadokarita's friend<line>
+ away okay<end>
 
 
 //POINTER #97 @ $216B30 - STRING #97 @ $27578E
 
 #WRITE(GBA,$216B30)
+//<line>
+  //<red>『<red>ザ<red>シ<red>ョ<red>ウ<red>ク<red>ジ<red>ラ<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<red><endname><line>
+//「クジラさんに<line>
+ //すいこまれちゃったんだ・・・」<wait><scrollup><scrollup><line>
+//「でも あなたの たすけをまつ<line>
+ //なかまが いるわ! がんばって!」<end>
 <line>
-  <red>『<red>ザ<red>シ<red>ョ<red>ウ<red>ク<red>ジ<red>ラ<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<red><endname><line>
-「クジラさんに<line>
- すいこまれちゃったんだ・・・」<wait><scrollup><scrollup><line>
-「でも あなたの たすけをまつ<line>
- なかまが いるわ! がんばって!」<end>
+  Continued in <red>"<red>B<red>r<red>u<red>i<red>s<red>e<red>d<red> <red>W<red>h<red>a<red>l<red>e"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+Completely swallowed by<line>
+ the Bruised Whale...<wait><scrollup><scrollup><line>
+But your friends wait<line>
+ to be rescued there! Do your best!<end>
 
 
 //POINTER #98 @ $216B34 - STRING #98 @ $275816
 
 #WRITE(GBA,$216B34)
+//<line>
+    //<red>『<red>氷<red>の<red>海<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「クリオレを たすけてほしいって<line>
+ //いってたっけ・・・<line>
+ //さあ さがしに行きましょ!」<end>
 <line>
-    <red>『<red>氷<red>の<red>海<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「クリオレを たすけてほしいって<line>
- いってたっけ・・・<line>
- さあ さがしに行きましょ!」<end>
+    Continued in <red>"<red>S<red>e<red>a<red> <red>O<red>f<red> <red>I<red>c<red>e<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+I "want" you to go and<line>
+ save Creole...<line>
+ Well let's go and search!<end>
 
 
 //POINTER #99 @ $216B38 - STRING #99 @ $27587B
 
 #WRITE(GBA,$216B38)
+//<line>
+   //<red>『<red>ふ<red>か<red>い<red>海<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「このへんに オオタルイカさんの<line>
+ //へやがあるはずだけど・・?」<end>
 <line>
-   <red>『<red>ふ<red>か<red>い<red>海<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「このへんに オオタルイカさんの<line>
- へやがあるはずだけど・・?」<end>
+   Continued in <red>"<red>D<red>e<red>e<red>p<red> <red>S<red>e<red>a<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+In this area I only expect<line>
+ the Great Large Barrel Squid to be in their room..?<end>
 
 
 //POINTER #100 @ $216B3C - STRING #100 @ $2758D6
 
 #WRITE(GBA,$216B3C)
+//<line>
+  //<red>『<red>ち<red>ん<red>ぼ<red>つ<red>せ<red>ん<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「ボクトパスに とらえられた<line>
+ //イルカたち・・<line>
+ //早く たすけだしてあげてね」<end>
 <line>
-  <red>『<red>ち<red>ん<red>ぼ<red>つ<red>せ<red>ん<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「ボクトパスに とらえられた<line>
- イルカたち・・<line>
- 早く たすけだしてあげてね」<end>
+  Continued in <red>"<red>S<red>u<red>n<red>k<red>e<red>n<red> <red>S<red>h<red>i<red>p<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+I and Pass are captured<line>
+ The Dolphins..<line>
+ quickly go and save them okay<end>
 
 
 //POINTER #101 @ $216B40 - STRING #101 @ $27593E
 
 #WRITE(GBA,$216B40)
+//<line>
+ //<red>『<red>か<red>い<red>て<red>い<red>し<red>ん<red>で<red>ん<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「キョロスケは しんでんの中に<line>
+ //入っていったわよ?」<end>
 <line>
- <red>『<red>か<red>い<red>て<red>い<red>し<red>ん<red>で<red>ん<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「キョロスケは しんでんの中に<line>
- 入っていったわよ?」<end>
+ Continued in <red>"<red>R<red>e<red>v<red>o<red>l<red>v<red>i<red>n<red>g<red> <red>H<red>e<red>a<red>v<red>e<red>n<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+Kroyosuke went to enter the Temple<line>
+ right?<end>
 
 
 //POINTER #102 @ $216B44 - STRING #102 @ $27599E
 
 #WRITE(GBA,$216B44)
+//<line>
+   //<red>『<red>そ<red>ら<red>の<red>海<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「がんばって スタフィー!<line>
+ //にっくき オーグラは<line>
+ //すぐそこよ!」<end>
 <line>
-   <red>『<red>そ<red>ら<red>の<red>海<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「がんばって スタフィー!<line>
- にっくき オーグラは<line>
- すぐそこよ!」<end>
+   Continued in <red>"<red>S<red>k<red>y<red> <red>O<red>f<red> <red>T<red>h<red>e <red>S<red>e<red>a<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+Do your best Starfy~!<line>
+ The accursed Ogura<line>
+ is close by!<end>
 
 
 //POINTER #103 @ $216B48 - STRING #103 @ $2759FC
 
 #WRITE(GBA,$216B48)
+//<line>
+  //<red>『<red>ロ<red>ブ<red>の<red>ど<red>う<red>く<red>つ<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「ヤドカリタさんが なくした<line>
+ //おうちを さがしてあげてね」<end>
 <line>
-  <red>『<red>ロ<red>ブ<red>の<red>ど<red>う<red>く<red>つ<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「ヤドカリタさんが なくした<line>
- おうちを さがしてあげてね」<end>
+  Continued in <red>"<red>L<red>o<red>b<red>'<red>s<red> <red>C<red>a<red>v<red>e<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+Yadokarita disappeared<line>
+ Search the Home okay<end>
 
 
 //POINTER #104 @ $216B4C - STRING #104 @ $275A5D
 
 #WRITE(GBA,$216B4C)
+//<line>
+    //<red>『<red>氷<red>の<red>海<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「どうしたの? スタフィー<line>
+ //氷に とじこめられた クリオレを<line>
+ //なんとかしてあげないと・・・」<end>
 <line>
-    <red>『<red>氷<red>の<red>海<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「どうしたの? スタフィー<line>
- 氷に とじこめられた クリオレを<line>
- なんとかしてあげないと・・・」<end>
+    Continued in <red>"<red>S<red>e<red>a<red> <red>O<red>f<red> <red>I<red>c<red>e<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+What's wrong? Starfy~<line>
+ The sealed in Ice Creole<line>
+ somehow if you don't do something...<end>
 
 
 //POINTER #105 @ $216B50 - STRING #105 @ $275AC7
@@ -1865,44 +2197,59 @@ Rob's Cave<end>
 //POINTER #194 @ $216CB4 - STRING #194 @ $277998
 
 #WRITE(GBA,$216CB4)
-キョロスケと いっしょに<line>
-クリオレを さがしてみよう!<end>
+//キョロスケと いっしょに<line>
+//クリオレを さがしてみよう!<end>
+Together with Kyorosuke<line>
+try to find Creole!<end>
 
 
 //POINTER #195 @ $216CB8 - STRING #195 @ $2779B6
 
 #WRITE(GBA,$216CB8)
-ナゾの マモノに<line>
-ふかーい海へ とじこめられたよ!<line>
-だっしゅつ しなくちゃ!<end>
+//ナゾの マモノに<line>
+//ふかーい海へ とじこめられたよ!<line>
+//だっしゅつ しなくちゃ!<end>
+The Mysterious Demon<line>
+was sealed in the Deeeeep Sea!<line>
+You must completely escape!<end>
 
 
 //POINTER #196 @ $216CBC - STRING #196 @ $2779E0
 
 #WRITE(GBA,$216CBC)
-どうやら 中を とおるしかないね<line>
-ゆうきを出して たんけんしよう<end>
+//どうやら 中を とおるしかないね<line>
+//ゆうきを出して たんけんしよう<end>
+Somehow can't just pass within huh<line>
+Let out the Bravery and explore<end>
 
 
 //POINTER #197 @ $216CC0 - STRING #197 @ $277A03
 
 #WRITE(GBA,$216CC0)
-ふるい しんでんに かくされたナゾ!<line>
-しらべているのは スタフィーたちと<line>
-そして・・・?<end>
+//ふるい しんでんに かくされたナゾ!<line>
+//しらべているのは スタフィーたちと<line>
+//そして・・・?<end>
+The mysterious hidden Old Temple!<line>
+And finally Starfy and friends<line>
+investigate...?<end>
 
 
 //POINTER #198 @ $216CC4 - STRING #198 @ $277A33
 
 #WRITE(GBA,$216CC4)
-ナゾのマモノ オーグラを おいかけて<line>
-とうとう そらへ!<end>
+//ナゾのマモノ オーグラを おいかけて<line>
+//とうとう そらへ!<end>
+Chase after the Mysterious Demon Ogura<line>
+to the Sky finally!<end>
 
 
 //POINTER #199 @ $216CC8 - STRING #199 @ $277A52
 
 #WRITE(GBA,$216CC8)
-いよいよ さいごの たたかい!<line>
-オーグラを たおして<line>
-平和を とりもどそう!<end>
+//いよいよ さいごの たたかい!<line>
+//オーグラを たおして<line>
+//平和を とりもどそう!<end>
+At last the final battle!<line>
+Defeat Ogura<line>
+to restore peace!<end>
 
