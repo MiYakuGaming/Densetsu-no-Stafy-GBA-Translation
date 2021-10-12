@@ -1258,122 +1258,186 @@ Yadokarita disappeared<line>
     Continued in <red>"<red>S<red>e<red>a<red> <red>O<red>f<red> <red>I<red>c<red>e<red>"<wait><clear><line>
 <startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
 What's wrong? Starfy~<line>
- The sealed in Ice Creole<line>
+ The Creole is imprisoned in Ice<line>
  somehow if you don't do something...<end>
 
 
 //POINTER #105 @ $216B50 - STRING #105 @ $275AC7
 
 #WRITE(GBA,$216B50)
+//<line>
+  //<red>『<red>ち<red>ん<red>ぼ<red>つ<red>せ<red>ん<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「いそいで! スタフィー!<line>
+ //マモノは すぐそこまで<line>
+ //来ているわ!!」<end>
 <line>
-  <red>『<red>ち<red>ん<red>ぼ<red>つ<red>せ<red>ん<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「いそいで! スタフィー!<line>
- マモノは すぐそこまで<line>
- 来ているわ!!」<end>
+  Continued in <red>"<red>S<red>u<red>n<red>k<red>e<red>n<red> <red>S<red>h<red>i<red>p<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+Hurry! Starfy~!<line>
+ Until the Demon is<line>
+ coming close by!!<end>
 
 
 //POINTER #106 @ $216B54 - STRING #106 @ $275B2C
 
 #WRITE(GBA,$216B54)
+//<line>
+ //<red>『<red>か<red>い<red>て<red>い<red>し<red>ん<red>で<red>ん<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「<red>『<red>よ<red>げ<red>ん<red>し<red>ょ<red>』は どこに?<line>
+ //しんでんの 中を たんけんすると<line>
+ //みつかるかな?」<end>
 <line>
- <red>『<red>か<red>い<red>て<red>い<red>し<red>ん<red>で<red>ん<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「<red>『<red>よ<red>げ<red>ん<red>し<red>ょ<red>』は どこに?<line>
- しんでんの 中を たんけんすると<line>
- みつかるかな?」<end>
+ Continued in <red>"<red>S<red>e<red>a<red>f<red>l<red>o<red>o<red>r<red> <red>T<red>e<red>m<red>p<red>l<red>e<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+Where is the <red>"<red>P<red>r<red>o<red>p<red>h<red>e<red>t<red> <red>W<red>r<red>i<red>t<red>i<red>n<red>g<red>"?<line>
+ I wonder what you will find<line>
+ exploring within the Temple?<end>
 
 
 //POINTER #107 @ $216B58 - STRING #107 @ $275BAA
 
 #WRITE(GBA,$216B58)
+//<line>
+   //<red>『<red>テ<red>ン<red>カ<red>イ<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「スタフィー!!<line>
+ //とうとうここまで<line>
+ //やって来たわね!」<wait><scrollup><scrollup><scrollup><line>
+//「オーグラは きょうてきよ!<line>
+ //気をひきしめて さいごの<line>
+ //たたかいに のぞんでね!」<end>
 <line>
-   <red>『<red>テ<red>ン<red>カ<red>イ<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「スタフィー!!<line>
- とうとうここまで<line>
- やって来たわね!」<wait><scrollup><scrollup><scrollup><line>
-「オーグラは きょうてきよ!<line>
- 気をひきしめて さいごの<line>
- たたかいに のぞんでね!」<end>
+   Continued in <red>"<red>H<red>e<red>a<red>v<red>e<red>n<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+Starfy~!!<line>
+ You finally<line>
+ came here huh!<wait><scrollup><scrollup><scrollup><line>
+Ogura is a tough enemy you know!<line>
+ I hope you will hold on<line>
+ until the end of the fight huh!<end>
 
 
 //POINTER #108 @ $216B5C - STRING #108 @ $275C3A
 
 #WRITE(GBA,$216B5C)
+//<line>
+  //<red>『<red>サ<red>ン<red>ゴ<red>シ<red>ョ<red>ウ<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「がんばって スタフィー!<line>
+ //キョロスケと きょうりょくして<line>
+ //ハデヒラリを さがしてね」<end>
 <line>
-  <red>『<red>サ<red>ン<red>ゴ<red>シ<red>ョ<red>ウ<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「がんばって スタフィー!<line>
- キョロスケと きょうりょくして<line>
- ハデヒラリを さがしてね」<end>
+  Continued in <red>"<red>C<red>o<red>r<red>a<red>l<red> <red>R<red>e<red>e<red>f<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+Do your best Starfy~!<line>
+ Cooperatively with Kyorosuke<line>
+ search for Hadehirari huh<end>
 
 
 //POINTER #109 @ $216B60 - STRING #109 @ $275CA8
 
 #WRITE(GBA,$216B60)
+//<line>
+  //<red>『<red>サ<red>ン<red>ゴ<red>シ<red>ョ<red>ウ<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「がんばって スタフィー!<line>
+ //キョロスケと きょうりょくして<line>
+ //ハデヒラリを さがしてね」<end>
 <line>
-  <red>『<red>サ<red>ン<red>ゴ<red>シ<red>ョ<red>ウ<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「がんばって スタフィー!<line>
- キョロスケと きょうりょくして<line>
- ハデヒラリを さがしてね」<end>
+  Continued in <red>"<red>C<red>o<red>r<red>a<red>l<red> <red>R<red>e<red>e<red>f<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+Do your best Starfy~!<line>
+ Cooperatively with Kyorosuke<line>
+ search for Hadehirari huh<end>
 
 
 //POINTER #110 @ $216B64 - STRING #110 @ $275D16
 
 #WRITE(GBA,$216B64)
+//<line>
+  //<red>『<red>ザ<red>シ<red>ョ<red>ウ<red>ク<red>ジ<red>ラ<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「いろんな なかまを さがしてね!<line>
+ //きっと クジラさんの<line>
+ //たすけかたが わかるはず!」<end>
 <line>
-  <red>『<red>ザ<red>シ<red>ョ<red>ウ<red>ク<red>ジ<red>ラ<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「いろんな なかまを さがしてね!<line>
- きっと クジラさんの<line>
- たすけかたが わかるはず!」<end>
+  Continued in <red>"<red>B<red>r<red>u<red>i<red>s<red>e<red>d<red> <red>W<red>h<red>a<red>l<red>e<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+Look for various friends okay!<line>
+ Surely you will likely know<line>
+ how to save the Whale!<end>
 
 
 //POINTER #111 @ $216B68 - STRING #111 @ $275D87
 
 #WRITE(GBA,$216B68)
+//<line>
+  //<red>『<red>ザ<red>シ<red>ョ<red>ウ<red>ク<red>ジ<red>ラ<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「クジラさん・・<line>
+ //元気になると いいね・・」<wait><scrollup><scrollup><line>
+//「スタフィーだけだよ<line>
+ //あのマモノを たおせるのは!」<end>
 <line>
-  <red>『<red>ザ<red>シ<red>ョ<red>ウ<red>ク<red>ジ<red>ラ<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「クジラさん・・<line>
- 元気になると いいね・・」<wait><scrollup><scrollup><line>
-「スタフィーだけだよ<line>
- あのマモノを たおせるのは!」<end>
+  Continued in <red>"<red>B<red>r<red>u<red>i<red>s<red>e<red>d<red> <red>W<red>h<red>a<red>l<red>e<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+Mr. Whale..<line>
+ You will become okay you know..<wait><scrollup><scrollup><line>
+It's just Stafy you know~<line>
+ Defeat that Demon!<end>
 
 
 //POINTER #112 @ $216B6C - STRING #112 @ $275E05
 
 #WRITE(GBA,$216B6C)
+//<line>
+    //<red>『<red>氷<red>の<red>海<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「どうしたの? スタフィー<line>
+ //氷に とじこめられた クリオレを<line>
+ //なんとかしてあげないと・・・」<end>
 <line>
-    <red>『<red>氷<red>の<red>海<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「どうしたの? スタフィー<line>
- 氷に とじこめられた クリオレを<line>
- なんとかしてあげないと・・・」<end>
+    Continued in <red>"<red>S<red>e<red>a<red> <red>O<red>f<red> <red>I<red>c<red>e<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+What's wrong? Starfy~<line>
+ If you don't do something about<line>
+ the Creole imprisoned in Ice...<end>
 
 
 //POINTER #113 @ $216B70 - STRING #113 @ $275E6F
 
 #WRITE(GBA,$216B70)
+//<line>
+    //<red>『<red>氷<red>の<red>海<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「どうしたの? スタフィー<line>
+ //氷に とじこめられた クリオレを<line>
+ //なんとかしてあげないと・・・」<end>
 <line>
-    <red>『<red>氷<red>の<red>海<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「どうしたの? スタフィー<line>
- 氷に とじこめられた クリオレを<line>
- なんとかしてあげないと・・・」<end>
+    Continued in <red>"<red>S<red>e<red>a<red> <red>O<red>f<red> <red>I<red>c<red>e<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+What's wrong? Starfy~<line>
+ If you don't do something about<line>
+ the Creole imprisoned in Ice...<end>
 
 
 //POINTER #114 @ $216B74 - STRING #114 @ $275ED9
 
 #WRITE(GBA,$216B74)
+//<line>
+    //<red>『<red>氷<red>の<red>海<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「おつかれさま スタフィー!<line>
+ //あとは ボエールンを<line>
+ //たおすだけね! がんばって!」<end>
 <line>
-    <red>『<red>氷<red>の<red>海<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「おつかれさま スタフィー!<line>
- あとは ボエールンを<line>
- たおすだけね! がんばって!」<end>
+    Continued in <red>"<red>S<red>e<red>a<red> <red>O<red>f<red> <red>I<red>c<red>e<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+Thank you for your hard work Starfy~!<line>
+ Now just to defeat Boeerun!<line>
+ Do your best!<end>
 
 
 //POINTER #115 @ $216B78 - STRING #115 @ $275F3E
@@ -1385,6 +1449,12 @@ What's wrong? Starfy~<line>
 「どうしたの? スタフィー<line>
  氷に とじこめられた クリオレを<line>
  なんとかしてあげないと・・・」<end>
+<line>
+    Continued in <red>"<red>S<red>e<red>a<red> <red>O<red>f<red> <red>I<red>c<red>e<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+What's wrong? Starfy~<line>
+ If you don't do something about<line>
+ the Creole imprisoned in Ice...<end>
 
 
 //POINTER #116 @ $216B7C - STRING #116 @ $275FA8
@@ -1756,290 +1826,449 @@ What's wrong? Starfy~<line>
 //POINTER #147 @ $216BF8 - STRING #147 @ $276DA5
 
 #WRITE(GBA,$216BF8)
+//<line>
+  //<red>『<red>ロ<red>ブ<red>の<red>ど<red>う<red>く<red>つ<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「たからものは どれだけ<line>
+ //みつかったのかしら?<line>
+ //がんばって ぼうけんしてね!」<end>
 <line>
-  <red>『<red>ロ<red>ブ<red>の<red>ど<red>う<red>く<red>つ<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「たからものは どれだけ<line>
- みつかったのかしら?<line>
- がんばって ぼうけんしてね!」<end>
+  Continued in <red>"<red>L<red>o<red>b<red>'<red>s<red> <red>C<red>a<red>v<red>e<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+I wonder how long until<line>
+ the Treasure is found?<line>
+ Do your best on your Adventure huh!<end>
 
 
 //POINTER #148 @ $216BFC - STRING #148 @ $276E12
 
 #WRITE(GBA,$216BFC)
+//<line>
+  //<red>『<red>サ<red>ン<red>ゴ<red>シ<red>ョ<red>ウ<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「たからものは どれだけ<line>
+ //みつかったのかしら?<line>
+ //がんばって ぼうけんしてね!」<end>
 <line>
-  <red>『<red>サ<red>ン<red>ゴ<red>シ<red>ョ<red>ウ<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「たからものは どれだけ<line>
- みつかったのかしら?<line>
- がんばって ぼうけんしてね!」<end>
+  <red>"<red>C<red>o<red>r<red>a<red>l<red> <red>R<red>e<red>e<red>f<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+I wonder how long until<line>
+ the Treasure is found?<line>
+ Do your best on your Adventure huh!<end>
 
 
 //POINTER #149 @ $216C00 - STRING #149 @ $276E7C
 
 #WRITE(GBA,$216C00)
+//<line>
+  //<red>『<red>ザ<red>シ<red>ョ<red>ウ<red>ク<red>ジ<red>ラ<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「たからものは どれだけ<line>
+ //みつかったのかしら?<line>
+ //がんばって ぼうけんしてね!」<end>
 <line>
-  <red>『<red>ザ<red>シ<red>ョ<red>ウ<red>ク<red>ジ<red>ラ<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「たからものは どれだけ<line>
- みつかったのかしら?<line>
- がんばって ぼうけんしてね!」<end>
+  Continued in <red>"<red>B<red>r<red>u<red>i<red>s<red>e<red>d<red> <red>W<red>h<red>a<red>l<red>e<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+I wonder how long until<line>
+ the Treasure is found?<line>
+ Do your best on your Adventure huh!<end>
 
 
 //POINTER #150 @ $216C04 - STRING #150 @ $276EE9
 
 #WRITE(GBA,$216C04)
+//<line>
+    //<red>『<red>氷<red>の<red>海<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「たからものは どれだけ<line>
+ //みつかったのかしら?<line>
+ //がんばって ぼうけんしてね!」<end>
 <line>
-    <red>『<red>氷<red>の<red>海<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「たからものは どれだけ<line>
- みつかったのかしら?<line>
- がんばって ぼうけんしてね!」<end>
+    Continued in <red>"<red>S<red>e<red>a<red> <red>O<red>f<red> <red>I<red>c<red>e<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+I wonder how long until<line>
+ the Treasure is found?<line>
+ Do your best on your Adventure huh!<end>
 
 
 //POINTER #151 @ $216C08 - STRING #151 @ $276F4C
 
 #WRITE(GBA,$216C08)
+//<line>
+   //<red>『<red>ふ<red>か<red>い<red>海<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「たからものは どれだけ<line>
+ //みつかったのかしら?<line>
+ //がんばって ぼうけんしてね!」<end>
 <line>
-   <red>『<red>ふ<red>か<red>い<red>海<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「たからものは どれだけ<line>
- みつかったのかしら?<line>
- がんばって ぼうけんしてね!」<end>
+   Continued in <red>"<red>D<red>e<red>e<red>p<red> <red>S<red>e<red>a<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+I wonder how long until<line>
+ the Treasure is found?<line>
+ Do your best on your Adventure huh!<end>
 
 
 //POINTER #152 @ $216C0C - STRING #152 @ $276FB1
 
 #WRITE(GBA,$216C0C)
+//<line>
+  //<red>『<red>ち<red>ん<red>ぼ<red>つ<red>せ<red>ん<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「たからものは どれだけ<line>
+ //みつかったのかしら?<line>
+ //がんばって ぼうけんしてね!」<end>
 <line>
-  <red>『<red>ち<red>ん<red>ぼ<red>つ<red>せ<red>ん<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「たからものは どれだけ<line>
- みつかったのかしら?<line>
- がんばって ぼうけんしてね!」<end>
+  Continued in <red>"<red>S<red>u<red>n<red>k<red>e<red>n<red> <red>S<red>h<red>i<red>p<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+I wonder how long until<line>
+ the Treasure is found?<line>
+ Do your best on your Adventure huh!<end>
 
 
 //POINTER #153 @ $216C10 - STRING #153 @ $27701B
 
 #WRITE(GBA,$216C10)
+//<line>
+ //<red>『<red>か<red>い<red>て<red>い<red>し<red>ん<red>で<red>ん<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「たからものは どれだけ<line>
+ //みつかったのかしら?<line>
+ //がんばって ぼうけんしてね!」<end>
 <line>
- <red>『<red>か<red>い<red>て<red>い<red>し<red>ん<red>で<red>ん<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「たからものは どれだけ<line>
- みつかったのかしら?<line>
- がんばって ぼうけんしてね!」<end>
+ Continued in <red>"<red>R<red>e<red>v<red>o<red>l<red>v<red>i<red>n<red>g<red> <red>T<red>e<red>m<red>p<red>l<red>e<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+I wonder how long until<line>
+ the Treasure is found?<line>
+ Do your best on your Adventure huh!<end>
 
 
 //POINTER #154 @ $216C14 - STRING #154 @ $27708A
 
 #WRITE(GBA,$216C14)
+//<line>
+   //<red>『<red>そ<red>ら<red>の<red>海<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「たからものは どれだけ<line>
+ //みつかったのかしら?<line>
+ //がんばって ぼうけんしてね!」<end>
 <line>
-   <red>『<red>そ<red>ら<red>の<red>海<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「たからものは どれだけ<line>
- みつかったのかしら?<line>
- がんばって ぼうけんしてね!」<end>
+   Continued in <red>"<red>S<red>k<red>y<red> <red>O<red>f<red> <red>T<red>h<red>e<red> <red>S<red>e<red>a<red><wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+I wonder how long until<line>
+ the Treasure is found?<line>
+ Do your best on your Adventure huh!<end>
 
 
 //POINTER #155 @ $216C18 - STRING #155 @ $2770EF
 
 #WRITE(GBA,$216C18)
+//<line>
+   //<red>『<red>テ<red>ン<red>カ<red>イ<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「たからものは どれだけ<line>
+ //みつかったのかしら?<line>
+ //がんばって ぼうけんしてね!」<end>
 <line>
-   <red>『<red>テ<red>ン<red>カ<red>イ<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「たからものは どれだけ<line>
- みつかったのかしら?<line>
- がんばって ぼうけんしてね!」<end>
+   Continued in <red>"<red>H<red>e<red>a<red>v<red>e<red>n<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+I wonder how long until<line>
+ the Treasure is found?<line>
+ Do your best on your Adventure huh!<end>
 
 
 //POINTER #156 @ $216C1C - STRING #156 @ $277154
 
 #WRITE(GBA,$216C1C)
+//<line>
+    //<red>『<red>氷<red>の<red>海<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「どうしたの? スタフィー<line>
+ //氷に とじこめられた クリオレを<line>
+ //なんとかしてあげないと・・・」<end>
 <line>
-    <red>『<red>氷<red>の<red>海<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「どうしたの? スタフィー<line>
- 氷に とじこめられた クリオレを<line>
- なんとかしてあげないと・・・」<end>
+    Continued in <red>"<red>S<red>e<red>a<red> <red>O<red>f<red> <red>I<red>c<red>e<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+What's wrong? Starfy~<line>
+ If you don't do something about<line>
+ the Creole imprisoned in Ice...<end>
 
 
 //POINTER #157 @ $216C20 - STRING #157 @ $2771BE
 
 #WRITE(GBA,$216C20)
+//<line>
+   //<red>『<red>そ<red>ら<red>の<red>海<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「がんばって スタフィー!<line>
+ //にっくき オーグラは<line>
+ //すぐそこよ!」<end>
 <line>
-   <red>『<red>そ<red>ら<red>の<red>海<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「がんばって スタフィー!<line>
- にっくき オーグラは<line>
- すぐそこよ!」<end>
+   Continued in <red>"<red>S<red>k<red>y<red> <red>O<red>f<red> <red>T<red>h<red>e<red> <red>S<red>e<red>a<red><wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+Do your best Starfy~!<line>
+ The accursed Ogura<line>
+ is close by!<end>
 
 
 //POINTER #158 @ $216C24 - STRING #158 @ $27721C
 
 #WRITE(GBA,$216C24)
+//<line>
+   //<red>『<red>テ<red>ン<red>カ<red>イ<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「スタフィー!!<line>
+ //とうとうここまで<line>
+ //やって来たわね!」<wait><scrollup><scrollup><scrollup><line>
+//「オーグラは きょうてきよ!<line>
+ //気をひきしめて さいごの<line>
+ //たたかいに のぞんでね!」<end>
 <line>
-   <red>『<red>テ<red>ン<red>カ<red>イ<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「スタフィー!!<line>
- とうとうここまで<line>
- やって来たわね!」<wait><scrollup><scrollup><scrollup><line>
-「オーグラは きょうてきよ!<line>
- 気をひきしめて さいごの<line>
- たたかいに のぞんでね!」<end>
+   Continued in <red>"<red>H<red>e<red>a<red>v<red>e<red>n<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+Starfy~!!<line>
+ You finally<line>
+ came here huh!<wait><scrollup><scrollup><scrollup><line>
+Ogura is a tough enemy you know!<line>
+ I hope you will hold on<line>
+ until the end of the fight huh!<end>
 
 
 //POINTER #159 @ $216C28 - STRING #159 @ $2772AC
 
 #WRITE(GBA,$216C28)
+//<line>
+  //<red>『<red>ち<red>ん<red>ぼ<red>つ<red>せ<red>ん<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「いそいで! スタフィー!<line>
+ //マモノは すぐそこまで<line>
+ //来ているわ!!」<end>
 <line>
-  <red>『<red>ち<red>ん<red>ぼ<red>つ<red>せ<red>ん<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「いそいで! スタフィー!<line>
- マモノは すぐそこまで<line>
- 来ているわ!!」<end>
+  Continued in <red>"<red>S<red>u<red>n<red>k<red>e<red>n<red> <red>S<red>h<red>i<red>p<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+Hurry! Starfy~!<line>
+ Until the Demon is<line>
+ coming close by!!<end>
 
 
 //POINTER #160 @ $216C2C - STRING #160 @ $277311
 
 #WRITE(GBA,$216C2C)
+//<line>
+  //<red>『<red>ロ<red>ブ<red>の<red>ど<red>う<red>く<red>つ<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「たからものは どれだけ<line>
+ //みつかったのかしら?<line>
+ //がんばって ぼうけんしてね!」<end>
 <line>
-  <red>『<red>ロ<red>ブ<red>の<red>ど<red>う<red>く<red>つ<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「たからものは どれだけ<line>
- みつかったのかしら?<line>
- がんばって ぼうけんしてね!」<end>
+ Continued in <red>"<red>L<red>o<red>b<red>'<red>s<red> <red>C<red>a<red>v<red>e<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+I wonder how long until<line>
+ the Treasure is found?<line>
+ Do your best on your Adventure huh!<end>
 
 
 //POINTER #161 @ $216C30 - STRING #161 @ $27737E
 
 #WRITE(GBA,$216C30)
+//<line>
+  //<red>『<red>ザ<red>シ<red>ョ<red>ウ<red>ク<red>ジ<red>ラ<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「たからものは どれだけ<line>
+ //みつかったのかしら?<line>
+ //がんばって ぼうけんしてね!」<end>
 <line>
-  <red>『<red>ザ<red>シ<red>ョ<red>ウ<red>ク<red>ジ<red>ラ<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「たからものは どれだけ<line>
- みつかったのかしら?<line>
- がんばって ぼうけんしてね!」<end>
+ Continued in <red>"<red>B<red>r<red>u<red>i<red>s<red>e<red>d<red> <red>W<red>h<red>a<red>l<red>e<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+I wonder how long until<line>
+ the Treasure is found?<line>
+ Do your best on your Adventure huh!<end>
 
 
 //POINTER #162 @ $216C34 - STRING #162 @ $2773EB
 
 #WRITE(GBA,$216C34)
+//<line>
+  //<red>『<red>氷<red>の<red>海<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「たからものは どれだけ<line>
+ //みつかったのかしら?<line>
+ //がんばって ぼうけんしてね!」<end>
 <line>
-    <red>『<red>氷<red>の<red>海<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「たからものは どれだけ<line>
- みつかったのかしら?<line>
- がんばって ぼうけんしてね!」<end>
+ Continued in <red>"<red>S<red>e<red>a<red> <red>O<red>f<red> <red>I<red>c<red>e<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+I wonder how long until<line>
+ the Treasure is found?<line>
+ Do your best on your Adventure huh!<end>
 
 
 //POINTER #163 @ $216C38 - STRING #163 @ $27744E
 
 #WRITE(GBA,$216C38)
+//<line>
+  //<red>『<red>ふ<red>か<red>い<red>海<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「たからものは どれだけ<line>
+ //みつかったのかしら?<line>
+ //がんばって ぼうけんしてね!」<end>
 <line>
-   <red>『<red>ふ<red>か<red>い<red>海<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「たからものは どれだけ<line>
- みつかったのかしら?<line>
- がんばって ぼうけんしてね!」<end>
+ Continued in <red>"<red>D<red>e<red>e<red>p<red> <red>S<red>e<red>a<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+I wonder how long until<line>
+ the Treasure is found?<line>
+ Do your best on your Adventure huh!<end>
 
 
 //POINTER #164 @ $216C3C - STRING #164 @ $2774B3
 
 #WRITE(GBA,$216C3C)
+//<line>
+  //<red>『<red>ち<red>ん<red>ぼ<red>つ<red>せ<red>ん<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「たからものは どれだけ<line>
+ //みつかったのかしら?<line>
+ //がんばって ぼうけんしてね!」<end>
 <line>
-  <red>『<red>ち<red>ん<red>ぼ<red>つ<red>せ<red>ん<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「たからものは どれだけ<line>
- みつかったのかしら?<line>
- がんばって ぼうけんしてね!」<end>
+ Continued in <red>"<red>S<red>u<red>n<red>k<red>e<red>n<red> <red>S<red>h<red>i<red>p<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+I wonder how long until<line>
+ the Treasure is found?<line>
+ Do your best on your Adventure huh!<end>
 
 
 //POINTER #165 @ $216C40 - STRING #165 @ $27751D
 
 #WRITE(GBA,$216C40)
+//<line>
+  //<red>『<red>ち<red>ん<red>ぼ<red>つ<red>せ<red>ん<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「たからものは どれだけ<line>
+ //みつかったのかしら?<line>
+ //がんばって ぼうけんしてね!」<end>
 <line>
-  <red>『<red>ち<red>ん<red>ぼ<red>つ<red>せ<red>ん<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「たからものは どれだけ<line>
- みつかったのかしら?<line>
- がんばって ぼうけんしてね!」<end>
+ Continued in <red>"<red>S<red>u<red>n<red>k<red>e<red>n<red> <red>S<red>h<red>i<red>p<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+I wonder how long until<line>
+ the Treasure is found?<line>
+ Do your best on your Adventure huh!<end>
 
 
 //POINTER #166 @ $216C44 - STRING #166 @ $277587
 
 #WRITE(GBA,$216C44)
+//<line>
+  //<red>『<red>ち<red>ん<red>ぼ<red>つ<red>せ<red>ん<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「たからものは どれだけ<line>
+ //みつかったのかしら?<line>
+ //がんばって ぼうけんしてね!」<end>
 <line>
-  <red>『<red>ち<red>ん<red>ぼ<red>つ<red>せ<red>ん<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「たからものは どれだけ<line>
- みつかったのかしら?<line>
- がんばって ぼうけんしてね!」<end>
-
+ Continued in <red>"<red>S<red>u<red>n<red>k<red>e<red>n<red> <red>S<red>h<red>i<red>p<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+I wonder how long until<line>
+ the Treasure is found?<line>
+ Do your best on your Adventure huh!<end>
+ 
 
 //POINTER #167 @ $216C48 - STRING #167 @ $2775F1
 
 #WRITE(GBA,$216C48)
+//<line>
+  //<red>『<red>ち<red>ん<red>ぼ<red>つ<red>せ<red>ん<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「たからものは どれだけ<line>
+ //みつかったのかしら?<line>
+ //がんばって ぼうけんしてね!」<end>
 <line>
-  <red>『<red>ち<red>ん<red>ぼ<red>つ<red>せ<red>ん<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「たからものは どれだけ<line>
- みつかったのかしら?<line>
- がんばって ぼうけんしてね!」<end>
+ Continued in <red>"<red>S<red>u<red>n<red>k<red>e<red>n<red> <red>S<red>h<red>i<red>p<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+I wonder how long until<line>
+ the Treasure is found?<line>
+ Do your best on your Adventure huh!<end>
 
 
 //POINTER #168 @ $216C4C - STRING #168 @ $27765B
 
 #WRITE(GBA,$216C4C)
+//<line>
+ //<red>『<red>か<red>い<red>て<red>い<red>し<red>ん<red>で<red>ん<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「たからものは どれだけ<line>
+ //みつかったのかしら?<line>
+ //がんばって ぼうけんしてね!」<end>
 <line>
- <red>『<red>か<red>い<red>て<red>い<red>し<red>ん<red>で<red>ん<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「たからものは どれだけ<line>
- みつかったのかしら?<line>
- がんばって ぼうけんしてね!」<end>
+ Continued in <red>"<red>R<red>e<red>v<red>o<red>l<red>v<red>i<red>n<red>g<red> <red>T<red>e<red>m<red>p<red>l<red>e<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+I wonder how long until<line>
+ the Treasure is found?<line>
+ Do your best on your Adventure huh!<end>
 
 
 //POINTER #169 @ $216C50 - STRING #169 @ $2776CA
 
 #WRITE(GBA,$216C50)
+//<line>
+ //<red>『<red>か<red>い<red>て<red>い<red>し<red>ん<red>で<red>ん<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「たからものは どれだけ<line>
+ //みつかったのかしら?<line>
+ //がんばって ぼうけんしてね!」<end>
 <line>
- <red>『<red>か<red>い<red>て<red>い<red>し<red>ん<red>で<red>ん<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「たからものは どれだけ<line>
- みつかったのかしら?<line>
- がんばって ぼうけんしてね!」<end>
+ Continued in <red>"<red>R<red>e<red>v<red>o<red>l<red>v<red>i<red>n<red>g<red> <red>T<red>e<red>m<red>p<red>l<red>e<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+I wonder how long until<line>
+ the Treasure is found?<line>
+ Do your best on your Adventure huh!<end>
 
 
 //POINTER #170 @ $216C54 - STRING #170 @ $277739
 
 #WRITE(GBA,$216C54)
+//<line>
+   //<red>『<red>そ<red>ら<red>の<red>海<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「たからものは どれだけ<line>
+ //みつかったのかしら?<line>
+ //がんばって ぼうけんしてね!」<end>
 <line>
-   <red>『<red>そ<red>ら<red>の<red>海<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「たからものは どれだけ<line>
- みつかったのかしら?<line>
- がんばって ぼうけんしてね!」<end>
+   Continued in <red>"<red>S<red>k<red>y<red> <red>O<red>f<red> <red>T<red>h<red>e<red> <red>S<red>e<red>a<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+I wonder how long until<line>
+ the Treasure is found?<line>
+ Do your best on your Adventure huh!<end>
 
 
 //POINTER #171 @ $216C58 - STRING #171 @ $27779E
 
 #WRITE(GBA,$216C58)
+//<line>
+   //<red>『<red>テ<red>ン<red>カ<red>イ<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「たからものは どれだけ<line>
+ //みつかったのかしら?<line>
+ //がんばって ぼうけんしてね!」<end>
 <line>
-   <red>『<red>テ<red>ン<red>カ<red>イ<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「たからものは どれだけ<line>
- みつかったのかしら?<line>
- がんばって ぼうけんしてね!」<end>
+   Continued in <red>"<red>H<red>e<red>a<red>v<red>e<red>n<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+I wonder how long until<line>
+ the Treasure is found?<line>
+ Do your best on your Adventure huh!<end>
 
 
 //POINTER #172 @ $216C5C - STRING #172 @ $277803
 
 #WRITE(GBA,$216C5C)
+//<line>
+   //<red>『<red>テ<red>ン<red>カ<red>イ<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「たからものは どれだけ<line>
+ //みつかったのかしら?<line>
+ //がんばって ぼうけんしてね!」<end>
 <line>
-   <red>『<red>テ<red>ン<red>カ<red>イ<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「たからものは どれだけ<line>
- みつかったのかしら?<line>
- がんばって ぼうけんしてね!」<end>
+   Continued in <red>"<red>H<red>e<red>a<red>v<red>e<red>n<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+I wonder how long until<line>
+ the Treasure is found?<line>
+ Do your best on your Adventure huh!<end>
 
 
 //POINTER #173 @ $216C60 - STRING #173 @ $277868
@@ -2056,64 +2285,85 @@ What's wrong? Starfy~<line>
 //POINTER #174 @ $216C64 - STRING #174 @ $2753F8
 
 #WRITE(GBA,$216C64)
-タツノコを おとさず<line>
-ひろって てんすうを<line>
-かせごう<end>
+//タツノコを おとさず<line>
+//ひろって てんすうを<line>
+//かせごう<end>
+Gather up points<line>
+by not leaving the<line>
+Child Seahorse behind<end>
 
 
 //POINTER #175 @ $216C68 - STRING #175 @ $275416
 
 #WRITE(GBA,$216C68)
-サングラスの 入った<line>
-カンを よくみて<line>
-こわそう<end>
+//サングラスの 入った<line>
+//カンを よくみて<line>
+//こわそう<end>
+Pay close attention<line>
+to the Can the Sunglasses enter<line>
+to break it<end>
 
 
 //POINTER #176 @ $216C6C - STRING #176 @ $275432
 
 #WRITE(GBA,$216C6C)
-じぶんの ゴールを<line>
-まもりながら あいての<line>
-ゴールを ねらおう<end>
+//じぶんの ゴールを<line>
+//まもりながら あいての<line>
+//ゴールを ねらおう<end>
+While defending<line>
+your Goal<line>
+aim for the opponent's Goal<end>
 
 
 //POINTER #177 @ $216C70 - STRING #177 @ $275455
 
 #WRITE(GBA,$216C70)
-海のゴミを あいてより<line>
-おおく あつめよう<end>
-
+//海のゴミを あいてより<line>
+//おおく あつめよう<end>
+Collect much more<line>
+Sea Trash than the opponent<end>
 
 //POINTER #178 @ $216C74 - STRING #178 @ $27546D
 
 #WRITE(GBA,$216C74)
-ばくふうに まきこまれ<line>
-ないように ばくだんを<line>
-あいてに わたそう<end>
-
+//ばくふうに まきこまれ<line>
+//ないように ばくだんを<line>
+//あいてに わたそう<end>
+Bounce back the Bomb<line>
+to the opponent<line>
+as it explodes<end>
 
 //POINTER #179 @ $216C78 - STRING #179 @ $275492
 
 #WRITE(GBA,$216C78)
-ボールを うまく<line>
-はじいて あなに<line>
-ほうりこもう<end>
+//ボールを うまく<line>
+//はじいて あなに<line>
+//ほうりこもう<end>
+Skillfully repel<line>
+the Ball to toss it<line>
+in the Hole<end>
 
 
 //POINTER #180 @ $216C7C - STRING #180 @ $2754AE
 
 #WRITE(GBA,$216C7C)
-フルーツを ねらって<line>
-おちてきたところを<line>
-うまく とろう<end>
+//フルーツを ねらって<line>
+//おちてきたところを<line>
+//うまく とろう<end>
+Aim for where<line>
+the Fruit has fallen<line>
+and skillfully take it<end>
 
 
 //POINTER #181 @ $216C80 - STRING #181 @ $2754CE
 
 #WRITE(GBA,$216C80)
-まだ クリアしていない<line>
-ミニゲームだよ<line>
-ぼうけんして さがそう<end>
+//まだ クリアしていない<line>
+//ミニゲームだよ<line>
+//ぼうけんして さがそう<end>
+There are still Mini Games<line>
+that have not been cleared<line>
+Find them on your adventure<end>
 
 
 //POINTER #182 @ $216C84 - STRING #182 @ $277A7C
@@ -2121,78 +2371,91 @@ What's wrong? Starfy~<line>
 #ACTIVETBL(engTable)
 #WRITE(GBA,$216C84)
 //     『ロブのどうくつ』<end>
-     Rob's Cave<end>
+     "Lob's Cave"<end>
 #ACTIVETBL(Table)
 
 
 //POINTER #183 @ $216C88 - STRING #183 @ $277A8C
 
 #WRITE(GBA,$216C88)
-      『サンゴショウ』<end>
+      //『サンゴショウ』<end>
+      "Coral Reef" <end>
 
 
 //POINTER #184 @ $216C8C - STRING #184 @ $277A9C
 
 #WRITE(GBA,$216C8C)
-     『ザショウクジラ』<end>
+     //『ザショウクジラ』<end>
+     "Bruised Whale"<end>
 
 
 //POINTER #185 @ $216C90 - STRING #185 @ $277AAC
 
 #WRITE(GBA,$216C90)
-       『氷の海』<end>
+       //『氷の海』<end>
+       "Sea of Ice"<end>
 
 
 //POINTER #186 @ $216C94 - STRING #186 @ $277ABA
 
 #WRITE(GBA,$216C94)
-       『ふかい海』<end>
+       //『ふかい海』<end>
+       "Deep Sea"<end>
 
 
 //POINTER #187 @ $216C98 - STRING #187 @ $277AC9
 
 #WRITE(GBA,$216C98)
-      『ちんぼつせん』<end>
+      //『ちんぼつせん』<end>
+      "Sunken Ship"<end>
 
 
 //POINTER #188 @ $216C9C - STRING #188 @ $277AD9
 
 #WRITE(GBA,$216C9C)
-     『かいていしんでん』<end>
+     //『かいていしんでん』<end>
+     "Revolving Temple"<end>
 
 
 //POINTER #189 @ $216CA0 - STRING #189 @ $277AEA
 
 #WRITE(GBA,$216CA0)
-       『そらの海』<end>
+       //『そらの海』<end>
+       "Sky of the Sea"<end>
 
 
 //POINTER #190 @ $216CA4 - STRING #190 @ $277AF9
 
 #WRITE(GBA,$216CA4)
-       『テンカイ』<end>
+       //『テンカイ』<end>
+       "Heaven"<end>
 
 
 //POINTER #191 @ $216CA8 - STRING #191 @ $277928
 
 #WRITE(GBA,$216CA8)
-これから はじまる ぼうけんのために<line>
-まずは うごきを れんしゅうしよう<end>
+//これから はじまる ぼうけんのために<line>
+//まずは うごきを れんしゅうしよう<end>
+For the new adventure to begin from here<line>
+try practicing moving first<end>
 
 
 //POINTER #192 @ $216CAC - STRING #192 @ $27794F
 
 #WRITE(GBA,$216CAC)
-ぼうけんを たすけてくれる<line>
-心づよい なかまが とうじょう!?<end>
+//ぼうけんを たすけてくれる<line>
+//心づよい なかまが とうじょう!?<end>
+An adventure to save<line>
+a safe friend's entrance!?<end>
 
 
 //POINTER #193 @ $216CB0 - STRING #193 @ $277971
 
 #WRITE(GBA,$216CB0)
-『テンカイ』に かえる ほうほうは?<line>
-なかまを みつけて はなしかけよう<end>
-
+//『テンカイ』に かえる ほうほうは?<line>
+//なかまを みつけて はなしかけよう<end>
+How to return to "Heaven?"<line>
+Try looking for and asking friends<end>
 
 //POINTER #194 @ $216CB4 - STRING #194 @ $277998
 
