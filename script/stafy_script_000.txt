@@ -1207,7 +1207,7 @@ I and Pass are captured<line>
 //「キョロスケは しんでんの中に<line>
  //入っていったわよ?」<end>
 <line>
- Continued in <red>"<red>R<red>e<red>v<red>o<red>l<red>v<red>i<red>n<red>g<red> <red>H<red>e<red>a<red>v<red>e<red>n<red>"<wait><clear><line>
+ Continued in <red>"<red>S<red>e<red>a<red> <red>B<red>e<red>d<red> <red>T<red>e<red>m<red>p<red>l<red>e<red>"<wait><clear><line>
 <startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
 Kroyosuke went to enter the Temple<line>
  right?<end>
@@ -1289,7 +1289,7 @@ Hurry! Starfy~!<line>
  //しんでんの 中を たんけんすると<line>
  //みつかるかな?」<end>
 <line>
- Continued in <red>"<red>S<red>e<red>a<red>f<red>l<red>o<red>o<red>r<red> <red>T<red>e<red>m<red>p<red>l<red>e<red>"<wait><clear><line>
+ Continued in <red>"<red>S<red>e<red>a<red> <red>B<red>e<red>d<red> <red>T<red>e<red>m<red>p<red>l<red>e<red>"<wait><clear><line>
 <startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
 Where is the <red>"<red>P<red>r<red>o<red>p<red>h<red>e<red>t<red> <red>W<red>r<red>i<red>t<red>i<red>n<red>g<red>"?<line>
  I wonder what you will find<line>
@@ -1385,7 +1385,7 @@ Look for various friends okay!<line>
 <startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
 Mr. Whale..<line>
  You will become okay you know..<wait><scrollup><scrollup><line>
-It's just Stafy you know~<line>
+It's just Starfy you know~<line>
  Defeat that Demon!<end>
 
 
@@ -1614,6 +1614,8 @@ What's wrong? Starfy~<line>
 <startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
 「はぐれた キョロスケが しんぱい<line>
  さがしてあげてね!」<end>
+<line>
+ Continued in <red>"<red>S<red>e<red>a<red> <red>B<red>e<red>d<red> <red>T<red>e<red>m<red>p<red>l<red>e<red>"<wait><clear><line>
 
 
 //POINTER #129 @ $216BB0 - STRING #129 @ $2765BA
@@ -1624,6 +1626,8 @@ What's wrong? Starfy~<line>
 <startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
 「まほうで つくりだされた<line>
  マモノがいるわ! まけないで!」<end>
+<line>
+ Continued in <red>"<red>S<red>e<red>a<red> <red>B<red>e<red>d<red> <red>T<red>e<red>m<red>p<red>l<red>e<red>"<wait><clear><line>
 
 
 //POINTER #130 @ $216BB4 - STRING #130 @ $27661E
@@ -1749,6 +1753,8 @@ What's wrong? Starfy~<line>
 「<red>『<red>よ<red>げ<red>ん<red>し<red>ょ<red>』は どこに?<line>
  しんでんの 中を たんけんすると<line>
  みつかるかな?」<end>
+<line>
+ Continued in <red>"<red>S<red>e<red>a<red> <red>B<red>e<red>d<red> <red>T<red>e<red>m<red>p<red>l<red>e<red>"<wait><clear><line>
 
 
 //POINTER #141 @ $216BE0 - STRING #141 @ $276AED
@@ -1760,6 +1766,8 @@ What's wrong? Starfy~<line>
 「<red>『<red>よ<red>げ<red>ん<red>し<red>ょ<red>』は どこに?<line>
  しんでんの 中を たんけんすると<line>
  みつかるかな?」<end>
+<line>
+ Continued in <red>"<red>S<red>e<red>a<red> <red>B<red>e<red>d<red> <red>T<red>e<red>m<red>p<red>l<red>e<red>"<wait><clear><line>
 
 
 //POINTER #142 @ $216BE4 - STRING #142 @ $276B6B
@@ -1935,7 +1943,7 @@ I wonder how long until<line>
  //みつかったのかしら?<line>
  //がんばって ぼうけんしてね!」<end>
 <line>
- Continued in <red>"<red>R<red>e<red>v<red>o<red>l<red>v<red>i<red>n<red>g<red> <red>T<red>e<red>m<red>p<red>l<red>e<red>"<wait><clear><line>
+ Continued in <red>"<red>S<red>e<red>a<red> <red>B<red>e<red>d<red> <red>T<red>e<red>m<red>p<red>l<red>e<red>"<wait><clear><line>
 <startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
 I wonder how long until<line>
  the Treasure is found?<line>
@@ -2006,7 +2014,7 @@ What's wrong? Starfy~<line>
    Continued in <red>"<red>S<red>k<red>y<red> <red>O<red>f<red> <red>T<red>h<red>e<red> <red>S<red>e<red>a<red><wait><clear><line>
 <startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
 Do your best Starfy~!<line>
- The accursed Ogura<line>
+ The accursed Oogura<line>
  is close by!<end>
 
 
@@ -2028,7 +2036,7 @@ Do your best Starfy~!<line>
 Starfy~!!<line>
  You finally<line>
  came here huh!<wait><scrollup><scrollup><scrollup><line>
-Ogura is a tough enemy you know!<line>
+Oogura is a tough enemy you know!<line>
  I hope you will hold on<line>
  until the end of the fight huh!<end>
 
@@ -2196,7 +2204,7 @@ I wonder how long until<line>
  //みつかったのかしら?<line>
  //がんばって ぼうけんしてね!」<end>
 <line>
- Continued in <red>"<red>R<red>e<red>v<red>o<red>l<red>v<red>i<red>n<red>g<red> <red>T<red>e<red>m<red>p<red>l<red>e<red>"<wait><clear><line>
+ Continued in <red>"<red>S<red>e<red>a<red> <red>B<red>e<red>d<red> <red>T<red>e<red>m<red>p<red>l<red>e<red>"<wait><clear><line>
 <startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
 I wonder how long until<line>
  the Treasure is found?<line>
@@ -2213,7 +2221,7 @@ I wonder how long until<line>
  //みつかったのかしら?<line>
  //がんばって ぼうけんしてね!」<end>
 <line>
- Continued in <red>"<red>R<red>e<red>v<red>o<red>l<red>v<red>i<red>n<red>g<red> <red>T<red>e<red>m<red>p<red>l<red>e<red>"<wait><clear><line>
+ Continued in <red>"<red>S<red>e<red>a<red> <red>B<red>e<red>d<red> <red>T<red>e<red>m<red>p<red>l<red>e<red>"<wait><clear><line>
 <startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
 I wonder how long until<line>
  the Treasure is found?<line>
@@ -2280,6 +2288,12 @@ I wonder how long until<line>
 「たからものは どれだけ<line>
  みつかったのかしら?<line>
  がんばって ぼうけんしてね!」<end>
+ <line>
+   Continued in <red>"<red>H<red>e<red>a<red>v<red>e<red>n<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+I wonder how long until<line>
+ the Treasure is found?<line>
+ Do your best on your Adventure huh!<end>
 
 
 //POINTER #174 @ $216C64 - STRING #174 @ $2753F8
@@ -2339,7 +2353,7 @@ as it explodes<end>
 //ボールを うまく<line>
 //はじいて あなに<line>
 //ほうりこもう<end>
-Skillfully repel<line>
+Successfully repel<line>
 the Ball to toss it<line>
 in the Hole<end>
 
@@ -2352,7 +2366,7 @@ in the Hole<end>
 //うまく とろう<end>
 Aim for where<line>
 the Fruit has fallen<line>
-and skillfully take it<end>
+and successfully take it<end>
 
 
 //POINTER #181 @ $216C80 - STRING #181 @ $2754CE
@@ -2414,7 +2428,7 @@ Find them on your adventure<end>
 
 #WRITE(GBA,$216C9C)
      //『かいていしんでん』<end>
-     "Revolving Temple"<end>
+     "Sea Bed Temple"<end>
 
 
 //POINTER #189 @ $216CA0 - STRING #189 @ $277AEA
@@ -2445,8 +2459,8 @@ try practicing moving first<end>
 #WRITE(GBA,$216CAC)
 //ぼうけんを たすけてくれる<line>
 //心づよい なかまが とうじょう!?<end>
-An adventure to save<line>
-a safe friend's entrance!?<end>
+A reassuring friend appears<line>
+for an adventure to rescue them!?<end>
 
 
 //POINTER #193 @ $216CB0 - STRING #193 @ $277971
@@ -2474,7 +2488,7 @@ try to find Creole!<end>
 //だっしゅつ しなくちゃ!<end>
 The Mysterious Demon<line>
 was sealed in the Deeeeep Sea!<line>
-You must completely escape!<end>
+You must escape!<end>
 
 
 //POINTER #196 @ $216CBC - STRING #196 @ $2779E0
@@ -2482,8 +2496,8 @@ You must completely escape!<end>
 #WRITE(GBA,$216CBC)
 //どうやら 中を とおるしかないね<line>
 //ゆうきを出して たんけんしよう<end>
-Somehow can't just pass within huh<line>
-Let out the Bravery and explore<end>
+No choice but to possibly go through within huh<line>
+I will show Bravery and explore<end>
 
 
 //POINTER #197 @ $216CC0 - STRING #197 @ $277A03
@@ -2513,6 +2527,6 @@ to the Sky finally!<end>
 //オーグラを たおして<line>
 //平和を とりもどそう!<end>
 At last the final battle!<line>
-Defeat Ogura<line>
-to restore peace!<end>
+It seems defeating Oogura<line>
+will restore peace!<end>
 
