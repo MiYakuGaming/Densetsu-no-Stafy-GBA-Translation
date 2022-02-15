@@ -1177,8 +1177,8 @@ I "want" you to go and<line>
 <line>
    Continued in <red>"<red>D<red>e<red>e<red>p<red> <red>S<red>e<red>a<red>"<wait><clear><line>
 <startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
-In this area I only expect<line>
- the Great Large Barrel Squid to be in their room..?<end>
+"In this area I only expect<line>
+ the Great Large Barrel Squid to be in their room..?"<end>
 
 
 //POINTER #100 @ $216B3C - STRING #100 @ $2758D6
@@ -1193,9 +1193,9 @@ In this area I only expect<line>
 <line>
   Continued in <red>"<red>S<red>u<red>n<red>k<red>e<red>n<red> <red>S<red>h<red>i<red>p<red>"<wait><clear><line>
 <startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
-I and Pass are captured<line>
+"Boctopus captured<line>
  The Dolphins..<line>
- quickly go and save them okay<end>
+ quickly go and save them okay"<end>
 
 
 //POINTER #101 @ $216B40 - STRING #101 @ $27593E
@@ -1460,24 +1460,34 @@ What's wrong? Starfy~<line>
 //POINTER #116 @ $216B7C - STRING #116 @ $275FA8
 
 #WRITE(GBA,$216B7C)
+//<line>
+  //<red>『<red>ち<red>ん<red>ぼ<red>つ<red>せ<red>ん<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「ボクトパスに とらえられた<line>
+// イルカたち・・<line>
+// 早く たすけだしてあげてね」<end>
 <line>
-  <red>『<red>ち<red>ん<red>ぼ<red>つ<red>せ<red>ん<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「ボクトパスに とらえられた<line>
- イルカたち・・<line>
- 早く たすけだしてあげてね」<end>
-
+  Continued in <red>"<red>S<red>u<red>n<red>k<red>e<red>n<red> <red>S<red>h<red>i<red>p<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+"Boctopus captured<line>
+ The Dolphins..<line>
+ quickly go and save them okay"<end>
 
 //POINTER #117 @ $216B80 - STRING #117 @ $276010
 
 #WRITE(GBA,$216B80)
+//<line>
+//  <red>『<red>ち<red>ん<red>ぼ<red>つ<red>せ<red>ん<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「ボクトパスに とらえられた<line>
+// イルカたち・・<line>
+// 早く たすけだしてあげてね」<end>
 <line>
-  <red>『<red>ち<red>ん<red>ぼ<red>つ<red>せ<red>ん<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「ボクトパスに とらえられた<line>
- イルカたち・・<line>
- 早く たすけだしてあげてね」<end>
-
+  Continued in <red>"<red>S<red>u<red>n<red>k<red>e<red>n<red> <red>S<red>h<red>i<red>p<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+"Boctopus captured<line>
+ The Dolphins..<line>
+ quickly go and save them okay"<end>
 
 //POINTER #118 @ $216B84 - STRING #118 @ $276078
 
@@ -1493,34 +1503,52 @@ What's wrong? Starfy~<line>
 //POINTER #119 @ $216B88 - STRING #119 @ $2760D6
 
 #WRITE(GBA,$216B88)
-<line>
-   <red>『<red>そ<red>ら<red>の<red>海<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「がんばって スタフィー!<line>
- にっくき オーグラは<line>
- すぐそこよ!」<end>
+//<line>
+//   <red>『<red>そ<red>ら<red>の<red>海<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「がんばって スタフィー!<line>
+// にっくき オーグラは<line>
+// すぐそこよ!」<end>
+ <line>
+   Continued in <red>"<red>S<red>k<red>y<red> <red>O<red>f<red> <red>T<red>h<red>e <red>S<red>e<red>a<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+"Do your best Starfy~!<line>
+ The accursed Ogura<line>
+ is close by!"<end>
 
 
 //POINTER #120 @ $216B8C - STRING #120 @ $276134
 
 #WRITE(GBA,$216B8C)
-<line>
-   <red>『<red>ふ<red>か<red>い<red>海<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「ウォーツァルトさんは<line>
- <red>『<red>海<red>の<red>ね<red>い<red>ろ<red>』を<line>
- まだ さがしていますよ・・・」<end>
+//<line>
+//   <red>『<red>ふ<red>か<red>い<red>海<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「ウォーツァルトさんは<line>
+// <red>『<red>海<red>の<red>ね<red>い<red>ろ<red>』を<line>
+// まだ さがしていますよ・・・」<end>
+ <line>
+   Continued in <red>"<red>D<red>e<red>e<red>p<red> <red>S<red>e<red>a<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+"Mr. Waltz is still<line>
+ looking for the"<end>
+ <red>"<red>S<red>e<red>a<red> <red>T<red>i<red>m<red>b<red>r<red>e<red>"...<wait><clear><line>
 
 
 //POINTER #121 @ $216B90 - STRING #121 @ $2761A4
 
 #WRITE(GBA,$216B90)
+//<line>
+//   <red>『<red>ふ<red>か<red>い<red>海<red>』の つづき<wait><clear><line>
+//<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
+//「どんどん すすみましょ!<line>
+// でも どうすれば<line>
+// トビラは ひらくのかしら?」<end>
 <line>
-   <red>『<red>ふ<red>か<red>い<red>海<red>』の つづき<wait><clear><line>
-<startname>◆<red>マ<red>ー<red>メ<red>イ<red>ド<endname><line>
-「どんどん すすみましょ!<line>
- でも どうすれば<line>
- トビラは ひらくのかしら?」<end>
+   Continued in <red>"<red>D<red>e<red>e<red>p<red> <red>S<red>e<red>a<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+"Quickly proceeding ahead!<line>
+But I wonder<line>
+how to open the Door?"<end>
 
 
 //POINTER #122 @ $216B94 - STRING #122 @ $276207
@@ -1534,6 +1562,14 @@ What's wrong? Starfy~<line>
 「でも 海のそこから<line>
  だっしゅつするためには<line>
  やっつけないと!」<end>
+ <line>
+   Continued in <red>"<red>D<red>e<red>e<red>p<red> <red>S<red>e<red>a<red>"<wait><clear><line>
+<startname>"<red>M<red>e<red>r<red>m<red>a<red>i<red>d<endname><line>
+ "The Hot Spring<line>
+ is waiting on you!"<wait><scrollup><scrollup><line>
+ "Due to the Sea from there<line>
+ in order to escape<line>
+ must not be beaten!"<end>
 
 
 //POINTER #123 @ $216B98 - STRING #123 @ $276288
