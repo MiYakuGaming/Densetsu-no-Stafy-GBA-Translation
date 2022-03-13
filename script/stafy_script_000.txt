@@ -34,7 +34,7 @@ Old Lob's place<wait><end>
 #WRITE(GBA,$2169B0)
 //ヤドカリタに あいに行こう<line>
 //どこに いるのかな?<wait><end>
-Going to meet Yadokarita<line>
+Let's meet Yadokarita<line>
 I wonder where he is?<wait><end>
 
 
@@ -52,8 +52,8 @@ to deliver it to him<wait><end>
 #WRITE(GBA,$2169B8)
 //さあ がんばって<line>
 //ぼうけんを はじめてみよう!<wait><end>
-Well do your best<line>
-on your first adventure!<wait><end>
+Well, do your best<line>
+Try your first adventure!<wait><end>
 
 
 //POINTER #4 @ $2169BC - STRING #4 @ $27482E
@@ -61,8 +61,8 @@ on your first adventure!<wait><end>
 #WRITE(GBA,$2169BC)
 //わるいヤツを おいかけて<line>
 //ヤドカリタの なかまを さがそう<wait><end>
-Chase after the baddie<line>
-look for Yadokarita's friend<wait><end>
+Chase after the enemy<line>
+Look for Yadokarita's friend<wait><end>
 
 
 //POINTER #5 @ $2169C0 - STRING #5 @ $274850
@@ -71,10 +71,10 @@ look for Yadokarita's friend<wait><end>
 //なかまになった キョロスケと<line>
 //いっしょに<line>
 //ハデヒラリを さがしだそう<wait><end>
-With the new friend Kyorosuke<line>
-together<line>
-it seems Hadehirari has been found<wait><end>
-
+Together with your friend<line>
+Yadokarita<line>
+<wait><end>
+Locate Hadehirari
 
 //POINTER #6 @ $2169C4 - STRING #6 @ $274878
 
@@ -82,8 +82,8 @@ it seems Hadehirari has been found<wait><end>
 //ザショウクジラに<line>
 //テンカイへかえる ほうほうを<line>
 //きいてみよう<wait><end>
-At the Bruised Whale<line>
-try listening how<line>
+At the Bruised Whale,<line>
+try listening to how<line>
 to return to Heaven<wait><end>
 
 
@@ -93,9 +93,9 @@ to return to Heaven<wait><end>
 //ザショウクジラに<line>
 //のみこまれちゃった<line>
 //とにかく たんけんしてみよう<wait><end>
-At the Bruised Whale<line>
-for the time being try exploring<line>
-having been swallowed<wait><end>
+Completely swallowed<line>
+in the Bruised Whale<line>
+Try exploring for now<wait><end>
 
 
 //POINTER #8 @ $2169CC - STRING #8 @ $2748C3
@@ -104,9 +104,9 @@ having been swallowed<wait><end>
 //いろんな ひとを たずねたら<line>
 //ヤコウカガミを たすけるほうほうが<line>
 //みつかるよ<wait><end>
-If you were to look for various people<line>
-it will be found<line>
-the way to save Noctilucence Mirror<wait><end>
+If you visit various people,<line>
+You will disover a way to rescue<line>
+the Noctilucence Mirror<wait><end>
 
 
 //POINTER #9 @ $2169D0 - STRING #9 @ $2748EF
@@ -115,9 +115,9 @@ the way to save Noctilucence Mirror<wait><end>
 //あばれているマモノを とっちめて<line>
 //ザショウクジラの おなかを<line>
 //なおしてあげよう<wait><end>
-The violent demons are taking it out<line>
+The demons are violently taking it out<line>
 on the Bruised Whale's Stomach<line>
-Go and cure it<wait><end>
+Go and help<wait><end>
 
 
 //POINTER #10 @ $2169D4 - STRING #10 @ $27491C
@@ -126,9 +126,9 @@ Go and cure it<wait><end>
 //クリオレっていう なかまが<line>
 //この海に いるはず<line>
 //さがしてみよう<wait><end>
-I expect Friend "Creole"<line>
-to be in this Sea<line>
-go look around<wait><end>
+In this Sea, I expect you<line>
+to find a friend<line>
+called "Creole"<wait><end>
 
 
 //POINTER #11 @ $2169D8 - STRING #11 @ $274941
@@ -136,7 +136,7 @@ go look around<wait><end>
 #WRITE(GBA,$2169D8)
 //氷づけにされた クリオレを<line>
 //さがしだして たすけてあげよう<wait><end>
-Look for and go save<line>
+Locate and go rescue<line>
 the Frozen Creole<wait><end>
 
 
@@ -154,7 +154,7 @@ of Creole's Hot Spring<wait><end>
 #WRITE(GBA,$2169E0)
 //クリオレを 氷づけにした<line>
 //マモノを やっつけよう<wait><end>
-Beat up the Demons<line>
+Finish off the Demons<line>
 that turned Creole to Ice<wait><end>
 
 
@@ -164,8 +164,8 @@ that turned Creole to Ice<wait><end>
 //気がつくと ふかーい<line>
 //うみのそこ<line>
 //だっしゅつほうほうは あるかな?<wait><end>
-Before I knew it deeeep<line>
-there of the Sea<line>
+Before I knew it deeep<line>
+there in the Sea,<line>
 I wonder if there's a way to escape?<wait><end>
 
 
@@ -175,9 +175,9 @@ I wonder if there's a way to escape?<wait><end>
 //ここから ぬけだすには<line>
 //オオタルイカの たのみを<line>
 //きいたほうが よさそう<wait><end>
-It's good how I heard<line>
-the Large Ballel Octopus's request<line>
-in order to break free from here<wait><end>
+In order to break free from here,<line>
+it looks like it's best<line>
+to heed the advice of the Large Barrel Squid<wait><end>
 
 
 //POINTER #16 @ $2169EC - STRING #16 @ $2749ED
@@ -186,9 +186,9 @@ in order to break free from here<wait><end>
 //タルイカが まもっていた トビラを<line>
 //とおれるようになったよ<line>
 //たんけんしてみよう<wait><end>
-The door the Barrel Squid had protected<line>
-it appears I am able to pass through it<line>
-I will try exploring<wait><end>
+The Door the Barrel Squid protected,<line>
+it looks like I can pass through<line>
+Try exploring<wait><end>
 
 
 //POINTER #17 @ $2169F0 - STRING #17 @ $274A1A
@@ -199,7 +199,7 @@ I will try exploring<wait><end>
 //とどけてあげよう<wait><end>
 Locate the <red>"<red>S<red>e<red>a<red>'<red>s<red> <red>T<red>i<red>m<red>b<red>r<red>e<red>"<line>
 and deliver it to<line>
-Waltz<wait><end>
+Wozart<wait><end>
 
 
 //POINTER #18 @ $2169F4 - STRING #18 @ $274A4F
@@ -208,8 +208,8 @@ Waltz<wait><end>
 //ウォーツァルトの えんそうで<line>
 //じゃまものが いなくなった!<line>
 //出口は この先?<wait><end>
-By Waltz's Musical Performance<line>
-the obstacle disappeared!<line>
+By Wozart's Musical Performance,<line>
+the obstacles disappeared!<line>
 The exit is just ahead?<wait><end>
 
 
@@ -219,9 +219,9 @@ The exit is just ahead?<wait><end>
 //ブランコは なんだかチョット<line>
 //あやしいぞ!<line>
 //だまされないように!<wait><end>
-Blanko is somehow a little<line>
+Blanco is somehow a little<line>
 suspicious!<line>
-Do not be deceived!<wait><end>
+Hopefully you are not deceived!<wait><end>
 
 
 //POINTER #20 @ $2169FC - STRING #20 @ $274AA1
@@ -230,9 +230,9 @@ Do not be deceived!<wait><end>
 //うそつき ブランコは<line>
 //ボスの 子分?<line>
 //さあ たいけつに むかうんだ!<wait><end>
-The lying Blanko is<line>
-the boss's follower?<line>
-Well go to the showdown!<wait><end>
+The lying Blanco is<line>
+the boss's henchman?<line>
+Well, face the showdown!<wait><end>
 
 
 //POINTER #21 @ $216A00 - STRING #21 @ $274AC9
