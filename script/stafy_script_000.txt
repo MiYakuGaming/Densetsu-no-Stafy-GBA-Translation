@@ -73,8 +73,7 @@ Look for Yadokarita's friend<wait><end>
 //ハデヒラリを さがしだそう<wait><end>
 Together with your friend<line>
 Yadokarita<line>
-<wait><end>
-Locate Hadehirari
+Locate Hadehirari<wait><end>
 
 //POINTER #6 @ $2169C4 - STRING #6 @ $274878
 
