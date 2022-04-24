@@ -34,7 +34,7 @@ Old Lob's place<wait><end>
 #WRITE(GBA,$2169B0)
 //ヤドカリタに あいに行こう<line>
 //どこに いるのかな?<wait><end>
-Let's meet Yadokarita<line>
+Go meet with Yadokarita<line>
 I wonder where he is?<wait><end>
 
 
@@ -93,7 +93,7 @@ to return to Heaven<wait><end>
 //のみこまれちゃった<line>
 //とにかく たんけんしてみよう<wait><end>
 Completely swallowed<line>
-in the Bruised Whale<line>
+by the Bruised Whale<line>
 Try exploring for now<wait><end>
 
 
@@ -144,8 +144,8 @@ the Frozen Creole<wait><end>
 #WRITE(GBA,$2169DC)
 //おんせんで クリオレの<line>
 //氷を とかしてあげよう<wait><end>
-Melt the Ice<line>
-of Creole's Hot Spring<wait><end>
+Melt the Ice off of Creole<line>
+with the Hot Spring<wait><end>
 
 
 //POINTER #13 @ $2169E0 - STRING #13 @ $27497F
@@ -153,8 +153,8 @@ of Creole's Hot Spring<wait><end>
 #WRITE(GBA,$2169E0)
 //クリオレを 氷づけにした<line>
 //マモノを やっつけよう<wait><end>
-Finish off the Demons<line>
-that turned Creole to Ice<wait><end>
+Finish off the Demon<line>
+that froze Creole to Ice<wait><end>
 
 
 //POINTER #14 @ $2169E4 - STRING #14 @ $27499C
@@ -164,7 +164,7 @@ that turned Creole to Ice<wait><end>
 //うみのそこ<line>
 //だっしゅつほうほうは あるかな?<wait><end>
 Before I knew it deeep<line>
-there in the Sea,<line>
+there of the Sea,<line>
 I wonder if there's a way to escape?<wait><end>
 
 
@@ -230,7 +230,7 @@ Hopefully you are not deceived!<wait><end>
 //ボスの 子分?<line>
 //さあ たいけつに むかうんだ!<wait><end>
 The lying Blanco is<line>
-the boss's henchman?<line>
+the boss's follower?<line>
 Well, face the showdown!<wait><end>
 
 
@@ -241,8 +241,8 @@ Well, face the showdown!<wait><end>
 //どうやら 中を とおらなくちゃ<line>
 //いけないみたい<wait><end>
 A large Sunken Ship before your Eyes<line>
-unless you can pass somehow inside<line>
-looks like you cannot proceed<wait><end>
+It doesn't look possible to pass through<line>
+on the inside<wait><end>
 
 
 //POINTER #22 @ $216A04 - STRING #22 @ $274AF7
@@ -263,7 +263,7 @@ looking for the 4 Keys!<wait><end>
 //おいつかれないように<line>
 //いそいで にげよう!<wait><end>
 The demons noticed!<line>
-It doesn't appear you can chase them<line>
+It doesn't appear you can reach them<line>
 quickly escape!<wait><end>
 
 
@@ -284,7 +284,7 @@ Ugh it can't he helped huh<wait><end>
 //だいじな えものを にがされて<line>
 //ボスは おこっているよ<line>
 //おちついて やっつけよう<wait><end>
-An important prey sest free<line>
+An important prey set free<line>
 the boss is certainly angry<line>
 beat him calm<wait><end>
 
@@ -295,9 +295,9 @@ beat him calm<wait><end>
 //かいていしんでんに とうちゃく<line>
 //テンカイへの てがかりは<line>
 //あるのかな?<wait><end>
-Arrival at Revolving Temple<line>
+Arrival at Sea Bed Temple<line>
 Perhaps there is a clue<line>
-of Heaven?<wait><end>
+to get to Heaven?<wait><end>
 
 
 //POINTER #27 @ $216A18 - STRING #27 @ $274BC3
@@ -306,7 +306,7 @@ of Heaven?<wait><end>
 //かいていしんでんの どこかにある<line>
 //<red>『<red>よ<red>げ<red>ん<red>し<red>ょ<red>』を さがしだし、<line>
 //平和な海を とりもどそう<wait><end>
-Somewhere in the Revolving Temple<line>
+Somewhere in the Sea Bed Temple<line>
 look for the <red>"<red>P<red>r<red>o<red>p<red>h<red>e<red>t<red>i<red>c<red> <red>W<red>r<red>i<red>t<red>i<red>n<red>g<red>",<line>
 it seems it will restore peace to the Sea<wait><end>
 
@@ -348,8 +348,8 @@ It's that suspicious Demon again!<wait><end>
 #WRITE(GBA,$216A28)
 //テンカイに にげた オーグラを<line>
 //おいかけよう<wait><end>
-The Demon escaped to Heaven<line>
-chase after it<wait><end>
+Chase after the Demon<line>
+that escaped to Heaven<wait><end>
 
 
 //POINTER #32 @ $216A2C - STRING #32 @ $274CB5
@@ -359,7 +359,7 @@ chase after it<wait><end>
 //やっつけて テンカイへ<line>
 //いそごう<wait><end>
 The 3 defeated Subordinates<line>
-of Ogura hurried toward<line>
+of Ogura hurry to<line>
 Heaven<wait><end>
 
 
@@ -371,7 +371,7 @@ Heaven<wait><end>
 //いるのだろう?<wait><end>
 Somehow entered Heaven<line>
 Just where<line>
-is Ogura lurking?<wait><end>
+is Oogura lurking?<wait><end>
 
 
 //POINTER #34 @ $216A34 - STRING #34 @ $274D05
@@ -380,7 +380,7 @@ is Ogura lurking?<wait><end>
 //3かしょにいる にげおくれた<line>
 //テンカイのなかまを<line>
 //みんな たすけてあげよう<wait><end>
-Here three passages escaped<line>
+Three books of poems failed to escape<line>
 Go save all of<line>
 Heaven's friends<wait><end>
 
@@ -390,7 +390,7 @@ Heaven's friends<wait><end>
 #WRITE(GBA,$216A38)
 //ついに オーグラと たいけつ!?<line>
 //平和を とりもどすんだ!<wait><end>
-Final showdown with Ogura!?<line>
+Final showdown with Oogura!?<line>
 Restore peace!<wait><end>
 
 
@@ -412,7 +412,7 @@ save all collected things<wait><end>
 //おおきな うみの そらたかく<line>
 //くものうえに 『テンカイ』という<line>
 //へいわな おうこくが ありました<wait><end>
-High in the Sky of the large Seas<line>
+High in the Sky of the large Sea<line>
 was a peaceful Kingdom above the Clouds<line>
 known as "Heaven".<wait><end>
 
@@ -422,7 +422,7 @@ known as "Heaven".<wait><end>
 #WRITE(GBA,$216A44)
 //  そこにすむ スタフィーは<line>
 //  テンカイの 王子サマ<wait><end>
-  Living there is Stafy who is<line>
+  Living there is Starfy who is<line>
   the Great Prince of Heaven.<wait><end>
   
 
@@ -440,8 +440,8 @@ his clumsiness is also met with mistakes.<wait><end>
 #WRITE(GBA,$216A4C)
 //ある日 だいじな たからものを<line>
 //はこんでいましたが・・・・・・<wait><end>
-Though there exists a day<line>
-important treasure was being moved.....<wait><end>
+Though one day important treasure<line>
+was being moved.....<wait><end>
 
 
 //POINTER #41 @ $216A50 - STRING #41 @ $2746CE
@@ -450,14 +450,14 @@ important treasure was being moved.....<wait><end>
 //うっかり たからものを<line>
 //おとしてしまいました<wait><end>
 Carelessly the important treasure<line>
-had been entirely dropped<wait><end>
+accidentally dropped completely<wait><end>
 
 
 //POINTER #42 @ $216A54 - STRING #42 @ $2746E9
 
 #WRITE(GBA,$216A54)
 //  す る と !<wait><end>
-  T h e r e u p o n !<wait><end>
+  T h e r e  u p o n !<wait><end>
 
 
 //POINTER #43 @ $216A58 - STRING #43 @ $2746F6
@@ -473,7 +473,7 @@ had been entirely dropped<wait><end>
 //「おお どうやら ぶじのようじゃ!<line>
 // テンカイの ものじゃな?<line>
 // おちて来たのかの?」<wait><end>
-  Ooh well apparently you appear to be safe!<line>
+  Ooh well somehow you appear to be safe!<line>
   Well of Heaven are ya?<line>
   Ya came from falling down eh?<wait><end>
 
@@ -484,7 +484,7 @@ had been entirely dropped<wait><end>
 //「なんと!!テンカイの王子<line>
 // スタフィーとな!?」<wait><end>
   What!! Prince of Heaven<line>
-  And Stafy huh?!<wait><end> 
+  Starfy ya say?!<wait><end> 
 
 
 //POINTER #46 @ $216A64 - STRING #46 @ $27475C
@@ -492,7 +492,7 @@ had been entirely dropped<wait><end>
 #WRITE(GBA,$216A64)
 //「ここは ちいさな しまにある<line>
 // ワシの いえじゃ」<wait><end>
-  Here exists a small Island<line>
+  This is a small Island here<line>
   Well it's my home.<wait><end>
 
 
@@ -503,7 +503,7 @@ had been entirely dropped<wait><end>
 // 外はまだ ひどい あらしじゃから<line>
 // しばらくは やすんでいくがよいぞ」<wait><end>
   My name is known as Lob<line>
-  Because there is still a cruel storm outside<line>
+  Because there is still an intense storm outside<line>
   it's best you rest here for a while<wait><end>
 #ACTIVETBL(Table)
 
@@ -514,10 +514,10 @@ had been entirely dropped<wait><end>
 //すいこまれて おとなしくなりました<line>
 //ようやく すべての海と テンカイに<line>
 平和が もどったようです・・・・・<end>
-Ogura was absorbed<line>
+Oogura was absorbed<line>
 in a "Mysterious Jar" obediently<line>
-At last it appears peace restored<line>
-to the entire Ocean and Heaven.....<end>
+At last it appears peace fully restored<line>
+to the Ocean and Heaven.....<end>
 
 
 //POINTER #49 @ $216A70 - STRING #49 @ $274DE6
@@ -551,13 +551,13 @@ to the entire Ocean and Heaven.....<end>
 //「ほう そうか!<line>
  //スタフィー もってきなさい!」<end>
 <startname>King<line>
-The secret "Mysterious Jar" is understood<line>
+The secret of the "Mysterious Jar" is known<line>
  Well done!<line>
    <clear><line>
 Although you dropping that Jar<line>
  was bad!<line>
    <clear><line>
-Though Ogura's love of pranks<line>
+Though Oogura's love of pranks<line>
  has been sealed!<line>
    <clear><line>
 Well then Kyorosuke! I am glad<line>
@@ -587,7 +587,7 @@ Hou I see!<line>
  //海に おとした<startname>王さま<line>
 <startname>King<line>
 What! All the Treasure<line>
- fell in the Ocean<startname>King<line>
+ fell in the Ocean <startname>King<line>
 
 
 //POINTER #51 @ $216A78 - STRING #51 @ $274F68
@@ -618,7 +618,7 @@ The discussion of the reward<line>
 //<startname>キョロスケ<line>
 //「エーッ!! ちっくしょー・・・・」<end>
 <startname>Kyorosuke<line>
-Eeeh!! Shiiiiit....<end>
+Eeeh!! Damn iiiit....<end>
 
 
 //POINTER #54 @ $216A84 - STRING #54 @ $274FDD
@@ -647,7 +647,7 @@ Get out...from here...<line>
 //また オーグラを こらしめて<line>
 //『ふしぎなツボ』に<line>
 //ふうじこめることが できました<end>
-Ogura was able to be punished<line>
+Oogura was able to be punished<line>
 once again by being sealed in<line>
 the "Mysterious Jar"<end>
 
@@ -668,7 +668,7 @@ the "Mysterious Jar"<end>
  //ところでスタフィー!」<end>
 <startname>King<line>
 I want to say you did well but....<line>
- how is it that Ogura escaped?<line>
+ how is it that Oogura escaped?<line>
    <clear><line>
 <startname>Kyorosuke<line>
 I dunnooo but that stupid thing<line>
@@ -707,9 +707,9 @@ What? Hey Starfy~!<line>
 //「・・・バカヤロー! オレさまが<line>
  //もらうことになってんだ!<line>
  //はやくさがせっ! オラオラッ!」<end>
-...Goddamn morooon! MINE<line>
- was taken!<line>
- Hurry and find iii! Hey heey!<end>
+...Goddamn idiooot! MINE<line>
+ was arraged to be received!<line>
+ Hurry and find iiit! Hey heey!<end>
 
 
 //POINTER #61 @ $216AA0 - STRING #61 @ $275178
@@ -729,7 +729,7 @@ Sh Shit......<line>
 //また オーグラを こらしめて<line>
 //『ふしぎなツボ』に<line>
 //ふうじこめることが できました<end>
-Again Ogura was able to be punished<line>
+Again Oogura was able to be punished<line>
 and sealed in<line>
  the "Mysterious Jar"<end>
 
@@ -756,7 +756,7 @@ At last all of the Treasure Chest<line>
 //「・・そういや ツボに ぶつかったな<line>
  //ま まあ・・・おわったコトだ!」<end>
 However Kyorosuke!<line>
- At great trouble the sealed Ogura<line>
+ At great trouble the sealed Oogura<line>
  was set free due to you!!<line>
     <clear><line>
 <startname>Kyorosuke<line>
@@ -836,8 +836,8 @@ Figures it is not satisfactory<line>
 #WRITE(GBA,$216ABC)
 //『モウイチド ダレカ コノツボヲ<line>
  //ツキトバシテクレナイカナ?』<end>
-One more time someone this Jar<line>
- I wonder if I should throw it?<end>
+I wonder if someone didn't<line>
+ throw this Jar once again?<end>
 
 
 //POINTER #69 @ $216AC0 - STRING #69 @ $2753E3
@@ -979,7 +979,7 @@ Boss Battle!<end>
 //ゲームオーバー1<line>
 //ゲームオーバー2<line>
 //ポーズ<end>
-Defeat Ogura<line>
+Defeat Oogura<line>
 Mini Game<line>
 Game Over 1<line>
 Game Over 2<line>
@@ -1651,7 +1651,8 @@ how to open the Door?"<end>
  さがしてあげてね!」<end>
 <line>
  Continued in <red>"<red>S<red>e<red>a<red> <red>B<red>e<red>d<red> <red>T<red>e<red>m<red>p<red>l<red>e<red>"<wait><clear><line>
-
+Lost sight of Kyorosuke<line>
+go look for him!<end>
 
 //POINTER #129 @ $216BB0 - STRING #129 @ $2765BA
 
@@ -1663,7 +1664,8 @@ how to open the Door?"<end>
  マモノがいるわ! まけないで!」<end>
 <line>
  Continued in <red>"<red>S<red>e<red>a<red> <red>B<red>e<red>d<red> <red>T<red>e<red>m<red>p<red>l<red>e<red>"<wait><clear><line>
-
+Manufactured by Magic<line>
+there is a Demon! Don't lose!<end>
 
 //POINTER #130 @ $216BB4 - STRING #130 @ $27661E
 
@@ -1674,7 +1676,9 @@ how to open the Door?"<end>
 「がんばって スタフィー!<line>
  にっくき オーグラは<line>
  すぐそこよ!」<end>
-
+Do your best Starfy!<line>
+The damned Oogura is<line>
+certainly just ahead!<end>
 
 //POINTER #131 @ $216BB8 - STRING #131 @ $27667C
 
@@ -1685,7 +1689,9 @@ how to open the Door?"<end>
 「いそいで! スタフィー!<line>
  マモノは すぐそこまで<line>
  来ているわ!!」<end>
-
+Hurry! Starfy!<line>
+The Demon is coming<line>
+until it reaches you!!<end>
 
 //POINTER #132 @ $216BBC - STRING #132 @ $2766E1
 
@@ -1699,7 +1705,12 @@ how to open the Door?"<end>
 「オーグラは きょうてきよ!<line>
  気をひきしめて さいごの<line>
  たたかいに のぞんでね!」<end>
-
+Starfy!!<line>
+You made it here<line>
+at last!<wait><scrollup><scrollup><scrollup><line>
+Oogure sure is a tough enemy!<line>
+You expect this to be the last<line>
+fight of them all huh!<end>
 
 //POINTER #133 @ $216BC0 - STRING #133 @ $276771
 
@@ -2485,7 +2496,7 @@ Find them on your adventure<end>
 #WRITE(GBA,$216CA8)
 //これから はじまる ぼうけんのために<line>
 //まずは うごきを れんしゅうしよう<end>
-For the new adventure to begin from here<line>
+To begin the adventure from here<line>
 try practicing moving first<end>
 
 
@@ -2494,8 +2505,8 @@ try practicing moving first<end>
 #WRITE(GBA,$216CAC)
 //ぼうけんを たすけてくれる<line>
 //心づよい なかまが とうじょう!?<end>
-A reassuring friend appears<line>
-for an adventure to rescue them!?<end>
+An adventure to rescue<line>
+the introduction of a reassuring friend!?<end>
 
 
 //POINTER #193 @ $216CB0 - STRING #193 @ $277971
@@ -2531,7 +2542,7 @@ You must escape!<end>
 #WRITE(GBA,$216CBC)
 //どうやら 中を とおるしかないね<line>
 //ゆうきを出して たんけんしよう<end>
-No choice but to possibly go through within huh<line>
+No choice but to perhaps go through within<line>
 I will show Bravery and explore<end>
 
 
