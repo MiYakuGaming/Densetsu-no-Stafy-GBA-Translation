@@ -54,32 +54,35 @@
 //「ワシはさきにいって おまえさんの<line>
 // ようすを みておるぞ・・・」<end>
 <startname><red>O<red>l<red>d <red>L<red>o<red>b<endname><line>
-That was truly a harsh Storm<wait><scrollup><line>
-Well I am also living long<line>
-as such a big storm begins.<wait><scrollup><scrollup><line>
-So 'ya' fell from the <red>"<red>H<red>e<red>a<red>v<red>e<red>n<red>s<red>" due to the<line>
-Big Storm ya'say...<wait><scrollup><scrollup><line>
-Well <red>"<red>H<red>e<red>a<red>v<red>e<red>n<red>" has also become<line>
-problematic you know.<wait><scrollup><scrollup><line>
-Well ya can go back quickly!!<line>
-And when at a place you want to talk..<wait><scrollup><scrollup><line>
+Well, that was indeed a harsh Storm<wait><scrollup><line>
+I've also lived a long time<line>
+So that's the first big Storm.<wait><scrollup><scrollup><line>
+So 'you' fell from the <red>"<red>H<red>e<red>a<red>v<red>e<red>n<red>s<red>" then down here due to the<line>
+Big Storm...<wait><scrollup><scrollup><line>
+Well because there was a big Storm, <red>"<red>H<red>e<red>a<red>v<red>e<red>n<red>" has also become<line>
+well, a problematic thing.<wait><scrollup><scrollup><line>
+Well hurry up and return!!<line>
+And so at a place you want to talk..<wait><scrollup><scrollup><line>
 Well unfortunately the Sea has become<line>
 full of Hooligans!<wait><scrollup><scrollup><line>
-You are weak<line>
-to return to <red>"<red>H<red>e<red>a<red>v<red>e<red>n<red>" I see<line>
+'You' are weak<line>
+so can you return to <red>"<red>H<red>e<red>a<red>v<red>e<red>n<red>"?<line>
 What's the best thing to do...<wait><scrollup><scrollup><scrollup><line>
-Well that's right! My friend<line>
-Just meet with the Hermit Crab <red>"<red>Ya<red>do<red>ka<red>ri<red>ta<red>"!<line>
-Must be a very smart one<wait><scrollup><scrollup><scrollup><line>
-It appears you can freely move first<wait><scrollup><scrollup><line>
+Ah yes! My friend<line>
+So meet with Hermit Crab <red>"<red>Ya<red>do<red>ka<red>ri<red>ta<red>"!<line>
+Might have some good wisdom<wait><scrollup><scrollup><scrollup><line>
+First, it seems as when you move<wait><scrollup><scrollup><line>
+that body around freely<line>
+maybe visit Yadokarita<wait><clear><line>
     <button-dpad>Button...Swim underwater<line>
     Press the <button-dpad> Button<line>
-    To try to move around freely.<wait><clear><line>
-There are Signs placed around<line>
+    Try to move around freely<wait><clear><line>
+<startname>"<red>O<red>l<red>d<red> <red>M<red>a<red>n<red> <red>L<red>o<red>b<red><endname><line>
+There are Signs placed up around here<line>
 While learning various things<line>
-It's best you proceed<wait><scrollup><scrollup><scrollup><line>
+It's best to proceed<wait><scrollup><scrollup><scrollup><line>
 I will go on ahead<line>
-and watch your situation...<end>
+Look at the Signs...<end>
 
 
 #ACTIVETBL(Table)
@@ -102,20 +105,20 @@ and watch your situation...<end>
  くっついて<red>『<red>水<red>中<red>ダ<red>ッ<red>シ<red>ュ<red>』で<line>
  おせるぞ! さあ 行くのじゃ!」<end>
 <startname><red>O<red>l<red>d <red>L<red>o<red>b<endname><line>
-Well alright alright you've gotten used to it already!<line>
- <button-dpad> Button on the Ground<line>
- to be able to walk<wait><scrollup><scrollup><scrollup><line>
- Have you seen the <circlestar> around here?<line>
+So yes, yes, you're already experienced!<line>
+ Above ground with the <button-dpad> Button<line>
+ you can walk!<wait><scrollup><scrollup><scrollup><line>
+ You've seen the <circlestar> around here no?<line>
   That is a <red>"<red>P<red>e<red>a<red>r<red>l<red>"!<wait><scrollup><scrollup><line>
 Collect 5 Pearls and<line>
- you will obviously restore one heart<wait><scrollup><scrollup><line>
-Well then climb the opposite Shore<line>
-then pass under the Door<wait><scrollup><scrollup><line>
-Look for <red>"<red>Ya<red>do<red>ka<red>ri<red>ta<red>", my Hermit Crab friend ya'know<line>
- Well It's best talk try to talk to him<wait><scrollup><scrollup><line>
+ it restores 1 energy<wait><scrollup><scrollup><line>
+Well then, face and climb the opposite Shore<line>
+then pass though under the Door<wait><scrollup><scrollup><line>
+So look for <red>"<red>Ya<red>do<red>ka<red>ri<red>ta<red>", ya'know, my Hermit Crab friend<line>
+ well it's best to try talking to him<wait><scrollup><scrollup><line>
 The floating <red>"<red>B<red>a<red>r<red>r<red>e<red>l<red>"<line>
  Cling to it with the<line>
- <red>"<red>U<red>n<red>d<red>e<red>r<red>w<red>a<red>t<red>e<red>r<red> <red>D<red>a<red>s<red>h<red>" and push it! Well then go!<end>
+ <red>"<red>U<red>n<red>d<red>e<red>r<red>w<red>a<red>t<red>e<red>r<red> <red>D<red>a<red>s<red>h<red>" and push it! Well then, go!<end>
 
 //POINTER #2 @ $231044 - STRING #2 @ $217122
 
